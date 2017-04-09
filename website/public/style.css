@@ -1,0 +1,220 @@
+html {
+  background-color: #859900;
+  color: #002b36;
+  font-family: sans-serif;
+}
+
+main {
+  max-width: 50rem;
+  margin: 0 auto;
+}
+
+header,
+section,
+.accomplishments li {
+  background-color: white;
+  padding: 1rem;
+  border: 1px solid #657b83;
+  border-radius: 5px;
+  margin-bottom: 1rem;
+}
+
+a,
+a:visited,
+a:hover,
+a:visited:hover {
+  color: #859900;
+  font-style: italic;
+  text-decoration: none;
+}
+
+
+/* PROFILE *
+ * ======= */
+
+.profile {
+  position: relative;
+  padding-right: calc(50% + 1rem);
+}
+
+.profile h1 {
+  text-align: right;
+}
+
+.profile p {
+  text-align: justify;
+}
+
+.profile figure {
+  position: absolute;
+  top: 0;
+  right: 0;
+  width: 400px;
+  max-width: 50%;
+  height: 100%;
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+  background-color: #002b36;
+  line-height: 0;
+}
+
+.profile figure img {
+  max-width: 100%;
+  object-fit: cover;
+}
+
+@media screen and (max-width: 34rem) {
+  .profile {
+    padding: 1rem;
+  }
+
+  .profile figure {
+    display: block;
+    position: relative;
+    width: calc(100% + 2rem);
+    max-width: none;
+    height: 20rem;
+    border-bottom: 1px solid #657b83;
+    margin-top: -1rem;
+    margin-left: -1rem;
+  }
+}
+
+
+/* ACCOMPLISHMENTS *
+ * =============== */
+
+.accomplishments {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  list-style: none;
+  padding: 0;
+  margin-bottom: 0;
+}
+
+.accomplishments li {
+  width: 16rem;
+  padding: 0;
+}
+
+@media screen and (max-width: 50rem) {
+  .accomplishments li {
+    width: 22rem;
+  }
+}
+
+@media screen and (max-width: 46rem) {
+  .accomplishments li {
+    width: 20rem;
+  }
+}
+
+@media screen and (max-width: 42rem) {
+  .accomplishments li {
+    width: 18rem;
+  }
+}
+
+@media screen and (max-width: 38rem) {
+  .accomplishments li {
+    width: 16rem;
+  }
+}
+
+@media screen and (max-width: 34rem) {
+  .accomplishments li {
+    width: 100%;
+  }
+}
+
+.accomplishments li h2 {
+  background-color: #002b36;
+  color: white;
+  width: calc(100% - 2rem);
+  padding: 0.5rem 1rem;
+  margin: 0;
+  font-size: 1rem;
+}
+
+.accomplishments li p {
+  width: calc(100% - 2rem);
+  padding: 0.5rem 1rem;
+  margin: 0;
+  text-align: center;
+}
+
+
+/* COLLABORATION PATHS *
+ * =================== */
+
+.erdos h2,
+.bacon h2,
+.sabbath h2 {
+  text-align: center;
+  margin: 0;
+}
+
+.collaboration-path {
+  display: table;
+  width: 100%;
+  list-style: none;
+  padding: 0;
+  margin-top: 1rem;
+}
+
+.collaboration-path:not(:last-child) {
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #657b83;
+}
+
+.collaboration-path li {
+  display: table-row;
+}
+
+.collaboration-path li .collaborator,
+.collaboration-path li .collaboration {
+  display: table-cell;
+  vertical-align: middle;
+  padding: 0.5rem;
+}
+
+.collaboration-path li .collaborator {
+  width: 20%;
+}
+
+.collaboration-path li .collaborator .role {
+  color: #657b83;
+  font-style: italic;
+  font-size: smaller;
+}
+
+.collaboration-path li .collaboration {
+  width: 60%;
+}
+
+.collaboration-path li div span {
+  display: block;
+}
+
+@media screen and (max-width: 34em) {
+  .collaboration-path,
+  .collaboration-path li,
+  .collaboration-path li .collaborator,
+  .collaboration-path li .collaboration {
+    display: block;
+    width: 100%;
+  }
+
+  .collaboration-path li .collaborator,
+  .collaboration-path li .collaboration {
+    padding: 0;
+    margin-bottom: 0.5rem;
+  }
+
+  .collaboration-path li .collaborator .role,
+  .collaboration-path li:not(:last-child) .collaborator:last-child {
+    display: none;
+  }
+}

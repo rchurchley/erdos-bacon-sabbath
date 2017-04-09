@@ -1,1 +1,26 @@
-<h1>{{person.name}}</h1>
+<main>
+  <header class="profile">
+    <figure><img src="/images/{{url_name}}/640x360.jpg" alt={{person.name}} width="640" height="360"></figure>
+    <h1 class="name">{{person.name}}</h1>
+    <p class="bio">{{{person.bio}}}</p>
+  </header>
+  <ul class="accomplishments">
+    {{#each person.fields}}{{> field}}{{/each}}
+  </ul>
+  {{#if person.erdos}}
+  <section class="erdos">
+    <h2>Paths from {{person.name}} to Paul Erdős</h2>
+    {{#each person.erdos}} {{> collaboration_path}} {{/each}}
+  </section>
+  {{/if}} {{#if person.bacon}}
+  <section class="bacon">
+    <h2>Paths from {{person.name}} to Kevin Bacon</h2>
+    {{#each person.bacon}} {{> collaboration_path}} {{/each}}
+  </section>
+  {{/if}} {{#if person.sabbath}}
+  <section class="sabbath">
+    <h2>Paths from {{person.name}} to Black Sabbath</h2>
+    {{#each person.sabbath}} {{> collaboration_path}} {{/each}}
+  </section>
+  {{/if}}
+</main>

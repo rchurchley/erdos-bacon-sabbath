@@ -1,0 +1,19 @@
+<ul class="collaboration-path">
+  {{#each this}}
+  <li>
+    <div class="collaborator">
+      <span class="name">{{name}}</span>
+      <span class="role">{{role}}</span>
+    </div>
+    <div class="collaboration">
+      <a href="{{source}}">
+        {{{title}}}
+      </a>
+    </div>
+    <div class="collaborator">
+      <span class="name">{{collaborator}}</span>
+      <span class="role">{{collaborator_role}}</span>
+    </div>
+  </li>
+  {{/each}}
+</ul>

@@ -37,7 +37,8 @@ app.get('/:person/', function (req, res) {
     if (err) {
       res.status(404).sendFile('404.html', { root: path.join(__dirname, 'public') });
     } else {
-      res.render('profile', { person: JSON.parse(data) });
+      person = JSON.parse(data)
+      res.render('profile', { person: person, title: person['name'], url_name: req.params['person'] });
     }
   });
 });
