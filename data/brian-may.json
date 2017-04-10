@@ -1,0 +1,164 @@
+{
+  "name": "Brian May",
+  "reference": {
+    "source": "Wikipedia",
+    "url": "http://en.wikipedia.org/wiki/Brian_May"
+  },
+  "fields": [
+    {
+      "field": "music",
+      "role": "guitarist, Queen"
+    },
+    {
+      "field": "science",
+      "role": "astrophysicist"
+    },
+    {
+      "field": "film",
+      "role": "singing roles, <i>The Adventures of Pinocchio</i>"
+    }
+  ],
+  "bio": "Brian May is most famous as the lead guitarist for the British rock band <a href='http://en.wikipedia.org/wiki/Queen_(band)'>Queen</a>. Before he became a rock star, he was a Ph.D. student in astrophysics; he published two papers before putting his academic career on hold. In the 2000s, May went back to Imperial College London and finally completed his degree.",
+  "erdos": [
+    [
+      {
+        "name": "Brian May",
+        "role": "author",
+        "title": "Bang! The Complete History of the Universe",
+        "source": "http://www.banguniverse.com/",
+        "collaborator": "Chris Lintott",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Chris Lintott",
+        "role": "author",
+        "title": "Galaxy Zoo 1: data release of morphological classifications for nearly 900 000 galaxies",
+        "source": "http://dx.doi.org/10.1111/j.1365-2966.2010.17432.x",
+        "collaborator": "Robert C. Nichol",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Robert C. Nichol",
+        "role": "author",
+        "title": "The galaxy luminosity function and luminosity density at redshift <i>z=0.1</i>",
+        "source": "http://dx.doi.org/10.1086/375776",
+        "collaborator": "Max Tegmark",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Max Tegmark",
+        "role": "author",
+        "title": "An elementary proof that the biharmonic Green function of an eccentric ellipse changes sign",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=1267051",
+        "collaborator": "Harold S. Shapiro",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Harold S. Shapiro",
+        "role": "author",
+        "title": "Large and small subspaces of Hilbert space",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=178349",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ],
+    [
+      {
+        "name": "Brian May",
+        "role": "author",
+        "title": "MgI emission in the night sky spectrum",
+        "source": "http://www.nature.com/nature/journal/v240/n5381/pdf/240401a0.pdf",
+        "collaborator": "T.R. Hicks",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "T.R. Hicks",
+        "role": "author",
+        "title": "The structure of NGC 7027",
+        "source": "http://adsabs.harvard.edu/full/1979ApJ...232..786A",
+        "collaborator": "J.P. Phillips",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "J.P. Phillips",
+        "role": "author",
+        "title": "QCD: quantum chromodynamic diffraction",
+        "source": "http://www.iop.org/EJ/abstract/0954-3899/22/6/026",
+        "collaborator": "K. Golec-Biernat",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "K. Golec-Biernat",
+        "role": "author",
+        "title": "Integrable Hamiltonian system in <i>2N</i> dimensions",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=1116388",
+        "collaborator": "Th.W. Ruijgrok",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Th.W. Ruijgrok",
+        "role": "author",
+        "title": "On the dynamics of a continuum spin system",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=449262",
+        "collaborator": "C.J. Thompson",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "C.J. Thompson",
+        "role": "author",
+        "title": "On the mathematical mechanism of phase transition",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=197136",
+        "collaborator": "Mark Kac",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Mark Kac",
+        "role": "author",
+        "title": "The Gaussian law of errors in the theory of additive number theoretic functions",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=2374",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Brian May",
+        "role": "Chamberlain, et al.",
+        "title": "The Adventures of Pinocchio",
+        "source": "http://www.imdb.com/title/tt0115472/",
+        "collaborator": "Martin Landau",
+        "collaborator_role": "Geppetto"
+      },
+      {
+        "name": "Martin Landau",
+        "role": "Bela Lugosi",
+        "title": "Ed Wood",
+        "source": "http://www.imdb.com/title/tt0109707/",
+        "collaborator": "Bill Murray",
+        "collaborator_role": "Bunny Breckinridge"
+      },
+      {
+        "name": "Bill Murray",
+        "role": "Ken Bowden",
+        "title": "Wild Things",
+        "source": "http://www.imdb.com/title/tt0120890/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Ray Duquette"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Brian May",
+        "role": "guitarist",
+        "title": "When Death Calls",
+        "source": "http://en.wikipedia.org/wiki/Headless_Cross",
+        "collaborator": "Black Sabbath",
+        "collaborator_role": "band"
+      }
+    ]
+  ]
+}
