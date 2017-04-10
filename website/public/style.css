@@ -1,16 +1,26 @@
 html {
   background-color: #859900;
   color: #002b36;
-  font-family: sans-serif;
+  font-family: "Roboto", sans-serif;
+  line-height: 1.4;
 }
 
-main {
+h1,
+h2,
+h3 {
+  font-family: "Roboto Slab", sans-serif;
+  font-weight: normal;
+}
+
+main,
+.introduction {
   max-width: 50rem;
   margin: 0 auto;
 }
 
 header,
 section,
+.the-list li,
 .accomplishments li {
   background-color: white;
   padding: 1rem;
@@ -26,6 +36,54 @@ a:visited:hover {
   color: #859900;
   font-style: italic;
   text-decoration: none;
+}
+
+
+/* INTRODUCTION *
+ * ============ */
+
+.introduction h1 {
+  margin: 0;
+  font-style: normal;
+  color: #002b36;
+}
+
+.introduction h2 {
+  color: #657b83;
+  margin: 0;
+}
+
+
+/* THE LIST *
+ * ======== */
+
+.the-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  list-style: none;
+  padding: 0;
+  margin-bottom: 0;
+}
+
+.the-list li {
+  background-color: #002b36;
+  padding: 0;
+  width: 150px;
+}
+
+.the-list li a,
+.the-list li a:visited,
+.the-list li a:hover,
+.the-list li a:visited:hover {
+  font-style: normal;
+  color: #fff;
+}
+
+.the-list li h2 {
+  padding: 0.5rem;
+  margin: 0;
+  font-size: 1rem;
 }
 
 
@@ -217,4 +275,22 @@ a:visited:hover {
   .collaboration-path li:not(:last-child) .collaborator:last-child {
     display: none;
   }
+}
+
+
+/* FOOTER *
+ * ====== */
+
+footer {
+  text-align: center;
+  margin: 2rem 0;
+  font-size: small;
+}
+
+footer a,
+footer a:visited,
+footer a:hover,
+footer a:visited:hover {
+  font-style: normal;
+  color: #002b36;
 }

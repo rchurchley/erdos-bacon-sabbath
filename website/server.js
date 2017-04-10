@@ -31,6 +31,26 @@ app.use('/api', express.static(path.join(__dirname, '..', 'data'), { dotfiles: '
 
 app.use('/images', express.static(path.join(__dirname, '..', 'images'), { dotfiles: 'ignore', etag: false, extensions: ['jpeg', 'jpg'] }));
 
+app.get('/', function (req, res) {
+  var people = []
+  fs.readdir(path.join(__dirname, '..', 'data'), function (err, items) {
+    for (var i = 0; i < items.length; i++) {
+      if (items[i].endsWith('.json')) {
+        people.push(
+          {
+            url_name: items[i].substring(0, items[i].length - 5),
+            name: items[i]
+              .substring(0, items[i].length - 5)
+              .replace('-', ' ')
+              .replace(/\w\S*/g, function (txt) { return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase(); })
+          }
+        );
+      }
+    }
+  });
+  res.render('the_list', { people: people, title: 'Home' });
+});
+
 app.get('/:person/', function (req, res) {
   var api_path = path.join(__dirname, '..', 'data', req.params['person'] + '.json');
   fs.readFile(api_path, 'utf8', function (err, data) {
