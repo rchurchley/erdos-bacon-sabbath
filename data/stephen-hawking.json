@@ -1,0 +1,98 @@
+{
+  "name": "Stephen Hawking",
+  "reference": {
+    "source": "Wikipedia",
+    "url": "http://en.wikipedia.org/wiki/Stephen_Hawking"
+  },
+  "fields": [
+    {
+      "field": "science",
+      "role": "physicist"
+    },
+    {
+      "field": "film & TV",
+      "role": "many cameo roles"
+    },
+    {
+      "field": "music",
+      "role": "sampled by Pink Floyd"
+    }
+  ],
+  "bio": "Stephen Hawking is a theoretical physicist best known for his work on black holes. After writing the best-selling popular science book <a href='http://en.wikipedia.org/wiki/A_Brief_History_of_Time'>A Brief History of Time</a> in 1988, Hawking became a household name. There is an <a href='http://en.wikipedia.org/wiki/Stephen_Hawking_in_popular_culture'>entire Wikipedia page</a> dedicated to his appearances in popular culture, which include guest roles on The Simpsons and Star Trek: The Next Generation.",
+  "erdos": [
+    [
+      {
+        "name": "Stephen Hawking",
+        "role": "author",
+        "title": "Origin of time asymmetry",
+        "source": "http://dx.doi.org/10.1103%2fPhysRevD.47.5342",
+        "collaborator": "Raymond Laflamme",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Raymond Laflamme",
+        "role": "author",
+        "title": "Compiling gate networks on an Ising quantum computer",
+        "source": "http://dx.doi.org/10.1103%2fPhysRevA.72.032315",
+        "collaborator": "Emanuel Knill",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Emanuel Knill",
+        "role": "author",
+        "title": "Minimal residual method stronger than polynomial preconditioning",
+        "source": "http://dx.doi.org/10.1137%2fS0895479895286748",
+        "collaborator": "Vance Faber",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Vance Faber",
+        "role": "author",
+        "title": "Sets of natural numbers of positive density and cylindric set algebras of dimension 2",
+        "source": "http://dx.doi.org/10.1007%2fBF02483866",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Stephen Hawking",
+        "role": "host",
+        "title": "Masters of Science Fiction",
+        "source": "http://www.imdb.com/title/tt0772139/",
+        "collaborator": "Sean Astin",
+        "collaborator_role": "Charlie Kramer"
+      },
+      {
+        "name": "Sean Astin",
+        "role": "Alan",
+        "title": "White Water Summer",
+        "source": "http://www.imdb.com/title/tt0094318/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Vic"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Stephen Hawking",
+        "role": "vocal sample",
+        "title": "Keep Talking — Pink Floyd",
+        "source": "http://en.wikipedia.org/wiki/Keep_Talking",
+        "collaborator": "David Gilmour",
+        "collaborator_role": "vocals, guitar, talk box"
+      },
+      {
+        "name": "David Gilmour",
+        "role": "vocals",
+        "title": "Smoke on the Water — Rock Aid Armenia",
+        "source": "http://en.wikipedia.org/wiki/Rock_Aid_Armenia",
+        "collaborator": "Tony Iommi",
+        "collaborator_role": "vocals"
+      }
+    ]
+  ]
+}
