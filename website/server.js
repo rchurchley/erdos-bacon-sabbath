@@ -1,6 +1,7 @@
 // Built-in modules
 var fs = require('fs');
 var path = require('path');
+var request = require('request');
 
 // Ensure the working directory is the same as the script directory
 process.chdir(__dirname);
@@ -33,22 +34,24 @@ app.use('/images', express.static(path.join(__dirname, '..', 'images'), { dotfil
 
 app.get('/', function (req, res) {
   var people = []
-  fs.readdir(path.join(__dirname, '..', 'data'), function (err, items) {
-    for (var i = 0; i < items.length; i++) {
-      if (items[i].endsWith('.json')) {
-        people.push(
-          {
-            url_name: items[i].substring(0, items[i].length - 5),
-            name: items[i]
-              .substring(0, items[i].length - 5)
-              .replace('-', ' ')
-              .replace(/\w\S*/g, function (txt) { return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase(); })
-          }
-        );
-      }
-    }
-  });
-  res.render('the_list', { people: people, title: 'Home' });
+  request({ url: "https://api.github.com/repos/rchurchley/erdos-bacon-sabbath/contents/data", headers: { 'User-Agent': "erdosbaconsabbath-bot" } },
+    function (error, response, body) {
+      items = JSON.parse(body);
+      for (var i = 0; i < items.length; i++) {
+        if (items[i]['name'].endsWith('.json')) {
+          people.push(
+            {
+              url_name: items[i]['name'].substring(0, items[i]['name'].length - 5),
+              name: items[i]['name']
+                .substring(0, items[i]['name'].length - 5)
+                .replace('-', ' ')
+                .replace(/\w\S*/g, function (txt) { return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase(); })
+            }
+          );
+        }
+      };
+      res.render('the_list', { people: people, title: 'Home' });
+    });
 });
 
 app.get('/:person/', function (req, res) {
