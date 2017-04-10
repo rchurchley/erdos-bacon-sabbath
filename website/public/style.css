@@ -14,8 +14,9 @@ h3 {
 
 main,
 .introduction {
+  box-sizing: border-box;
   max-width: 50rem;
-  margin: 0 auto;
+  margin: 0 auto 1rem;
 }
 
 header,
