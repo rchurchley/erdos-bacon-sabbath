@@ -78,28 +78,36 @@
   "sabbath": [
     [
       {
-        "name": "Natalie Portman",
-        "role": "vocals",
-        "title": "Natalie’s Rap",
-        "source": "http://en.wikipedia.org/wiki/Incredibad",
-        "collaborator": "The Lonely Island",
-        "collaborator_role": "additional vocals"
+        "name": "Richard Feynman",
+        "role": "bongo drums",
+        "title": "Back Tuva Future (The Adventure Continues)",
+        "source": "https://www.discogs.com/Ondar-Back-Tuva-Future-The-Adventure-Continues/release/4989673",
+        "collaborator": "Kongar-ol Ondar",
+        "collaborator_role": "Tuvan throat singing"
       },
       {
-        "name": "The Lonely Island",
-        "role": "band",
-        "title": "Sax Man",
-        "source": "http://en.wikipedia.org/wiki/Incredibad",
-        "collaborator": "Jack Black",
+        "name": "Kongar-ol Ondar",
+        "role": "Tuvan throat singing",
+        "title": "Genghis Blues: Music from the Motion Picture",
+        "source": "http://en.wikipedia.org/wiki/Genghis_Blues",
+        "collaborator": "Paul Pena",
+        "collaborator_role": "Tuvan throat singing"
+      },
+      {
+        "name": "Paul Pena",
+        "role": "bass",
+        "title": "Bonnie Raitt",
+        "source": "http://en.wikipedia.org/wiki/Bonnie_Raitt_(album)",
+        "collaborator": "Bonnie Raitt",
+        "collaborator_role": "guitar, vocals"
+      },
+      {
+        "name": "Bonnie Raitt",
+        "role": "vocals",
+        "title": "It's Only Rock 'n Roll (But I Like It) — Artists for Children's Promise",
+        "source": "http://en.wikipedia.org/wiki/It's_Only_Rock_'n_Roll_(But_I_Like_It)",
+        "collaborator": "Ozzy Osbourne",
         "collaborator_role": "vocals"
-      },
-      {
-        "name": "Jack Black",
-        "role": "vocals",
-        "title": "Kickapoo",
-        "source": "http://en.wikipedia.org/wiki/The_Pick_of_Destiny",
-        "collaborator": "Ronnie James Dio",
-        "collaborator_role": "additional vocals"
       }
     ]
   ]
