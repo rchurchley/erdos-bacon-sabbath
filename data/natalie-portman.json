@@ -1,0 +1,114 @@
+{
+  "name": "Natalie Portman",
+  "reference": {
+    "source": "Wikipedia",
+    "url": "http://en.wikipedia.org/wiki/Natalie_Portman"
+  },
+  "fields": [
+    {
+      "field": "film",
+      "role": "<i>Star Wars</i> prequels, <i>Black Swan</i>"
+    },
+    {
+      "field": "music",
+      "role": "rapper on <i>SNL</i>"
+    },
+    {
+      "field": "science",
+      "role": "undergraduate, psychology"
+    }
+  ],
+  "bio": "Natalie Portman is an Academy-award winning actress. Her first box-office success came as a teenager when she played Padmé Amidala in the Star Wars prequel trilogy. Later, she went on to complete a degree in psychology at Harvard, record a rap on Saturday Night Live, and win an Oscar from her performance in Black Swan.",
+  "erdos": [
+    [
+      {
+        "name": "Natalie Hershlag",
+        "role": "author",
+        "title": "Frontal Lobe Activation during Object Permanence: Data from Near-Infrared Spectroscopy",
+        "source": "http://dx.doi.org/10.1006/nimg.2002.1170",
+        "collaborator": "Abigail A. Baird",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Abigail A. Baird",
+        "role": "author",
+        "title": "Functional Connectivity: Integrating Behavioral, Diffusion Tensor Imaging, and Functional Magnetic Resonance Imaging Data Sets",
+        "source": "http://www.mitpressjournals.org/doi/abs/10.1162/0898929053467569",
+        "collaborator": "Michael S. Gazzaniga",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Michael S. Gazzaniga",
+        "role": "author",
+        "title": "Acquired central dyschromatopsia: analysis of a case with preservation of color discrimination",
+        "source": "http://scholar.google.ca/scholar?cluster=8944004917407616776",
+        "collaborator": "J. D. Victor",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "J. D. Victor",
+        "role": "author",
+        "title": "Combinatorial Applications of Hermite Polynomials",
+        "source": "http://dx.doi.org/10.1137/0513062",
+        "collaborator": "Joseph Gillis",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Joseph Gillis",
+        "role": "author",
+        "title": "Note on the Transfinite Diameter",
+        "source": "http://dx.doi.org/10.1112/jlms/s1-12.2.185",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Natalie Portman",
+        "role": "Rifka",
+        "title": "New York I Love You",
+        "source": "http://www.imdb.com/title/tt0808399/",
+        "collaborator": "Eli Wallach",
+        "collaborator_role": "Abe"
+      },
+      {
+        "name": "Eli Wallach",
+        "role": "Mr. Loonie (Liquor Store Owner)",
+        "title": "Mystic River",
+        "source": "http://www.imdb.com/title/tt0327056/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Sean Devine"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Natalie Portman",
+        "role": "vocals",
+        "title": "Natalie’s Rap — The Lonely Island",
+        "source": "http://en.wikipedia.org/wiki/Incredibad",
+        "collaborator": "The Lonely Island",
+        "collaborator_role": "band"
+      },
+      {
+        "name": "The Lonely Island",
+        "role": "band",
+        "title": "Sax Man — The Lonely Island",
+        "source": "http://en.wikipedia.org/wiki/Incredibad",
+        "collaborator": "Jack Black",
+        "collaborator_role": "vocals"
+      },
+      {
+        "name": "Jack Black",
+        "role": "vocals",
+        "title": "Kickapoo — Tenacious D",
+        "source": "http://en.wikipedia.org/wiki/The_Pick_of_Destiny",
+        "collaborator": "Ronnie James Dio",
+        "collaborator_role": "additional vocals"
+      }
+    ]
+  ]
+}
