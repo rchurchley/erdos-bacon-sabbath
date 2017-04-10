@@ -1,0 +1,106 @@
+{
+  "name": "Richard Feynman",
+  "reference": {
+    "source": "Wikipedia",
+    "url": "http://en.wikipedia.org/wiki/Richard_Feynman"
+  },
+  "fields": [
+    {
+      "field": "scientist",
+      "role": "physicist"
+    },
+    {
+      "field": "music",
+      "role": "bongo drummer"
+    },
+    {
+      "field": "film",
+      "role": "small dramatic role, <i>Anti-Clock</i>"
+    }
+  ],
+  "bio": "Richard Feynman was an American physicist famous for his work on quantum electrodynamics and his introduction of diagrams to understand the computations governing quantum interactions. His popular and entertaining autobiography depicts a playful and quirky personality who dabbled in safecracking, art, and samba music.",
+  "erdos": [
+    [
+      {
+        "name": "Richard Feynman",
+        "role": "author",
+        "title": "Equations of state of elements based on the generalized Fermi-Thomas theory",
+        "source": "http://authors.library.caltech.edu/3519/",
+        "collaborator": "Nicholas Metropolis",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Nicholas Metropolis",
+        "role": "author",
+        "title": "The Monte Carlo method",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=31341",
+        "collaborator": "Stanisław Ulam",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Stanisław Ulam",
+        "role": "author",
+        "title": "On equations with sets as unknowns",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=234838",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Richard Feynman",
+        "role": "The Physicist",
+        "title": "Anti-Clock",
+        "source": "http://www.imdb.com/title/tt0166996/",
+        "collaborator": "Tony Tang",
+        "collaborator_role": "n/a"
+      },
+      {
+        "name": "Tony Tang",
+        "role": "Patrick",
+        "title": "Snatch",
+        "source": "http://www.imdb.com/title/tt0208092/",
+        "collaborator": "Brad Pitt",
+        "collaborator_role": "Mickey O'Neil"
+      },
+      {
+        "name": "Brad Pitt",
+        "role": "Michael",
+        "title": "Sleepers",
+        "source": "http://www.imdb.com/title/tt0117665/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Nokes"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Natalie Portman",
+        "role": "vocals",
+        "title": "Natalie’s Rap",
+        "source": "http://en.wikipedia.org/wiki/Incredibad",
+        "collaborator": "The Lonely Island",
+        "collaborator_role": "additional vocals"
+      },
+      {
+        "name": "The Lonely Island",
+        "role": "band",
+        "title": "Sax Man",
+        "source": "http://en.wikipedia.org/wiki/Incredibad",
+        "collaborator": "Jack Black",
+        "collaborator_role": "vocals"
+      },
+      {
+        "name": "Jack Black",
+        "role": "vocals",
+        "title": "Kickapoo",
+        "source": "http://en.wikipedia.org/wiki/The_Pick_of_Destiny",
+        "collaborator": "Ronnie James Dio",
+        "collaborator_role": "additional vocals"
+      }
+    ]
+  ]
+}
