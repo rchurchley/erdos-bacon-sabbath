@@ -1,0 +1,106 @@
+{
+  "name": "Tom Lehrer",
+  "reference": {
+    "source": "Wikipedia",
+    "url": "http://en.wikipedia.org/wiki/Tom_Lehrer"
+  },
+  "fields": [
+    {
+      "field": "math",
+      "role": "probability theory"
+    },
+    {
+      "field": "music",
+      "role": "pianist, musical satirist"
+    },
+    {
+      "field": "TV",
+      "role": "<i>That Was the Week That Was</i>"
+    }
+  ],
+  "bio": "Tom Lehrer is a singer-songwriter, satirist, pianist, and mathematician. He has lectured on mathematics and musical theater. He is best known for the pithy, humorous songs he recorded in the 1950s and 1960s.",
+  "erdos": [
+    [
+      {
+        "name": "Tom Lehrer",
+        "role": "author",
+        "title": "The distribution of the number of locally maximal elements in a random sample",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=91251",
+        "collaborator": "W.F. Penny",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "W.F. Penny",
+        "role": "author",
+        "title": "The number of components in random linear graphs",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=115939",
+        "collaborator": "John Riordan",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "John Riordan",
+        "role": "author",
+        "title": "The solution of a certain recurrence",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=227029",
+        "collaborator": "Ronald Graham",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Ronald Graham",
+        "role": "author",
+        "title": "On sums of Fibonnaci numbers",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=306101",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Tom Lehrer",
+        "role": "himself",
+        "title": "The Frost Report",
+        "source": "http://www.imdb.com/title/tt0059985/",
+        "collaborator": "John Cleese",
+        "collaborator_role": "various roles"
+      },
+      {
+        "name": "John Cleese",
+        "role": "bartender",
+        "title": "The Big Picture",
+        "source": "http://www.imdb.com/title/tt0096926/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Nick Chapman"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Tom Lehrer",
+        "role": "piano, vocals",
+        "title": "Silent E (from The Electric Company)",
+        "source": "http://en.wikipedia.org/wiki/Revisited_(Tom_Lehrer_album)",
+        "collaborator": "Joe Raposo",
+        "collaborator_role": "production"
+      },
+      {
+        "name": "Joe Raposo",
+        "role": "lyrics",
+        "title": "The First Time It Happens (from The Great Muppet Caper)",
+        "source": "http://muppet.wikia.com/wiki/The_First_Time_It_Happens",
+        "collaborator": "Frank Oz (as Miss Piggy)",
+        "collaborator_role": "vocals"
+      },
+      {
+        "name": "Frank Oz (as Miss Piggy)",
+        "role": "additional vocals",
+        "title": "Born to be Wild",
+        "source": "http://muppet.wikia.com/wiki/Kermit_Unpigged",
+        "collaborator": "Ozzy Osbourne",
+        "collaborator_role": "vocals"
+      }
+    ]
+  ]
+}
