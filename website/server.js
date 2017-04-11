@@ -36,21 +36,26 @@ app.get('/', function (req, res) {
   var people = []
   request({ url: "https://api.github.com/repos/rchurchley/erdos-bacon-sabbath/contents/data", headers: { 'User-Agent': "erdosbaconsabbath-bot" } },
     function (error, response, body) {
-      items = JSON.parse(body);
-      for (var i = 0; i < items.length; i++) {
-        if (items[i]['name'].endsWith('.json')) {
-          people.push(
-            {
-              url_name: items[i]['name'].substring(0, items[i]['name'].length - 5),
-              name: items[i]['name']
-                .substring(0, items[i]['name'].length - 5)
-                .replace('-', ' ')
-                .replace(/\w\S*/g, function (txt) { return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase(); })
-            }
-          );
-        }
-      };
-      res.render('the_list', { people: people, title: 'Home' });
+      if (error) {
+        console.error(error);
+      } else {
+        items = JSON.parse(body);
+        console.log("Successfully retrieved " + items.length + " items from GitHub.");
+        for (var i = 0; i < items.length; i++) {
+          if (items[i]['name'].endsWith('.json')) {
+            people.push(
+              {
+                url_name: items[i]['name'].substring(0, items[i]['name'].length - 5),
+                name: items[i]['name']
+                  .substring(0, items[i]['name'].length - 5)
+                  .replace('-', ' ')
+                  .replace(/\w\S*/g, function (txt) { return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase(); })
+              }
+            );
+          }
+        };
+        res.render('the_list', { people: people, title: 'Home' });
+      }
     });
 });
 
