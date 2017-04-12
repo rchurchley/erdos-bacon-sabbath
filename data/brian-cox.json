@@ -1,0 +1,130 @@
+{
+  "name": "Brian Cox",
+  "reference": {
+    "source": "Wikipedia",
+    "url": "http://en.wikipedia.org/wiki/Brian_Cox_(physicist)"
+  },
+  "fields": [
+    {
+      "field": "science",
+      "role": "physicist"
+    },
+    {
+      "field": "music",
+      "role": "keyboardist, D:Ream"
+    },
+    {
+      "field": "TV",
+      "role": "BBC presenter"
+    }
+  ],
+  "bio": "Brian Cox is an English physicist and musician. He works on the ATLAS experiment at the Large Hadron Collider at CERN, presents a number of science programs for the BBC, and is the keyboardist for the pop band D:Ream.",
+  "erdos": [
+    [
+      {
+        "name": "Brian Cox",
+        "role": "author",
+        "title": "Hard colour singlet exchange at the Tevatron",
+        "source": "http://iopscience.iop.org/1126-6708/1999/10/023",
+        "collaborator": "Leif Lönnblad",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Leif Lönnblad",
+        "role": "author",
+        "title": "Small-<i>x</i> dipole evolution beyond the large-N<sub>c</sub> limit",
+        "source": "http://iopscience.iop.org/1126-6708/2007/01/012",
+        "collaborator": "Gösta Gustafson",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Gösta Gustafson",
+        "role": "author",
+        "title": "The action-angle variables for the massless relativistic string in <i>1+1</i> dimensions",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=776134",
+        "collaborator": "Bo Söderberg",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Bo Söderberg",
+        "role": "author",
+        "title": "Scaling laws for mode lockings in circle maps",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=819686",
+        "collaborator": "Boris Shraiman",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Boris Shraiman",
+        "role": "author",
+        "title": "Scaling theory for noisy period-doubling transitions to chaos",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=609858",
+        "collaborator": "C. Eugene Wayne",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "C. Eugene Wayne",
+        "role": "author",
+        "title": "The Euler-Bernoulli beam equation with boundary energy dissipation",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=920570",
+        "collaborator": "Steven George Krantz",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Steven George Krantz",
+        "role": "author",
+        "title": "Intersection graphs for families of balls in <b>R</b><sup>n</sup>",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=957190",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Brian Cox",
+        "role": "presenter",
+        "title": "Stargazing Live",
+        "source": "http://en.wikipedia.org/wiki/Stargazing_Live",
+        "collaborator": "Jonathan Ross",
+        "collaborator_role": "himself"
+      },
+      {
+        "name": "Jonathan Ross",
+        "role": "himself",
+        "title": "Valiant",
+        "source": "http://www.imdb.com/title/tt0361089/",
+        "collaborator": "John Hurt",
+        "collaborator_role": "Felix"
+      },
+      {
+        "name": "John Hurt",
+        "role": "Kingsley Bedford",
+        "title": "Jayne Mansfield’s Car",
+        "source": "http://www.imdb.com/title/tt1781840/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Carroll Caldwell"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Brian Cox",
+        "role": "keyboards",
+        "title": "Out of the Silence — Dare",
+        "source": "http://www.discogs.com/Dare-Out-Of-The-Silence/release/800026",
+        "collaborator": "Vinny Burns",
+        "collaborator_role": "guitar"
+      },
+      {
+        "name": "Vinny Burns",
+        "role": "guitar",
+        "title": "Babylon — Ten",
+        "source": "http://www.discogs.com/Ten-Babylon/release/2362373",
+        "collaborator": "Don Airey",
+        "collaborator_role": "keyboards"
+      }
+    ]
+  ]
+}
