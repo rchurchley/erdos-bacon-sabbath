@@ -36,6 +36,7 @@ app.use('/api', express.static(path.join(__dirname, '..', 'data'), { dotfiles: '
 app.use('/images', express.static(path.join(__dirname, '..', 'images'), { dotfiles: 'ignore', etag: false, extensions: ['jpeg', 'jpg'] }));
 
 app.get('/', function (req, res) {
+  shuffle(the_list);
   res.render('the_list', { people: the_list, title: 'Home' });
 });
 
@@ -106,4 +107,18 @@ function personObjectFromFilename(filename) {
 function getProperNameFromKebab(kebabCaseName) {
   return kebabCaseName.replace('-', ' ')
     .replace(/\w\S*/g, function (txt) { return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase(); })
+}
+
+/**
+ * Randomize array in-place using Durstenfeld's shuffle algorithm.
+ * See: http://stackoverflow.com/a/12646864
+ */
+function shuffle(array) {
+  for (var i = array.length - 1; i > 0; i--) {
+    var j = Math.floor(Math.random() * (i + 1));
+    var temp = array[i];
+    array[i] = array[j];
+    array[j] = temp;
+  }
+  return array;
 }
