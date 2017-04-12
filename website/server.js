@@ -6,6 +6,9 @@ var request = require('request');
 // Ensure the working directory is the same as the script directory
 process.chdir(__dirname);
 
+// Populate list of featured people
+var the_list = []
+get_the_list();
 
 /* SETUP *
  * ===== */
@@ -33,30 +36,7 @@ app.use('/api', express.static(path.join(__dirname, '..', 'data'), { dotfiles: '
 app.use('/images', express.static(path.join(__dirname, '..', 'images'), { dotfiles: 'ignore', etag: false, extensions: ['jpeg', 'jpg'] }));
 
 app.get('/', function (req, res) {
-  var people = []
-  request({ url: "https://api.github.com/repos/rchurchley/erdos-bacon-sabbath/contents/data", headers: { 'User-Agent': "erdosbaconsabbath-bot" } },
-    function (error, response, body) {
-      if (error) {
-        console.error(error);
-      } else {
-        items = JSON.parse(body);
-        console.log("Successfully retrieved " + items.length + " items from GitHub.");
-        for (var i = 0; i < items.length; i++) {
-          if (items[i]['name'].endsWith('.json')) {
-            people.push(
-              {
-                url_name: items[i]['name'].substring(0, items[i]['name'].length - 5),
-                name: items[i]['name']
-                  .substring(0, items[i]['name'].length - 5)
-                  .replace('-', ' ')
-                  .replace(/\w\S*/g, function (txt) { return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase(); })
-              }
-            );
-          }
-        };
-        res.render('the_list', { people: people, title: 'Home' });
-      }
-    });
+  res.render('the_list', { people: the_list, title: 'Home' });
 });
 
 app.get('/:person/', function (req, res) {
@@ -78,3 +58,52 @@ app.get('/:person/', function (req, res) {
 app.listen(app.get('port'), function () {
   console.log('Now listening on port ' + app.get('port') + "; press Ctrl+C to terminate.")
 })
+
+
+/* HELPER FUNCTIONS *
+ * ================ */
+
+function get_the_list() {
+  request(
+    {
+      url: "https://api.github.com/repos/rchurchley/erdos-bacon-sabbath/contents/data",
+      headers: { 'User-Agent': "erdosbaconsabbath-bot" }
+    },
+    function (error, response, body) {
+      if (error) {
+        console.error(error);
+        setTimeout(get_the_list, 5000); // retry after five seconds
+      } else {
+        the_list = peopleFromGithubResponse(JSON.parse(body));
+        console.log("Successfully retrieved " + the_list.length + " items from GitHub.");
+      }
+    }
+  );
+};
+
+function peopleFromGithubResponse(array) {
+  result = []
+  for (var i = 0; i < array.length; i++) {
+    filename = array[i]['name'];
+    person = personObjectFromFilename(filename);
+    if (person) {
+      result.push(person);
+    }
+  }
+  return result;
+}
+
+function personObjectFromFilename(filename) {
+  if (filename.endsWith('.json')) {
+    kebabCaseName = filename.substring(0, filename.length - 5);
+    return {
+      url_name: kebabCaseName,
+      name: getProperNameFromKebab(kebabCaseName)
+    }
+  }
+}
+
+function getProperNameFromKebab(kebabCaseName) {
+  return kebabCaseName.replace('-', ' ')
+    .replace(/\w\S*/g, function (txt) { return txt.charAt(0).toUpperCase() + txt.substr(1).toLowerCase(); })
+}
