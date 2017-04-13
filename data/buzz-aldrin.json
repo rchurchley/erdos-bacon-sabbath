@@ -1,0 +1,122 @@
+{
+  "name": "Buzz Aldrin",
+  "reference": {
+    "source": "Wikipedia",
+    "url": "http://en.wikipedia.org/wiki/Buzz_Aldrin"
+  },
+  "fields": [
+    {
+      "field": "science",
+      "role": "astronaut, engineer"
+    },
+    {
+      "field": "movies",
+      "role": "<i>Transformers</i> cameo"
+    },
+    {
+      "field": "music",
+      "role": "rap with Snoop Dogg"
+    }
+  ],
+  "bio": "Buzz Aldrin is an engineer and former American astronaut. He was the second person to walk on the Moon.",
+  "erdos": [
+    [
+      {
+        "name": "Buzz Aldrin",
+        "role": "author",
+        "title": "Cycler orbit between Earth and Mars",
+        "source": "http://adsabs.harvard.edu/abs/1993JSpRo..30..334B",
+        "collaborator": "James M. Longuski",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "James M. Longuski",
+        "role": "author",
+        "title": "Spin-axis stabilization of symmetric spacecraft with two control torques",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=1304470",
+        "collaborator": "Panagiotis Tsiotras",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Panagiotis Tsiotras",
+        "role": "author",
+        "title": "Inverse optimal stabilization of a rigid spacecraft",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=1690553",
+        "collaborator": "Miroslav Krstic",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Miroslav Krstic",
+        "role": "author",
+        "title": "Stabilization of stochastic nonlinear systems driven by noise of unknown covariance",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=1847327",
+        "collaborator": "Ruth J. Williams",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Ruth J. Williams",
+        "role": "author",
+        "title": "Introduction to stochastic integration",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=711774",
+        "collaborator": "Kai Lai Chung",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Kai Lai Chung",
+        "role": "author",
+        "title": "On the lower limit of sums of independent random variables",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=23010",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Buzz Aldrin",
+        "role": "Buzz Aldrin",
+        "title": "Transformers: Dark of the Moon",
+        "source": "http://www.imdb.com/title/tt1399103/",
+        "collaborator": "Glenn Morshower",
+        "collaborator_role": "General Morshower"
+      },
+      {
+        "name": "Glenn Morshower",
+        "role": "Colonel Hendry",
+        "title": "X-Men: First Class",
+        "source": "http://www.imdb.com/title/tt1270798/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Sebastian Shaw"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Buzz Aldrin",
+        "role": "vocals",
+        "title": "The Rocket Experience",
+        "source": "http://www.universetoday.com/33277/buzz-aldrin-raps-with-snoop-dog-about-apollo-11/",
+        "collaborator": "Snoop Dogg",
+        "collaborator_role": "production"
+      },
+      {
+        "name": "Snoop Dogg",
+        "role": "vocals",
+        "title": "Ya Don't Quit",
+        "source": "https://www.discogs.com/Snoop-Dogg-Me-And-My-Homies/release/3968967",
+        "collaborator": "Ice-T",
+        "collaborator_role": "vocals"
+      },
+      {
+        "name": "Ice-T",
+        "role": "additional vocals",
+        "title": "The Illusion of Power",
+        "source": "https://en.wikipedia.org/wiki/Forbidden_(album)",
+        "collaborator": "Black Sabbath",
+        "collaborator_role": "band"
+      }
+    ]
+  ]
+}
