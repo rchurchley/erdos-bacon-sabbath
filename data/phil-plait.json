@@ -1,0 +1,138 @@
+{
+  "name": "Phil Plait",
+  "reference": {
+    "source": "Wikipedia",
+    "url": "http://en.wikipedia.org/wiki/Phil_Plait"
+  },
+  "fields": [
+    {
+      "field": "science",
+      "role": "astronomer"
+    },
+    {
+      "field": "TV",
+      "role": "documentary host"
+    },
+    {
+      "field": "music",
+      "role": "theme song, <i>Bad Universe</i>"
+    }
+  ],
+  "bio": "Phil Plait is an astronomer, skeptic, and popular science blogger. He has written two books, Bad Astronomer and Death from the Skies, and presented several TV documentaries.",
+  "erdos": [
+    [
+      {
+        "name": "Phil Plait",
+        "role": "author",
+        "title": "Imaging and Spectroscopy of Arcs around the Most Luminous X-Ray Cluster, RX J1347.5–1145",
+        "source": "http://dx.doi.org/10.1086/311112",
+        "collaborator": "Henry C. Ferguson",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Henry C. Ferguson",
+        "role": "author",
+        "title": "Terrestrial Planet Finder Coronagraph (TPF-C) Flight Baseline Concept",
+        "source": "http://arxiv.org/abs/0911.3200",
+        "collaborator": "Robert J. Vanderbei",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Robert J. Vanderbei",
+        "role": "author",
+        "title": "The discrete Radon transform and its approximate inversion via linear programming",
+        "source": "http://dx.doi.org/10.1016/S0166-218X(96)00083-2",
+        "collaborator": "Peter Fishburn",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Peter Fishburn",
+        "role": "author",
+        "title": "Distinct distances in finite planar sets",
+        "source": "http://dx.doi.org/10.1016%2fS0012-365X(96)00145-8",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Phil Plait",
+        "role": "himself",
+        "title": "Known Universe",
+        "source": "http://www.imdb.com/title/tt1375408/",
+        "collaborator": "Beau Weaver",
+        "collaborator_role": "narrator"
+      },
+      {
+        "name": "Beau Weaver",
+        "role": "Janus Showreel Narrator",
+        "title": "The Substitute",
+        "source": "http://www.imdb.com/title/tt0117774/",
+        "collaborator": "Margo Peace",
+        "collaborator_role": "Mrs. Rolle"
+      },
+      {
+        "name": "Margo Peace",
+        "role": "Reporter #2",
+        "title": "Wild Things",
+        "source": "http://www.imdb.com/title/tt0120890/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Ray Duquette"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Phil Plait",
+        "role": "vocals",
+        "title": "Death from the Skies",
+        "source": "http://georgehrab.com/release/trebuchet/",
+        "collaborator": "George Hrab",
+        "collaborator_role": "music"
+      },
+      {
+        "name": "George Hrab",
+        "role": "drums",
+        "title": "Eric Mintel Quartet",
+        "source": "https://en.wikipedia.org/wiki/George_Hrab",
+        "collaborator": "Nelson Hill",
+        "collaborator_role": "sax"
+      },
+      {
+        "name": "Nelson Hill",
+        "role": "alto sax",
+        "title": "Storm",
+        "source": "http://www.discogs.com/Maynard-Ferguson-Storm/release/2285680",
+        "collaborator": "Maynard Ferguson",
+        "collaborator_role": "trumpet"
+      },
+      {
+        "name": "Maynard Ferguson",
+        "role": "trumpet",
+        "title": "Swingin’ for Schuur",
+        "source": "http://en.wikipedia.org/wiki/Swingin'_for_Schuur",
+        "collaborator": "Diane Schuur",
+        "collaborator_role": "vocals, piano"
+      },
+      {
+        "name": "Diane Schuur",
+        "role": "vocals",
+        "title": "Heart to Heart",
+        "source": "https://www.discogs.com/Diane-Schuur-BB-King-Heart-To-Heart/release/6032600",
+        "collaborator": "B.B. King",
+        "collaborator_role": "guitar"
+      },
+      {
+        "name": "B.B. King",
+        "role": "vocals",
+        "title": "It's Only Rock 'n Roll (But I Like It) — Artists for Children's Promise",
+        "source": "http://en.wikipedia.org/wiki/It's_Only_Rock_'n_Roll_(But_I_Like_It)",
+        "collaborator": "Ozzy Osbourne",
+        "collaborator_role": "vocals"
+      }
+    ]
+  ]
+}
