@@ -1,0 +1,154 @@
+{
+  "name": "Thomas Edison",
+  "reference": {
+    "source": "Wikipedia",
+    "url": "http://en.wikipedia.org/wiki/Thomas_Edison"
+  },
+  "fields": [
+    {
+      "field": "science",
+      "role": "inventor"
+    },
+    {
+      "field": "film",
+      "role": "founder of motion picture industry"
+    },
+    {
+      "field": "music",
+      "role": "inventor of the phonograph"
+    }
+  ],
+  "bio": "Thomas Edison was an American inventor and businessman. He and his company developed many devices that greatly influenced life around the world, including the phonograph, the motion picture camera, and a long-lasting, practical electric light bulb. As the founder of Edison Records and the Motion Picture Patents Company, he was an important early influence on the music and movie industries.",
+  "erdos": [
+    [
+      {
+        "name": "Thomas Edison",
+        "role": "endorser",
+        "title": "Edison's Electric Light",
+        "source": "http://books.google.ca/books?id=740PAQAAIAAJ&lpg=PA531&ots=8jGDkgeNju&pg=PA531",
+        "collaborator": "Francis R. Upton",
+        "collaborator_role": "Mr. Edison's mathematician"
+      },
+      {
+        "name": "Francis R. Upton",
+        "role": "student",
+        "title": "studies in electrodynamics in Berlin",
+        "source": "http://www-history.mcs.st-and.ac.uk/Biographies/Upton.html",
+        "collaborator": "Hermann von Helmholtz",
+        "collaborator_role": "supervisor"
+      },
+      {
+        "name": "Hermann von Helmholtz",
+        "role": "supervisor",
+        "title": "Ueber die conforme Abbildung mehrfach zusammenhaengender ebener Flaechen",
+        "source": "http://genealogy.math.ndsu.nodak.edu/id.php?id=49057",
+        "collaborator": "Friedrich Schottky",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Friedrich Schottky",
+        "role": "supervisor",
+        "title": "Grenzwerte von Reihen bei der Annäherung an die Konvergenzgrenze",
+        "source": "https://www.genealogy.math.ndsu.nodak.edu/id.php?id=20970",
+        "collaborator": "Konrad Knopp",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Konrad Knopp",
+        "role": "author",
+        "title": "Beiträge zur absoluten Limitierung",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=32790",
+        "collaborator": "G. G. Lorentz",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "G. G. Lorentz",
+        "role": "author",
+        "title": "On the probability that <i>n</i> and <i>g(n)</i> are relatively prime",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=101224",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Thomas A. Edison",
+        "role": "himself",
+        "title": "Edison Drawn by World Artist",
+        "source": "http://www.imdb.com/title/tt0229364/",
+        "collaborator": "J. Stuart Blackton",
+        "collaborator_role": "himself"
+      },
+      {
+        "name": "J. Stuart Blackton",
+        "role": "young man",
+        "title": "The Automobile Thieves",
+        "source": "http://www.imdb.com/title/tt0233258/",
+        "collaborator": "Florence Lawrence",
+        "collaborator_role": "young woman"
+      },
+      {
+        "name": "Florence Lawrence",
+        "role": "unknown",
+        "title": "The Old Fashioned Way",
+        "source": "http://www.imdb.com/title/tt0025590/",
+        "collaborator": "Maxine Elliott Hicks",
+        "collaborator_role": "waitress"
+      },
+      {
+        "name": "Maxine Elliott Hicks",
+        "role": "old woman",
+        "title": "Beethoven",
+        "source": "http://www.imdb.com/title/tt0103786/",
+        "collaborator": "Oliver Platt",
+        "collaborator_role": "Harvey"
+      },
+      {
+        "name": "Oliver Platt",
+        "role": "Mr. Pomeroy",
+        "title": "Loverboy",
+        "source": "http://www.imdb.com/title/tt0388213/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Marty"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Thomas Edison",
+        "role": "sampled vocals",
+        "title": "The Wizard of Menlo Park",
+        "source": "http://en.wikipedia.org/wiki/Un_(album)",
+        "collaborator": "Chumbawumba",
+        "collaborator_role": "band"
+      },
+      {
+        "name": "Chumbawumba",
+        "role": "band",
+        "title": "WYSIWYG",
+        "source": "https://www.discogs.com/Chumbawamba-WYSIWYG/release/8884521",
+        "collaborator": "BJ Cole",
+        "collaborator_role": "steel guitar"
+      },
+      {
+        "name": "BJ Cole",
+        "role": "Weissenborn guitar",
+        "title": "Then I Close My Eyes",
+        "source": "https://www.discogs.com/David-Gilmour-On-An-Island/release/639545",
+        "collaborator": "David Gilmour",
+        "collaborator_role": "guitar"
+      },
+      {
+        "name": "David Gilmour",
+        "role": "guitar",
+        "title": "Smoke on the Water — Rock Aid Armenia",
+        "source": "http://en.wikipedia.org/wiki/Rock_Aid_Armenia",
+        "collaborator": "Tony Iommi",
+        "collaborator_role": "guitar"
+      }
+    ]
+  ]
+}
