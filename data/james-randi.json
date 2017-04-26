@@ -1,0 +1,110 @@
+{
+  "name": "James Randi",
+  "reference": {
+    "source": "Wikipedia",
+    "url": "http://en.wikipedia.org/wiki/James_Randi"
+  },
+  "fields": [
+    {
+      "field": "performance",
+      "role": "stage magician"
+    },
+    {
+      "field": "science",
+      "role": "skeptic, paper on psychology and illusion"
+    }
+  ],
+  "bio": "'The Amazing' James Randi is a retired stage magician and scientific skeptic best known for his challenges to paranormal claims and pseudoscience. Randi is the founder of the James Randi Educational Foundation, which sponsors a challenge offering a prize to applicants who can demonstrate evidence of any paranormal, supernatural, or occult power.",
+  "erdos": [
+    [
+      {
+        "name": "James Randi",
+        "role": "author",
+        "title": "Attention and awareness in stage magic: turning tricks into research",
+        "source": "http://www.nature.com/nrn/journal/v9/n11/abs/nrn2473.html",
+        "collaborator": "Susana Martinez-Conde",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Susana Martinez-Conde",
+        "role": "author",
+        "title": "Induced visual fading of complex images",
+        "source": "http://dx.doi.org/10.1167%2f6.10.9",
+        "collaborator": "Daniel Simons",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Daniel Simons",
+        "role": "author",
+        "title": "Rapid Changes in Thalamic Firing Synchrony during Repetitive Whisker Stimulation",
+        "source": "http://dx.doi.org/10.1523%2fJNEUROSCI.1586-08.2008",
+        "collaborator": "Emery N. Brown",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Emery N. Brown",
+        "role": "author",
+        "title": "A stochastic differential equation model of diurnal cortisol patterns",
+        "source": "http://ajpendo.physiology.org/content/280/3/E450.abstract",
+        "collaborator": "Arthur P. Dempster",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Arthur P. Dempster",
+        "role": "author",
+        "title": "Constructions for poles and polars in <i>n</i> dimensions",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=70190",
+        "collaborator": "Seymour Schuster",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Seymour Schuster",
+        "role": "author",
+        "title": "Existence of complementary graphs with specified independence numbers",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=634538",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "James Randi",
+        "role": "3rd Rope Holder",
+        "title": "Penn & Teller Get Killed",
+        "source": "http://www.imdb.com/title/tt0098073/",
+        "collaborator": "Camille Saviola",
+        "collaborator_role": "Airport Security Guard"
+      },
+      {
+        "name": "Camille Saviola",
+        "role": "Madame Rosa",
+        "title": "Queens Logic",
+        "source": "http://www.imdb.com/title/tt0102741/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Dennis"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "The Amazing Randi",
+        "role": "dentist/executioner",
+        "title": "Billion Dollar Babies stage show",
+        "source": "http://en.wikipedia.org/wiki/Good_to_See_You_Again%2C_Alice_Cooper",
+        "collaborator": "Alice Cooper",
+        "collaborator_role": "vocals"
+      },
+      {
+        "name": "Alice Cooper",
+        "role": "vocals",
+        "title": "Brutal Planet",
+        "source": "http://en.wikipedia.org/wiki/Brutal_Planet",
+        "collaborator": "Eric Singer",
+        "collaborator_role": "drums"
+      }
+    ]
+  ]
+}
