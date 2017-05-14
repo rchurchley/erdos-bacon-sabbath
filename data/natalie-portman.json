@@ -1,21 +1,27 @@
 {
   "name": "Natalie Portman",
-  "reference": {
-    "source": "Wikipedia",
-    "url": "http://en.wikipedia.org/wiki/Natalie_Portman"
-  },
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Natalie_Portman"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/2"
+    }
+  ],
   "fields": [
     {
       "field": "film",
-      "role": "<i>Star Wars</i> prequels, <i>Black Swan</i>"
+      "role": "<i>Star Wars</i> prequels"
+    },
+    {
+      "field": "science",
+      "role": "psychology research"
     },
     {
       "field": "music",
       "role": "rapper on <i>SNL</i>"
-    },
-    {
-      "field": "science",
-      "role": "undergraduate, psychology"
     }
   ],
   "bio": "Natalie Portman is an Academy-award winning actress. Her first box-office success came as a teenager when she played Padmé Amidala in the Star Wars prequel trilogy. Later, she went on to complete a degree in psychology at Harvard, record a rap on Saturday Night Live, and win an Oscar from her performance in Black Swan.",
@@ -68,7 +74,7 @@
       {
         "name": "Natalie Portman",
         "role": "Rifka",
-        "title": "New York I Love You",
+        "title": "New York, I Love You",
         "source": "http://www.imdb.com/title/tt0808399/",
         "collaborator": "Eli Wallach",
         "collaborator_role": "Abe"

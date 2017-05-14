@@ -1,6 +1,9 @@
-The photos in this folder are used under the terms of a Creative Commons license.
-
-Title: Natalie Portman at the premiere of Black Swan at the 2010 Toronto International Film Festival in September 2010
-Author: John Steven Fernandez / http://www.flickr.com/photos/stevenfernandez/
-Source: Wikimedia Commons / https://en.wikipedia.org/wiki/File:NataliePortmanTIFFSept10.jpg
-License: CC BY-SA 2.0 / https://creativecommons.org/licenses/by-sa/2.0/
+{
+  "license": "CC BY-SA 2.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+  "title": "Natalie Portman at the premiere of Black Swan at the 2010 Toronto International Film Festival",
+  "author": "John Steven Fernandez",
+  "author_url": "http://www.flickr.com/photos/stevenfernandez/",
+  "source": "Wikimedia Commons",
+  "source_url": "https://en.wikipedia.org/wiki/File:NataliePortmanTIFFSept10.jpg"
+}
