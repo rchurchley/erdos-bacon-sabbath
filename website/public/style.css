@@ -1,8 +1,53 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
 html {
-  background-color: #859900;
-  color: #002b36;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+body {
+  padding: 0;
+  background-color: #edecfb;
+  color: #212129;
   font-family: "Roboto", sans-serif;
   line-height: 1.4;
+}
+
+main {
+  padding: 0 1rem;
+  margin: 0 auto;
+  width: 100%;
+  max-width: calc(640px + 2rem);
+}
+
+section,
+.introduction,
+.the-list li,
+.accomplishments li {
+  background-color: white;
+  padding: 1rem;
+  border: 1px solid #d3d3e0;
+}
+
+section,
+.site-header,
+.introduction,
+.the-list li,
+.portrait,
+.profile,
+.accomplishments li {
+  margin-bottom: 1rem;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid #d3d3e0;
 }
 
 h1,
@@ -12,31 +57,87 @@ h3 {
   font-weight: normal;
 }
 
-main,
-.introduction {
-  box-sizing: border-box;
-  max-width: 50rem;
-  margin: 0 auto 1rem;
-}
-
-header,
-section,
-.the-list li,
-.accomplishments li {
-  background-color: white;
-  padding: 1rem;
-  border: 1px solid #657b83;
-  border-radius: 5px;
-  margin-bottom: 1rem;
+p {
+  margin-bottom: 0.5em;
+  text-align: justify;
 }
 
 a,
 a:visited,
 a:hover,
 a:visited:hover {
-  color: #859900;
+  color: #5e9900;
   font-style: italic;
   text-decoration: none;
+}
+
+
+/* SITE HEADER *
+ * =========== */
+
+.site-header {
+  width: 100%;
+  text-align: center;
+  color: white;
+}
+
+.site-header a,
+.site-header a:visited,
+.site-header a:hover,
+.site-header a:visited:hover {
+  text-decoration: none;
+  color: inherit;
+}
+
+.site-header h1 {
+  background: #5e9900;
+  line-height: 4rem;
+  font-weight: normal;
+}
+
+.site-header nav {
+    background: #31313d;
+    width: 100%;
+    line-height: 2rem;
+}
+
+.site-header nav a {
+    display: inline-block;
+    padding: 0 2rem;
+    font-style: normal;
+}
+
+.site-header input, .site-header label {
+    display: none;
+}
+
+@media screen and (max-width: 639px) {
+  .site-header h1 {
+    text-align: left;
+    padding: 0 6.25%;
+  }
+
+  .site-header label {
+    display: block;
+    position: absolute;
+    top: 0;
+    padding-right: 6.25%;
+    width: 100%;
+    height: 4rem;
+    text-align: right;
+    line-height: 4rem;
+    font-size: 200%;
+  }
+
+  .site-header input:not(:checked) + nav {
+    max-height: 0;
+    overflow: hidden;
+  }
+
+  .site-header nav a {
+    display: block;
+    line-height: 2.66667rem;
+  }
 }
 
 
@@ -46,12 +147,12 @@ a:visited:hover {
 .introduction h1 {
   margin: 0;
   font-style: normal;
-  color: #002b36;
+  color: #101014;
 }
 
 .introduction h2 {
-  color: #657b83;
-  margin: 0;
+  color: #555565;
+  margin-bottom: 1rem;
 }
 
 
@@ -78,7 +179,7 @@ a:visited:hover {
 .the-list li a:hover,
 .the-list li a:visited:hover {
   font-style: normal;
-  color: #fff;
+  color: white;
 }
 
 .the-list li h2 {
@@ -91,53 +192,22 @@ a:visited:hover {
 /* PROFILE *
  * ======= */
 
-.profile {
-  position: relative;
-  padding-right: calc(50% + 1rem);
-}
-
 .profile h1 {
   text-align: right;
 }
 
-.profile p {
-  text-align: justify;
+.references {
+  margin: 1rem 0 0 0;
+  font-size: small;
+  text-transform: uppercase;
 }
 
-.profile figure {
-  position: absolute;
-  top: 0;
-  right: 0;
-  width: 400px;
-  max-width: 50%;
-  height: 100%;
-  overflow: hidden;
-  padding: 0;
-  margin: 0;
-  background-color: #002b36;
-  line-height: 0;
+.references a {
+  font-style: normal;
 }
 
-.profile figure img {
-  max-width: 100%;
-  object-fit: cover;
-}
-
-@media screen and (max-width: 34rem) {
-  .profile {
-    padding: 1rem;
-  }
-
-  .profile figure {
-    display: block;
-    position: relative;
-    width: calc(100% + 2rem);
-    max-width: none;
-    height: 20rem;
-    border-bottom: 1px solid #657b83;
-    margin-top: -1rem;
-    margin-left: -1rem;
-  }
+.references a:not(:last-child)::after {
+  content: ' // ';
 }
 
 
@@ -154,51 +224,33 @@ a:visited:hover {
 }
 
 .accomplishments li {
-  width: 16rem;
+  width: calc((100% - 2rem) / 3);
   padding: 0;
 }
 
-@media screen and (max-width: 50rem) {
+@media screen and (max-width: 34em) {
   .accomplishments li {
-    width: 22rem;
+    width: calc((100% - 1rem) / 2);
   }
 }
 
-@media screen and (max-width: 46rem) {
-  .accomplishments li {
-    width: 20rem;
-  }
-}
-
-@media screen and (max-width: 42rem) {
-  .accomplishments li {
-    width: 18rem;
-  }
-}
-
-@media screen and (max-width: 38rem) {
-  .accomplishments li {
-    width: 16rem;
-  }
-}
-
-@media screen and (max-width: 34rem) {
+@media screen and (max-width: 25em) {
   .accomplishments li {
     width: 100%;
   }
 }
 
 .accomplishments li h2 {
-  background-color: #002b36;
+  background-color: #31313d;
   color: white;
-  width: calc(100% - 2rem);
+  width: 100%;
   padding: 0.5rem 1rem;
   margin: 0;
   font-size: 1rem;
 }
 
 .accomplishments li p {
-  width: calc(100% - 2rem);
+  width: 100%;
   padding: 0.5rem 1rem;
   margin: 0;
   text-align: center;
@@ -225,7 +277,7 @@ a:visited:hover {
 
 .collaboration-path:not(:last-child) {
   padding-bottom: 1rem;
-  border-bottom: 1px solid #657b83;
+  border-bottom: 1px solid #d3d3e0;
 }
 
 .collaboration-path li {
@@ -244,7 +296,7 @@ a:visited:hover {
 }
 
 .collaboration-path li .collaborator .role {
-  color: #657b83;
+  color: #555565;
   font-style: italic;
   font-size: smaller;
 }
@@ -276,22 +328,4 @@ a:visited:hover {
   .collaboration-path li:not(:last-child) .collaborator:last-child {
     display: none;
   }
-}
-
-
-/* FOOTER *
- * ====== */
-
-footer {
-  text-align: center;
-  margin: 2rem 0;
-  font-size: small;
-}
-
-footer a,
-footer a:visited,
-footer a:hover,
-footer a:visited:hover {
-  font-style: normal;
-  color: #002b36;
 }

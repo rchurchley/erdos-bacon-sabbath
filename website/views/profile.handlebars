@@ -1,9 +1,14 @@
 <main>
-  <header class="profile">
-    <figure><img src="/images/{{url_name}}/640x360.jpg" alt={{person.name}} width="640" height="360"></figure>
+  <figure class="portrait">
+    <img src="/images/{{url_name}}/640x360.jpg" alt={{person.name}} width="640" height="360">
+  </figure>
+  <section class="profile">
     <h1 class="name">{{person.name}}</h1>
     <p class="bio">{{{person.bio}}}</p>
-  </header>
+    <footer class="references">
+      {{#each person.references}} <a href="{{url}}">{{source}}</a> {{/each}}
+    </footer>
+  </section>
   <ul class="accomplishments">
     {{#each person.fields}}{{> field}}{{/each}}
   </ul>
