@@ -1,6 +1,8 @@
-The photos in this folder are used under the terms of a Creative Commons license.
-
-Title: Photo of Richard Feynman, taken in 1984 in the woods of the Robert Treat Paine Estate in Waltham, MA, while he and the photographer worked at Thinking Machines Corporation on the design of the Connection Machine CM-1/CM-2 supercomputer
-Author: Tamiko Thiel
-Source: Wikimedia Commons / http://commons.wikimedia.org/wiki/File:RichardFeynman-PaineMansionWoods1984_copyrightTamikoThiel_bw.jpg
-License: CC BY-SA 3.0 / https://creativecommons.org/licenses/by-sa/3.0/
+{
+  "license": "CC BY-SA 3.0",
+  "license_url": "https://creativecommons.org/licenses/by-sa/3.0/",
+  "title": "Richard Feynman, taken in 1984 in the woods of the Robert Treat Paine Estate in Waltham, MA",
+  "author": "Tamiko Thiel",
+  "source": "Wikimedia Commons",
+  "source_url": "http://commons.wikimedia.org/wiki/File:RichardFeynman-PaineMansionWoods1984_copyrightTamikoThiel_bw.jpg"
+}

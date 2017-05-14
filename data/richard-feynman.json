@@ -1,12 +1,18 @@
 {
   "name": "Richard Feynman",
-  "reference": {
-    "source": "Wikipedia",
-    "url": "http://en.wikipedia.org/wiki/Richard_Feynman"
-  },
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Richard_Feynman"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/3"
+    }
+  ],
   "fields": [
     {
-      "field": "scientist",
+      "field": "science",
       "role": "physicist"
     },
     {
@@ -15,7 +21,7 @@
     },
     {
       "field": "film",
-      "role": "small dramatic role, <i>Anti-Clock</i>"
+      "role": "small dramatic role"
     }
   ],
   "bio": "Richard Feynman was an American physicist famous for his work on quantum electrodynamics and his introduction of diagrams to understand the computations governing quantum interactions. His popular and entertaining autobiography depicts a playful and quirky personality who dabbled in safecracking, art, and samba music.",
@@ -55,7 +61,7 @@
         "title": "Anti-Clock",
         "source": "http://www.imdb.com/title/tt0166996/",
         "collaborator": "Tony Tang",
-        "collaborator_role": "n/a"
+        "collaborator_role": "unknown"
       },
       {
         "name": "Tony Tang",
