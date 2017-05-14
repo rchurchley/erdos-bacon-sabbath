@@ -193,6 +193,7 @@ a:visited:hover {
  * ======= */
 
 .profile h1 {
+  margin-bottom: 0.5rem;
   text-align: right;
 }
 
