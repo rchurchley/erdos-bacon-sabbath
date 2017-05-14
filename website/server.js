@@ -42,13 +42,24 @@ app.get('/', function (req, res) {
 
 app.get('/:person/', function (req, res) {
   var api_path = path.join(__dirname, '..', 'data', req.params['person'] + '.json');
-  fs.readFile(api_path, 'utf8', function (err, data) {
-    if (err) {
-      res.status(404).sendFile('404.html', { root: path.join(__dirname, 'public') });
-    } else {
-      person = JSON.parse(data)
-      res.render('profile', { person: person, title: person['name'], url_name: req.params['person'] });
-    }
+  var img_license_path = path.join(__dirname, '..', 'images', req.params['person'], 'LICENSE');
+  fs.readFile(api_path, 'utf8', function (person_err, person_data) {
+    fs.readFile(img_license_path, 'utf8', function (license_err, license_data) {
+      if (person_err || license_err) {
+        res.status(404).sendFile('404.html', { root: path.join(__dirname, 'public') });
+      } else {
+        person = JSON.parse(person_data);
+        license = JSON.parse(license_data);
+        res.render('profile',
+          {
+            title: person['name'],
+            url_name: req.params['person'],
+            person: person,
+            copyright: license
+          }
+        );
+      }
+    });
   });
 });
 
