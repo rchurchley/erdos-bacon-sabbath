@@ -1,9 +1,15 @@
 {
   "name": "Brian May",
-  "reference": {
-    "source": "Wikipedia",
-    "url": "http://en.wikipedia.org/wiki/Brian_May"
-  },
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Brian_May"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/1"
+    }
+  ],
   "fields": [
     {
       "field": "music",
@@ -15,10 +21,10 @@
     },
     {
       "field": "film",
-      "role": "singing roles, <i>The Adventures of Pinocchio</i>"
+      "role": "singing roles"
     }
   ],
-  "bio": "Brian May is most famous as the lead guitarist for the British rock band <a href='http://en.wikipedia.org/wiki/Queen_(band)'>Queen</a>. Before he became a rock star, he was a Ph.D. student in astrophysics; he published two papers before putting his academic career on hold. In the 2000s, May went back to Imperial College London and finally completed his degree.",
+  "bio": "Brian May is most famous as the lead guitarist for the British rock band <a href=\"http://en.wikipedia.org/wiki/Queen_(band)\">Queen</a>. Before he became a rock star, he was a Ph.D. student in astrophysics; he published two papers before putting his academic career on hold. In the 2000s, May went back to Imperial College London and finally completed his degree.",
   "erdos": [
     [
       {
@@ -125,7 +131,7 @@
     [
       {
         "name": "Brian May",
-        "role": "Chamberlain, et al.",
+        "role": "Chamberlain & al.",
         "title": "The Adventures of Pinocchio",
         "source": "http://www.imdb.com/title/tt0115472/",
         "collaborator": "Martin Landau",
