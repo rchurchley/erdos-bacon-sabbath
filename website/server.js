@@ -83,24 +83,18 @@ function get_the_list() {
 };
 
 function peopleFromGithubResponse(array) {
-  result = []
-  for (var i = 0; i < array.length; i++) {
-    filename = array[i]['name'];
-    person = personObjectFromFilename(filename);
-    if (person) {
-      result.push(person);
-    }
-  }
-  return result;
-}
+  return array.map(function (element) {
+    return element['name'];
+  }).filter(function (filename) {
+    return filename.endsWith('.json');
+  }).map(personObjectFromFilename);
+};
 
 function personObjectFromFilename(filename) {
-  if (filename.endsWith('.json')) {
-    kebabCaseName = filename.substring(0, filename.length - 5);
-    return {
-      url_name: kebabCaseName,
-      name: getProperNameFromKebab(kebabCaseName)
-    }
+  kebabCaseName = filename.replace('.json', '');
+  return {
+    url_name: kebabCaseName,
+    name: getProperNameFromKebab(kebabCaseName)
   }
 }
 
