@@ -1,9 +1,15 @@
 {
   "name": "Stephen Hawking",
-  "reference": {
-    "source": "Wikipedia",
-    "url": "http://en.wikipedia.org/wiki/Stephen_Hawking"
-  },
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Stephen_Hawking"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/4"
+    }
+  ],
   "fields": [
     {
       "field": "science",
@@ -12,13 +18,9 @@
     {
       "field": "film & TV",
       "role": "many cameo roles"
-    },
-    {
-      "field": "music",
-      "role": "sampled by Pink Floyd"
     }
   ],
-  "bio": "Stephen Hawking is a theoretical physicist best known for his work on black holes. After writing the best-selling popular science book <a href='http://en.wikipedia.org/wiki/A_Brief_History_of_Time'>A Brief History of Time</a> in 1988, Hawking became a household name. There is an <a href='http://en.wikipedia.org/wiki/Stephen_Hawking_in_popular_culture'>entire Wikipedia page</a> dedicated to his appearances in popular culture, which include guest roles on The Simpsons and Star Trek: The Next Generation.",
+  "bio": "Stephen Hawking is a theoretical physicist best known for his work on black holes. After writing the best-selling popular science book <a href=\"http://en.wikipedia.org/wiki/A_Brief_History_of_Time\">A Brief History of Time</a> in 1988, Hawking became a household name. There is an <a href=\"http://en.wikipedia.org/wiki/Stephen_Hawking_in_popular_culture\">entire Wikipedia page</a> dedicated to his appearances in popular culture, which include guest roles on The Simpsons and Star Trek: The Next Generation.",
   "erdos": [
     [
       {
