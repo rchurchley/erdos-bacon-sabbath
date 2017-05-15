@@ -1,20 +1,26 @@
 {
   "name": "James Randi",
-  "reference": {
-    "source": "Wikipedia",
-    "url": "http://en.wikipedia.org/wiki/James_Randi"
-  },
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/James_Randi"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/9"
+    }
+  ],
   "fields": [
     {
-      "field": "performance",
-      "role": "stage magician"
+      "field": "stage",
+      "role": "magician"
     },
     {
       "field": "science",
-      "role": "skeptic, paper on psychology and illusion"
+      "role": "psychology paper"
     }
   ],
-  "bio": "'The Amazing' James Randi is a retired stage magician and scientific skeptic best known for his challenges to paranormal claims and pseudoscience. Randi is the founder of the James Randi Educational Foundation, which sponsors a challenge offering a prize to applicants who can demonstrate evidence of any paranormal, supernatural, or occult power.",
+  "bio": "\"The Amazing\" James Randi is a retired stage magician and scientific skeptic best known for his challenges to paranormal claims and pseudoscience. Randi is the founder of the James Randi Educational Foundation, which sponsors a challenge offering a prize to applicants who can demonstrate evidence of any paranormal, supernatural, or occult power.",
   "erdos": [
     [
       {
