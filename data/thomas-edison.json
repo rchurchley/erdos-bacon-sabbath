@@ -1,12 +1,18 @@
 {
   "name": "Thomas Edison",
-  "reference": {
-    "source": "Wikipedia",
-    "url": "http://en.wikipedia.org/wiki/Thomas_Edison"
-  },
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Thomas_Edison"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/10"
+    }
+  ],
   "fields": [
     {
-      "field": "science",
+      "field": "industry",
       "role": "inventor"
     },
     {
@@ -75,11 +81,11 @@
     [
       {
         "name": "Thomas A. Edison",
-        "role": "himself",
+        "role": "self",
         "title": "Edison Drawn by World Artist",
         "source": "http://www.imdb.com/title/tt0229364/",
         "collaborator": "J. Stuart Blackton",
-        "collaborator_role": "himself"
+        "collaborator_role": "self"
       },
       {
         "name": "J. Stuart Blackton",
