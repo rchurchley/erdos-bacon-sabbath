@@ -1,5 +1,7 @@
-The photos in this folder are in the public domain in the United States, because it was published in the United States between 1923 and 1963 and its copyright was not renewed.
-
-Title: Tom Lehrer performing at UCLA's Royce Hall for Greek Week
-Author: Associated Students, University of California, Los Angeles
-Source: Wikimedia Commons / https://commons.wikimedia.org/wiki/File:Tom_Lehrer_-_Southern_Campus_1960.jpg
+{
+  "license": "public domain",
+  "title": "Tom Lehrer performing at UCLA's Royce Hall for Greek Week",
+  "author": "Associated Students, University of California, Los Angeles",
+  "source": "Wikimedia Commons",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Tom_Lehrer_-_Southern_Campus_1960.jpg"
+}
