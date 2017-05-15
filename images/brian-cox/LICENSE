@@ -1,6 +1,9 @@
-The photos in this folder are used under the terms of a Creative Commons license.
-
-Title: Professor Brian Cox at the Science Foo Camp
-Author: Bob Lee / https://www.flickr.com/photos/crazybob/
-Source: Flickr / https://www.flickr.com/photos/crazybob/2755035844/
-License: CC BY 2.0 / https://creativecommons.org/licenses/by/2.0/
+{
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0/",
+  "title": "Professor Brian Cox at the Science Foo Camp",
+  "author": "Bob Lee",
+  "author_url": "https://www.flickr.com/photos/crazybob/",
+  "source": "Flickr",
+  "source_url": "https://www.flickr.com/photos/crazybob/2755035844/"
+}

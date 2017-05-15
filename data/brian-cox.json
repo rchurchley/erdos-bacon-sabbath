@@ -1,9 +1,15 @@
 {
   "name": "Brian Cox",
-  "reference": {
-    "source": "Wikipedia",
-    "url": "http://en.wikipedia.org/wiki/Brian_Cox_(physicist)"
-  },
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Brian_Cox_(physicist)"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/6"
+    }
+  ],
   "fields": [
     {
       "field": "science",
@@ -87,11 +93,11 @@
         "title": "Stargazing Live",
         "source": "http://en.wikipedia.org/wiki/Stargazing_Live",
         "collaborator": "Jonathan Ross",
-        "collaborator_role": "himself"
+        "collaborator_role": "self"
       },
       {
         "name": "Jonathan Ross",
-        "role": "himself",
+        "role": "self",
         "title": "Valiant",
         "source": "http://www.imdb.com/title/tt0361089/",
         "collaborator": "John Hurt",
