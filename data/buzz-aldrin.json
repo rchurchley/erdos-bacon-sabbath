@@ -1,9 +1,15 @@
 {
   "name": "Buzz Aldrin",
-  "reference": {
-    "source": "Wikipedia",
-    "url": "http://en.wikipedia.org/wiki/Buzz_Aldrin"
-  },
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Buzz_Aldrin"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/7"
+    }
+  ],
   "fields": [
     {
       "field": "science",
@@ -15,10 +21,10 @@
     },
     {
       "field": "music",
-      "role": "rap with Snoop Dogg"
+      "role": "moon rap"
     }
   ],
-  "bio": "Buzz Aldrin is an engineer and former American astronaut. He was the second person to walk on the Moon.",
+  "bio": "Buzz Aldrin is an engineer and former American astronaut. He was the second person to walk on the Moon, and has commemorated the experience with a rap song produced by Snoop Dogg.",
   "erdos": [
     [
       {
