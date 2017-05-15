@@ -1,9 +1,15 @@
 {
   "name": "Phil Plait",
-  "reference": {
-    "source": "Wikipedia",
-    "url": "http://en.wikipedia.org/wiki/Phil_Plait"
-  },
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Phil_Plait"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/8"
+    }
+  ],
   "fields": [
     {
       "field": "science",
@@ -12,13 +18,9 @@
     {
       "field": "TV",
       "role": "documentary host"
-    },
-    {
-      "field": "music",
-      "role": "theme song, <i>Bad Universe</i>"
     }
   ],
-  "bio": "Phil Plait is an astronomer, skeptic, and popular science blogger. He has written two books, Bad Astronomer and Death from the Skies, and presented several TV documentaries.",
+  "bio": "Phil Plait is an astronomer, skeptic, and popular science blogger. He has written two books, <i>Bad Astronomer</i> and <i>Death from the Skies</i>, and presented a series of TV documentaries called <i>Phil Plait's Bad Universe</i>.",
   "erdos": [
     [
       {
@@ -59,7 +61,7 @@
     [
       {
         "name": "Phil Plait",
-        "role": "himself",
+        "role": "self",
         "title": "Known Universe",
         "source": "http://www.imdb.com/title/tt1375408/",
         "collaborator": "Beau Weaver",

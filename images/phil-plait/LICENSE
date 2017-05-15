@@ -1,3 +1,7 @@
-The photos in this folder are used by the EBS Project with the permission of the copyright holder.
-
-Source: Phil Plait's PR Kit / http://www.badastronomy.com/pr/images.html
+{
+  "license": "used with permission",
+  "title": "Dr. Phil Plait, aka \"The Bad Astronomer\"",
+  "author": "uncredited",
+  "source": "Phil Plait's PR kit",
+  "source_url": "http://www.badastronomy.com/pr/images.html"
+}
