@@ -1,0 +1,84 @@
+{
+  "name": "Carl Sagan",
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Carl_Sagan"
+    },
+    {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm0755981/"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/18"
+    }
+  ],
+  "fields": [
+    {
+      "field": "science",
+      "role": "astronomer, cosmologist"
+    },
+    {
+      "field": "TV",
+      "role": "<i>Cosmos</i>"
+    }
+  ],
+  "bio": "Carl Sagan was an astronomer, cosmologist, author, and science popularizer. He is best known for his contributions to the scientific research of extraterrestrial life, his popular science books including <i>Pale Blue Dot</i>, and most famously his award-winning TV series <i>Cosmos</i>. Although Sagan does not have a known Sabbath number, he was responsible for producing the <a href=\"https://en.wikipedia.org/wiki/Voyager_Golden_Record\">Voyager Golden Record</a> and has been sampled in John Boswell's <a href=\"https://en.wikipedia.org/wiki/Symphony_of_Science\">Symphony of Science</a> project.",
+  "erdos": [
+    [
+      {
+        "name": "Carl Sagan,",
+        "role": "author",
+        "title": "Scintillation-induced intermittency in SETI",
+        "source": "http://dx.doi.org/10.1086%2f304620",
+        "collaborator": "James M. Cordes",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "James M. Cordes",
+        "role": "author",
+        "title": "A vision for petabyte data management and analysis services for the Arecibo telescope",
+        "source": "http://www.informatik.uni-trier.de/~ley/db/journals/debu/debu27.html",
+        "collaborator": "Alan J. Demers",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Alan J. Demers",
+        "role": "author",
+        "title": "Worst-case performance bounds for simple one-dimensional packing algorithms",
+        "source": "http://dx.doi.org/10.1137%2f0203025",
+        "collaborator": "Ronald Graham",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Ronald Graham",
+        "role": "author",
+        "title": "On sums of Fibonnaci numbers",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=306101",
+        "collaborator": "Paul Erdős</li>",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Dr. Carl Sagan",
+        "role": "self",
+        "title": "The Earth Day Special",
+        "source": "http://www.imdb.com/title/tt0255132/",
+        "collaborator": "Candice Bergen",
+        "collaborator_role": "Murphy Brown"
+      },
+      {
+        "name": "Candice Bergen",
+        "role": "Jessica Potter",
+        "title": "Starting Over",
+        "source": "http://www.imdb.com/title/tt0079948/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Husband - Young Couple"
+      }
+    ]
+  ]
+}
