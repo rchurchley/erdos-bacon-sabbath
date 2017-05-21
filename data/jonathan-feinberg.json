@@ -1,0 +1,124 @@
+{
+  "name": "Jonathan Feinberg",
+  "references": [
+    {
+      "source": "Discogs",
+      "url": "https://www.discogs.com/artist/1067616-Jonathan-Feinberg"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/32"
+    }
+  ],
+  "fields": [
+    {
+      "field": "industry",
+      "role": "inventor, Wordle"
+    },
+    {
+      "field": "music",
+      "role": "drummer"
+    }
+  ],
+  "bio": "Jonathan Feinberg is a musician-turned-programmer. He created the Wordle word-cloud application and has played drums for a number of artists, including Lisa Loeb and They Might Be Giants.",
+  "erdos": [
+    [
+      {
+        "name": "Jonathan Feinberg,",
+        "role": "author",
+        "title": "Participatory Visualization with Wordle",
+        "source": "http://dx.doi.org/10.1109/TVCG.2009.171",
+        "collaborator": "Martin Wattenberg",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Martin Wattenberg",
+        "role": "author",
+        "title": "Introducing... cwatsets!",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=1272824",
+        "collaborator": "Gary J. Sherman",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Gary J. Sherman",
+        "role": "author",
+        "title": "Counting nilpotent pairs in finite groups",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=1742415",
+        "collaborator": "Jason Fulman",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Jason Fulman",
+        "role": "author",
+        "title": "On fixed points of permutations",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=2420785",
+        "collaborator": "Persi W. Diaconis",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Persi W. Diaconis",
+        "role": "author",
+        "title": "On the distribution of the greatest common divisor",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=2126886",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Jonathan Feinberg,",
+        "role": "drummer",
+        "title": "The Tonight Show with Jay Leno",
+        "source": "http://www.youtube.com/watch?v=UtTBzj9yGAI",
+        "collaborator": "Jay Leno",
+        "collaborator_role": "host"
+      },
+      {
+        "name": "Jay Leno",
+        "role": "Mookie",
+        "title": "American Hot Wax",
+        "source": "http://www.imdb.com/title/tt0077158/",
+        "collaborator": "Pat McNamara",
+        "collaborator_role": "Gordie"
+      },
+      {
+        "name": "Pat McNamara",
+        "role": "guard",
+        "title": "Sleepers",
+        "source": "http://www.imdb.com/title/tt0117665/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Nokes"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Jonathan Feinberg",
+        "role": "drums",
+        "title": "Stay (I Missed You)",
+        "source": "http://www.discogs.com/Lisa-Loeb-Nine-Stories-Stay-I-Missed-You/release/803098",
+        "collaborator": "Lisa Loeb",
+        "collaborator_role": "vocals, guitar"
+      },
+      {
+        "name": "Lisa Loeb",
+        "role": "vocals",
+        "title": "Goodbye to Romance",
+        "source": "http://www.discogs.com/Various-Bat-Head-Soup-Tribute-To-Ozzy/release/3670326",
+        "collaborator": "Dweezil Zappa",
+        "collaborator_role": "guitar"
+      },
+      {
+        "name": "Dweezil Zappa",
+        "role": "guitar",
+        "title": "Stayin’ Alive",
+        "source": "http://www.discogs.com/Ozzy-Osbourne-Prince-Of-Darkness/release/2075977",
+        "collaborator": "Ozzy Osbourne",
+        "collaborator_role": "vocals"
+      }
+    ]
+  ]
+}
