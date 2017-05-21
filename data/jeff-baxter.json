@@ -1,0 +1,124 @@
+{
+  "name": "Jeff Baxter",
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Jeff_Baxter"
+    },
+    {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm0062749/"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/29"
+    }
+  ],
+  "fields": [
+    {
+      "field": "music",
+      "role": "guitarist, Doobie Brothers"
+    },
+    {
+      "field": "industry",
+      "role": "missile defence consultant"
+    },
+    {
+      "field": "movies & TV",
+      "role": "composer, <i>King of the Hill</i>"
+    }
+  ],
+  "bio": "Jeff Baxter is a guitarist, known for his stints in the rock bands Steely Dan and The Doobie Brothers during the 1970s. More recently, he has worked as a defense consultant and chaired a Congressional Advisory Board on missile defense.",
+  "erdos": [
+    [
+      {
+        "name": "Jeff Baxter,",
+        "role": "author",
+        "title": "Civil Applications Committee (CAC) Blue Ribbon Study: Independent Study Group Final Report",
+        "source": "http://www.fas.org/irp/eprint/cac-report.pdf",
+        "collaborator": "Paul Gilman",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Paul Gilman",
+        "role": "author",
+        "title": "Actionable Capability for Social and Economic Systems",
+        "source": "http://dx.doi.org/10.2172/933058",
+        "collaborator": "Steven J. Fernandez",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Steven J. Fernandez",
+        "role": "author",
+        "title": "Construction of Synthetic Populations with Key Attributes: Simulation Set-Up While Accommodating Multiple Approaches within a Flexible Simulation Platform",
+        "source": "http://www.informatik.uni-trier.de/~ley/db/conf/socialcom/socialcom2010.html#conf/socialcom/FernandezRBBSOJ10",
+        "collaborator": "Christopher T. Symons",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Christopher T. Symons",
+        "role": "author",
+        "title": "Scalable Parallel Algorithms for FPT Problems",
+        "source": "http://dx.doi.org/10.1007/s00453-006-1214-1",
+        "collaborator": "Michael A. Langston",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Michael A. Langston",
+        "role": "author",
+        "title": "Small diameter symmetric networks from linear groups",
+        "source": "http://dx.doi.org/10.1109/12.123397",
+        "collaborator": "Vance Faber",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Vance Faber",
+        "role": "author",
+        "title": "Sets of natural numbers of positive density and cylindric set algebras of dimension2",
+        "source": "http://dx.doi.org/10.1007/BF02483866",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Jeff Baxter",
+        "role": "Louisiana Gator Boys guitarist",
+        "title": "Blues Brothers 2000",
+        "source": "http://www.imdb.com/title/tt0118747/",
+        "collaborator": "John Goodman",
+        "collaborator_role": "Mighty Mack McTeer"
+      },
+      {
+        "name": "John Goodman",
+        "role": "Capt. Edwin Simmons",
+        "title": "Beyond All Boundaries",
+        "source": "http://www.imdb.com/title/tt1448751/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Robert Sherrod"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Jeff Baxter,",
+        "role": "guitar",
+        "title": "The Louisiana Gator Boys (Blues Brothers 2000 band)",
+        "source": "http://en.wikipedia.org/wiki/Blues_Brothers_2000",
+        "collaborator": "B.B. King",
+        "collaborator_role": "guitar"
+      },
+      {
+        "name": "B.B. King",
+        "role": "vocals",
+        "title": "It's Only Rock 'n Roll (But I Like It) — Artists for Children's Promise",
+        "source": "http://en.wikipedia.org/wiki/It's_Only_Rock_'n_Roll_(But_I_Like_It)",
+        "collaborator": "Ozzy Osbourne",
+        "collaborator_role": "vocals"
+      }
+    ]
+  ]
+}
