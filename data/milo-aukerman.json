@@ -1,0 +1,144 @@
+{
+  "name": "Milo Aukerman",
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Milo_Aukerman"
+    },
+    {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm2710740/"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/14"
+    }
+  ],
+  "fields": [
+    {
+      "field": "music",
+      "role": "lead singer, Descendents"
+    },
+    {
+      "field": "science",
+      "role": "biochemist"
+    }
+  ],
+  "bio": "Milo Aukerman is a singer, songwriter, and research biochemist. He is most widely known as the lead singer of the punk rock band the Descendents, whose first full length album was titled Milo Goes to College. He worked as a plant researcher at DuPont and as an adjunct professor at the University of Delaware before returning to a full-time musical career.",
+  "erdos": [
+    [
+      {
+        "name": "Milo Aukerman,",
+        "role": "author",
+        "title": "The Arabidopsis flowering-time gene LUMINIDEPENDENS is expressed primarily in regions of cell proliferation and encodes a nuclear protein that regulates LEAFY expression",
+        "source": "http://dx.doi.org/10.1046/j.1365-313X.1999.00442.x",
+        "collaborator": "Detlef Weigel",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Detlef Weigel",
+        "role": "author",
+        "title": "Common Sequence Polymorphisms Shaping Genetic Diversity in Arabidopsis thaliana",
+        "source": "http://dx.doi.org/10.1126/science.1138632",
+        "collaborator": "Glenn Fu",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Glenn Fu",
+        "role": "author",
+        "title": "Direct visualization of the dynamics of membrane-anchor proteins in living cells",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=2416926",
+        "collaborator": "Jian Liang Wang",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Jian Liang Wang",
+        "role": "author",
+        "title": "Reliable <i>H<sub>∞</sub></i> control for affine nonlinear systems",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=1636447",
+        "collaborator": "James Lam",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "James Lam",
+        "role": "author",
+        "title": "Rational approximation of a class of infinite-dimensional systems",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=1066376",
+        "collaborator": "Jonathan R. Partington",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Jonathan R. Partington",
+        "role": "author",
+        "title": "Inequalities for quadratic polynomials in Hermitian and dissipative operators",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=740587",
+        "collaborator": "Béla Bollobás",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Béla Bollobás",
+        "role": "author",
+        "title": "Extremal problems in graph theory",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=145505",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Milo Aukerman",
+        "role": "author",
+        "title": "We Jam Econo: the Story of the Minutemen",
+        "source": "http://en.wikipedia.org/wiki/We_Jam_Econo",
+        "collaborator": "Flea",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Flea",
+        "role": "author",
+        "title": "The Big Lebowski",
+        "source": "http://www.imdb.com/title/tt0118715/",
+        "collaborator": "Julianne Moore",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Julianne Moore",
+        "role": "author",
+        "title": "Crazy Stupid Love",
+        "source": "http://www.imdb.com/title/tt1570728/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Milo Aukerman,",
+        "role": "author",
+        "title": "Descendents",
+        "source": "http://en.wikipedia.org/wiki/Descendents",
+        "collaborator": "Bill Stevenson",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Bill Stevenson",
+        "role": "author",
+        "title": "Black Flag",
+        "source": "http://en.wikipedia.org/wiki/Black_Flag_(band)",
+        "collaborator": "Henry Rollins",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Henry Rollins",
+        "title": "Laughing Man (In The Devil Mask)",
+        "source": "http://en.wikipedia.org/wiki/Iommi_(album)",
+        "role": "author",
+        "collaborator": "Tony Iommi",
+        "collaborator_role": "author"
+      }
+    ]
+  ]
+}
