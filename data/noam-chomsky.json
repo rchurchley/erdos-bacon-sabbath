@@ -1,0 +1,120 @@
+{
+  "name": "Noam Chomsky",
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Noam_Chomsky"
+    },
+    {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm0159008/"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/17"
+    }
+  ],
+  "fields": [
+    {
+      "field": "science",
+      "role": "linguist"
+    },
+    {
+      "field": "politics",
+      "role": "left-wing activist"
+    }
+  ],
+  "bio": "Noam Chomsky is a linguist and political activist. In the world of linguistics, he is famous for proposing the theory of <a href=\"http://en.wikipedia.org/wiki/Universal_grammar\">universal grammar</a> and for his work on <a href=\"http://en.wikipedia.org/wiki/Chomsky_hierarchy\">formal languages</a>; in the world of politics he is a prominent American left-wing intellectual. Chomsky’s Erdős number comes from his work with Marcel-Paul Schützenberger, which links the theory of formal languages with abstract algebra. His Bacon and Sabbath numbers stem from his role in American politics: he has appeared in any number of documentaries, and his political speeches have been sampled by musicians including Bassnectar and Buckethead.",
+  "erdos": [
+    [
+      {
+        "name": "Noam Chomsky,",
+        "role": "author",
+        "title": "The algebraic theory of context-free languages",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=152391",
+        "collaborator": "Marcel Paul Schützenberger",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Marcel Paul Schützenberger",
+        "role": "author",
+        "title": "Jeux de Nim et solutions",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=89116",
+        "collaborator": "Claude Berge",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Claude Berge",
+        "role": "author",
+        "title": "The coloring numbers of the direct product of two hypergraphs",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=366742",
+        "collaborator": "Miklós Simonovits",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Miklós Simonovits",
+        "role": "author",
+        "title": "A limit theorem in graph theory",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=205876",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Noam Chomsky",
+        "role": "self",
+        "title": "Dead Man Working",
+        "source": "http://www.imdb.com/title/tt1832932/",
+        "collaborator": "Deirdre Brennan",
+        "collaborator_role": "Cait"
+      },
+      {
+        "name": "Deirdre Brennan",
+        "role": "Det. Kelly Smith",
+        "title": "Blowtorch",
+        "source": "http://www.imdb.com/title/tt2556676/",
+        "collaborator": "William Baldwin",
+        "collaborator_role": "Detective Frank Hogan"
+      },
+      {
+        "name": "William Baldwin",
+        "role": "Dr. Joe Hurley",
+        "title": "Flatliners",
+        "source": "http://www.imdb.com/title/tt0099582/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "David Labraccio"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Noam Chomsky",
+        "role": "vocal sample",
+        "title": "Cuba on Paper — Buckethead & Viggo Mortensen",
+        "source": "http://en.wikipedia.org/wiki/Pandemoniumfromamerica",
+        "collaborator": "Buckethead",
+        "collaborator_role": "guitars"
+      },
+      {
+        "name": "Buckethead",
+        "role": "guitar",
+        "title": "The Big Eyeball In The Sky — Colonel Claypool’s Bucket Of Bernie Brains",
+        "source": "http://www.discogs.com/Colonel-Claypools-Bucket-Of-Bernie-Brains-The-Big-Eyeball-In-The-Sky/release/4988894",
+        "collaborator": "Les Claypool",
+        "collaborator_role": "bass, vocals"
+      },
+      {
+        "name": "Les Claypool",
+        "role": "bass",
+        "title": "N.I.B. — Primus with Ozzy",
+        "source": "http://www.discogs.com/Primus-With-Ozzy-NIB/release/914198",
+        "collaborator": "Ozzy Osbourne",
+        "collaborator_role": "vocals"
+      }
+    ]
+  ]
+}
