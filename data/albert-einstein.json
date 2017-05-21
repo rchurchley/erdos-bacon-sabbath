@@ -1,0 +1,128 @@
+{
+  "name": "Albert Einstein",
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Albert_Einstein"
+    },
+    {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm0251868/"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/19"
+    }
+  ],
+  "fields": [
+    {
+      "field": "science",
+      "role": "theoretical physicist"
+    },
+    {
+      "field": "music",
+      "role": "violinist"
+    }
+  ],
+  "bio": "Albert Einstein was a theoretical physicist famous for his general theory of relativity, the famous mass-energy equivalence formula <i>E=mc<sup>2</sup></i>, and many other breakthroughs in the early 20th century.",
+  "erdos": [
+    [
+      {
+        "name": "Albert Einstein,",
+        "role": "author",
+        "title": "The influence of the expansion of space on the gravitation fields surrounding the individual stars",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=12947",
+        "collaborator": "Ernst Gabor Straus",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Ernst Gabor Straus",
+        "role": "author",
+        "title": "On linear independence of sequences in a Banach space",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=58863",
+        "collaborator": "Paul Erdős</li>",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Albert Einstein",
+        "role": "self",
+        "title": "World Leaders on Peace and Democracy",
+        "source": "http://www.imdb.com/title/tt0293980/",
+        "collaborator": "Eduard Benes",
+        "collaborator_role": "self"
+      },
+      {
+        "name": "Eduard Benes",
+        "role": "self",
+        "title": "Crisis",
+        "source": "http://www.imdb.com/title/tt0195616/",
+        "collaborator": "Leif Erickson",
+        "collaborator_role": "self"
+      },
+      {
+        "name": "Leif Erickson",
+        "role": "Ralph Whittaker",
+        "title": "Twilight’s Last Gleaming",
+        "source": "http://www.imdb.com/title/tt0076845/",
+        "collaborator": "Charles Durning",
+        "collaborator_role": "President David T. Stevens"
+      },
+      {
+        "name": "Charles Durning",
+        "role": "The Captain",
+        "title": "Mister Roberts",
+        "source": "http://www.imdb.com/title/tt0207607/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Ens. Frank Pulver"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Albert Einstein,",
+        "role": "violin",
+        "title": "private performance with Juilliard String Quartet",
+        "source": "http://www.nytimes.com/2006/01/31/science/31essa.html",
+        "collaborator": "Robert Mann",
+        "collaborator_role": "violin"
+      },
+      {
+        "name": "Robert Mann",
+        "role": "violin",
+        "title": "Verklärte Nacht for String Sextet, Op.4",
+        "source": "http://www.arkivmusic.com/albumpage/9459-E833-8",
+        "collaborator": "Yo-Yo Ma",
+        "collaborator_role": "cello"
+      },
+      {
+        "name": "Yo-Yo Ma",
+        "role": "cello",
+        "title": "\"Fragile\" at the 2002 Winter Olympics",
+        "source": "http://en.wikipedia.org/wiki/Yo-Yo_Ma#Notable_live_performances",
+        "collaborator": "Sting",
+        "collaborator_role": "vocals"
+      },
+      {
+        "name": "Sting",
+        "role": "vocals",
+        "title": "Long Long Way To Go",
+        "source": "http://www.discogs.com/Phil-Collins-No-Jacket-Required/release/3727910",
+        "collaborator": "Phil Collins",
+        "collaborator_role": "vocals, keyboards"
+      },
+      {
+        "name": "Phil Collins",
+        "role": "drums",
+        "title": "\"Paranoid\" at the Queen's Golden Jubilee",
+        "source": "https://en.wikipedia.org/wiki/Party_at_the_Palace",
+        "collaborator": "Ozzy Osbourne, Tony Iommi",
+        "collaborator_role": "vocals, guitar"
+      }
+    ]
+  ]
+}
