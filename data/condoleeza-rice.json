@@ -1,0 +1,148 @@
+{
+  "name": "Condoleeza Rice",
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Condoleezza_Rice"
+    },
+    {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm1110666/"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/26"
+    }
+  ],
+  "fields": [
+    {
+      "field": "government",
+      "role": "US Secretary of State"
+    },
+    {
+      "field": "academia",
+      "role": "political science professor"
+    },
+    {
+      "field": "music",
+      "role": "concert pianist"
+    }
+  ],
+  "bio": "Condoleeza Rice is an American political scientist and diplomat. She served as the United States Secretary of State under George Bush and is a professor of political science at Stanford University. Rice’s original college major was piano; she has performed with the Denver Symphony, at diplomatic events, and with a chamber music group.",
+  "erdos": [
+    [
+      {
+        "name": "Condoleeza Rice,",
+        "role": "author",
+        "title": "Germany unified and Europe transformed: A study in statecraft",
+        "source": "http://dx.doi.org/10.2307/2171327",
+        "collaborator": "Philip Zelikow",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Philip Zelikow",
+        "role": "author",
+        "title": "Why people don’t trust government",
+        "source": "http://books.google.ca/books/about/Why_People_Don_t_Trust_Government.html?id=Ee9TMSvER7sC",
+        "collaborator": "David C. King",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "David C. King",
+        "role": "author",
+        "title": "Congressional vote options",
+        "source": "http://dx.doi.org/10.3162%2f036298003X200935",
+        "collaborator": "Richard J. Zeckhauser",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Richard J. Zeckhauser",
+        "role": "author",
+        "title": "Managing the quality of a resource with stock and flow controls",
+        "source": "http://dx.doi.org/10.1016%2fj.jpubeco.2006.06.003",
+        "collaborator": "Benjamin Van Roy",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Benjamin Van Roy",
+        "role": "author",
+        "title": "Solitaire: Man versus machine",
+        "source": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.140.5646",
+        "collaborator": "Persi Diaconis",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Persi Diaconis",
+        "role": "author",
+        "title": "On the distribution of the greatest common divisor",
+        "source": "http://dx.doi.org/10.1214/lnms/1196285379",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Dr. Condoleeza Rice",
+        "role": "Condoleezza Rice",
+        "title": "30 Rock S5E22",
+        "source": "http://www.imdb.com/title/tt1842558/",
+        "collaborator": "Tina Fey",
+        "collaborator_role": "Liz Lemon"
+      },
+      {
+        "name": "Tina Fey",
+        "role": "Roxanne Ritchie",
+        "title": "Megamind",
+        "source": "http://www.imdb.com/title/tt1001526/",
+        "collaborator": "Brad Pitt",
+        "collaborator_role": "Metro Man"
+      },
+      {
+        "name": "Brad Pitt",
+        "role": "Sgt. Bill Mauldin",
+        "title": "Beyond All Boundaries",
+        "source": "http://www.imdb.com/title/tt1448751/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Robert Sherrod"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Condoleeza Rice",
+        "role": "piano",
+        "title": "Brahms’ Violin Sonata in D Minor",
+        "source": "http://www.c-spanvideo.org/program/169718-1",
+        "collaborator": "Yo-Yo Ma",
+        "collaborator_role": "cello"
+      },
+      {
+        "name": "Yo-Yo Ma",
+        "role": "cello",
+        "title": "\"Fragile\" at the 2002 Winter Olympics",
+        "source": "http://en.wikipedia.org/wiki/Yo-Yo_Ma#Notable_live_performances",
+        "collaborator": "Sting",
+        "collaborator_role": "vocals"
+      },
+      {
+        "name": "Sting",
+        "role": "vocals",
+        "title": "Long Long Way To Go",
+        "source": "http://www.discogs.com/Phil-Collins-No-Jacket-Required/release/3727910",
+        "collaborator": "Phil Collins",
+        "collaborator_role": "vocals, keyboards"
+      },
+      {
+        "name": "Phil Collins",
+        "role": "drums",
+        "title": "\"Paranoid\" at the Queen's Golden Jubilee",
+        "source": "https://en.wikipedia.org/wiki/Party_at_the_Palace",
+        "collaborator": "Ozzy Osbourne, Tony Iommi",
+        "collaborator_role": "vocals, guitar"
+      }
+    ]
+  ]
+}
