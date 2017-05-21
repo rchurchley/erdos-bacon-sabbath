@@ -16,8 +16,8 @@
   ],
   "fields": [
     {
-      "field": "math",
-      "role": "popular math author"
+      "field": "nonfiction",
+      "role": "author, popular math books"
     },
     {
       "field": "science",
