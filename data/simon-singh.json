@@ -1,0 +1,166 @@
+{
+  "name": "Simon Singh",
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Simon_Singh"
+    },
+    {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm1320877/"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/21"
+    }
+  ],
+  "fields": [
+    {
+      "field": "math",
+      "role": "popular math author"
+    },
+    {
+      "field": "science",
+      "role": "particle physics PhD"
+    },
+    {
+      "field": "TV",
+      "role": "documentary director"
+    }
+  ],
+  "bio": "Simon Singh is a British author who specialises in writing mathematical and scientific topics in an accessible manner. His notable written works include <i>Fermat's Last Theorem</i>, <i>Big Bang</i>, and <i>Trick or Treatment? Alternative Medicine on Trial</i>.",
+  "erdos": [
+    [
+      {
+        "name": "Simon Singh",
+        "role": "author",
+        "title": "Fermat’s Last Stand",
+        "source": "http://www.scientificamerican.com/article/fermats-last-stand/",
+        "collaborator": "Ken Ribet",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Ken Ribet",
+        "role": "author",
+        "title": "Quotients of group rings arising from two-dimensional representations",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=1094193",
+        "collaborator": "Hendrik W. Lenstra, Jr.",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Hendrik W. Lenstra, Jr.",
+        "role": "author",
+        "title": "Continued fractions and linear recurrences",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=1192972",
+        "collaborator": "Jeffrey O. Shallit",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Jeffrey O. Shallit",
+        "role": "author",
+        "title": "New bounds on the length of finite Pierce and Engel series",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=1116100",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ],
+    [
+      {
+        "name": "Simon Singh",
+        "role": "author",
+        "title": "Measurement of the gluon structure function from direct photon data at the CERN anti-p p collider.",
+        "source": "http://inspirehep.net/record/341576",
+        "collaborator": "Luigi Di Lella",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Luigi Di Lella",
+        "role": "author",
+        "title": "Determination of the angular and energy dependence of hard constituent scattering from pi0 pair events at the CERN Intersecting Storage Rings",
+        "source": "http://cds.cern.ch/record/143923",
+        "collaborator": "Leon Max Lederman",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Leon Max Lederman",
+        "role": "author",
+        "title": "The SSC: A Machine for the Nineties",
+        "source": "http://dx.doi.org/10.1063/1.881003",
+        "collaborator": "Sheldon Lee Glashow",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Sheldon Lee Glashow",
+        "role": "author",
+        "title": "Mass formulas and mass inequalities for reducible unitary multiplets",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=172630",
+        "collaborator": "Daniel J. Kleitman",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Daniel J. Kleitman",
+        "role": "author",
+        "title": "On coloring graphs to maximize the proportion of multicolored <i>k</i>-edges",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=228375",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Dr. Simon Singh",
+        "role": "self",
+        "title": "The Most Annoying Pop Songs… We Hate to Love",
+        "source": "http://www.imdb.com/title/tt1140542/",
+        "collaborator": "Joel Stein",
+        "collaborator_role": "self"
+      },
+      {
+        "name": "Joel Stein",
+        "role": "self",
+        "title": "Sundance Skippy",
+        "source": "http://www.imdb.com/title/tt1518293/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "self"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Simon Singh",
+        "role": "alternate lyrics",
+        "title": "Nine Million Bicycles",
+        "source": "http://en.wikipedia.org/wiki/Nine_Million_Bicycles",
+        "collaborator": "Katie Melua",
+        "collaborator_role": "vocals"
+      },
+      {
+        "name": "Katie Melua",
+        "role": "vocals, guitar",
+        "title": "Call Off the Search",
+        "source": "http://www.discogs.com/Katie-Melua-Call-Off-The-Search/release/2700043",
+        "collaborator": "Mike Batt",
+        "collaborator_role": "organ, conductor"
+      },
+      {
+        "name": "Mike Batt",
+        "role": "conductor",
+        "title": "The Pig Must Die",
+        "source": "http://www.discogs.com/Mike-Batt-The-Hunting-Of-The-Snark/release/1051029",
+        "collaborator": "Roger Daltrey",
+        "collaborator_role": "vocals"
+      },
+      {
+        "name": "Roger Daltrey",
+        "role": "vocals",
+        "title": "Love’s Dream",
+        "source": "https://en.wikipedia.org/wiki/Lisztomania_(album)",
+        "collaborator": "Rick Wakeman",
+        "collaborator_role": "keyboards"
+      }
+    ]
+  ]
+}
