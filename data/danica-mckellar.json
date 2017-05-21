@@ -1,0 +1,124 @@
+{
+  "name": "Danica McKellar",
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Danica_McKellar"
+    },
+    {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm0005211/"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/27"
+    }
+  ],
+  "fields": [
+    {
+      "field": "tv",
+      "role": "<i>The Wonder Years</i>"
+    },
+    {
+      "field": "nonfiction",
+      "role": "author, popular math books"
+    },
+    {
+      "field": "math",
+      "role": "mathematical physics research"
+    }
+  ],
+  "bio": "Danica McKellar is an actress, film director, book author, and education advocate. After playing Winnie Cooper in The Wonder Years as a child, she earned an honours degree in math from UCLA and has written four non-fiction books encouraging high school girls to take up math. McKellar has performed in several music videos, including Debbie Gibson’s \"No More Rhyme\", Lou-Anne Judd Underbrooks' \"Patronizin’ You\", and (most famously) Avril Lavigne's \"Rock N Roll\"",
+  "erdos": [
+    [
+      {
+        "name": "Danica McKellar,",
+        "role": "author",
+        "title": "Percolation and Gibbs states multiplicity for ferromagnetic Ashkin-Teller models on <i>Z<sup>2</sup></i>",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=1654857",
+        "collaborator": "Lincoln Chayes",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Lincoln Chayes",
+        "role": "author",
+        "title": "The inverse problem in classical statistical mechanics",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=737464",
+        "collaborator": "Elliott H. Lieb",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Elliott H. Lieb",
+        "role": "author",
+        "title": "Some positive definite functions on sets and their application to the Ising model",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=311250",
+        "collaborator": "Daniel J. Kleitman",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Daniel J. Kleitman",
+        "role": "author",
+        "title": "On coloring graphs to maximize the proportion of multicolored <i>k</i>-edges",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=228375",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Danica McKellar",
+        "role": "Lacy Baldwin",
+        "title": "Raising Genius",
+        "source": "http://www.imdb.com/title/tt0328875/",
+        "collaborator": "Clint Howard",
+        "collaborator_role": "Mr. Goss"
+      },
+      {
+        "name": "Clint Howard",
+        "role": "Lloyd Davis",
+        "title": "Frost/Nixon",
+        "source": "http://www.imdb.com/title/tt0870111/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Jack Brennan"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Danica McKellar",
+        "role": "vocals",
+        "title": "America is Watching ABC — ABC advert",
+        "source": "http://www.youtube.com/watch?v=sJeBvyWAwiE",
+        "collaborator": "Neil Patrick Harris",
+        "collaborator_role": "vocals"
+      },
+      {
+        "name": "Neil Patrick Harris",
+        "role": "vocals",
+        "title": "Company",
+        "source": "http://www.imdb.com/title/tt1942831/",
+        "collaborator": "Stephen Colbert",
+        "collaborator_role": "vocals"
+      },
+      {
+        "name": "Stephen Colbert",
+        "role": "vocals",
+        "title": "\"Angel from Montgomery\" on the Colbert Report",
+        "source": "http://www.colbertnewshub.com/2012/04/17/april-16-2012-bonnie-raitt/",
+        "collaborator": "Bonnie Raitt",
+        "collaborator_role": "vocals, guitar"
+      },
+      {
+        "name": "Bonnie Raitt",
+        "role": "vocals",
+        "title": "It's Only Rock 'n Roll (But I Like It) — Artists for Children's Promise",
+        "source": "http://en.wikipedia.org/wiki/It's_Only_Rock_'n_Roll_(But_I_Like_It)",
+        "collaborator": "Ozzy Osbourne",
+        "collaborator_role": "vocals"
+      }
+    ]
+  ]
+}
