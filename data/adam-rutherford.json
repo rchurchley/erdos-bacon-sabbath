@@ -1,0 +1,160 @@
+{
+  "name": "Adam Rutherford",
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Adam_Rutherford"
+    },
+    {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm2472398/"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/30"
+    }
+  ],
+  "fields": [
+    {
+      "field": "science",
+      "role": "geneticist"
+    },
+    {
+      "field": "radio & TV",
+      "role": "BBC host, documentary producer"
+    }
+  ],
+  "bio": "Adam Rutherford is a British geneticist, author, and broadcaster. He was an editor for the journal Nature for a decade, is a frequent contributor to the newspaper The Guardian, hosts the BBC Radio4 program Inside Science, has produced several science documentaries and has published books related to genetics and the origin of life.",
+  "erdos": [
+    [
+      {
+        "name": "Adam Rutherford",
+        "role": "author",
+        "title": "Male sexual ornament size but not asymmetry reflects condition in stalk-eyed flies",
+        "source": "http://dx.doi.org/10.1098/rspb.1998.0561",
+        "collaborator": "Andrew Pomiankowski",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Andrew Pomiankowski",
+        "role": "author",
+        "title": "Evolution of the human ABO polymorphism by two complementary selective pressures",
+        "source": "http://dx.doi.org/10.1098/rspb.2004.2674",
+        "collaborator": "Robert M. Seymour",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Robert M. Seymour",
+        "role": "author",
+        "title": "Nonlinear filtering and Riemannian scalar curvature",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=898707",
+        "collaborator": "Robert James Elliott",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Robert James Elliott",
+        "role": "author",
+        "title": "Saddle points for linear differential games",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=325164",
+        "collaborator": "Lawrence Markus",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Lawrence Markus",
+        "role": "author",
+        "title": "On the non-linear difference-differential equation <i>y’(t) = [A - By (t-τ)] y(t)''</i>",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=101953",
+        "collaborator": "Shizuo Kakutani",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Shizuo Kakutani",
+        "role": "author",
+        "title": "On non-denumerable graphs",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=8136",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Adam Rutherford",
+        "role": "self",
+        "title": "Rex Appeal",
+        "source": "http://www.imdb.com/title/tt2075294/",
+        "collaborator": "Ian Christie",
+        "collaborator_role": "self"
+      },
+      {
+        "name": "Ian Christie",
+        "role": "self",
+        "title": "Cameraman: The Life and Work of Jack Cardiff",
+        "source": "http://www.imdb.com/title/tt1626811/",
+        "collaborator": "Martin Scorsese",
+        "collaborator_role": "self"
+      },
+      {
+        "name": "Martin Scorsese",
+        "role": "self",
+        "title": "Oliver Stone: Inside Out",
+        "source": "http://www.imdb.com/title/tt0143781/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "self"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Adam Rutherford",
+        "role": "director",
+        "title": "Space Shuttle music video",
+        "source": "http://www.guardian.co.uk/science/blog/2011/jul/21/space-shuttles-united-video-tribute",
+        "collaborator": "65 Days of Static",
+        "collaborator_role": "band, producer"
+      },
+      {
+        "name": "65 Days of Static",
+        "role": "band",
+        "title": "Come to Me",
+        "source": "https://www.discogs.com/65daysofstatic-We-Were-Exploding-Anyway/release/2251541",
+        "collaborator": "Robert Smith",
+        "collaborator_role": "vocals"
+      },
+      {
+        "name": "Robert Smith",
+        "role": "vocals, guitar",
+        "title": "The Top — The Cure",
+        "source": "http://en.wikipedia.org/wiki/The_Top_(album)",
+        "collaborator": "Andy Anderson",
+        "collaborator_role": "drums"
+      },
+      {
+        "name": "Andy Anderson",
+        "role": "drums",
+        "title": "\"I Don’t Remember\" live in Glastonbury",
+        "source": "http://petergabriel.altervista.org/htm/pg1979-06-23cass.htm",
+        "collaborator": "Peter Gabriel",
+        "collaborator_role": "vocals"
+      },
+      {
+        "name": "Peter Gabriel",
+        "role": "vocals",
+        "title": "Genesis",
+        "source": "http://en.wikipedia.org/wiki/Genesis_(band)",
+        "collaborator": "Phil Collins",
+        "collaborator_role": "drums"
+      },
+      {
+        "name": "Phil Collins",
+        "role": "drums",
+        "title": "\"Paranoid\" at the Queen's Golden Jubilee",
+        "source": "https://en.wikipedia.org/wiki/Party_at_the_Palace",
+        "collaborator": "Ozzy Osbourne, Tony Iommi",
+        "collaborator_role": "vocals, guitar"
+      }
+    ]
+  ]
+}
