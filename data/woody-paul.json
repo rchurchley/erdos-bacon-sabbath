@@ -1,0 +1,144 @@
+{
+  "name": "Woody Paul",
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Paul_Chrisman"
+    },
+    {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm0159645/"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/15"
+    }
+  ],
+  "fields": [
+    {
+      "field": "music",
+      "role": "fiddler, Riders in the Sky"
+    },
+    {
+      "field": "science",
+      "role": "physicist"
+    }
+  ],
+  "bio": "Woody Paul is a singer, fiddler, and composer in the Western group Riders in the Sky. He has a Ph.D. in plasma physics from MIT.",
+  "erdos": [
+    [
+      {
+        "name": "Paul W. Chrisman",
+        "role": "author",
+        "title": "Inertial, viscous and finite-beta effects in a resistive, time dependent Tokamak discharge (PhD thesis)",
+        "source": "http://library.mit.edu/item/000026551",
+        "collaborator": "James E. McCune",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "James E. McCune",
+        "role": "author",
+        "title": "Numerical study of drift-kinetic evolution of collisional plasmas in tori",
+        "source": "http://dx.doi.org/10.1088/0032-1028/19/7/002",
+        "collaborator": "W.I. van Rij",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "W.I. van Rij",
+        "role": "author",
+        "title": "Three-dimensional free boundary calculations using a spectral Green’s function method",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=869108",
+        "collaborator": "Steven P. Hirshman",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Steven P. Hirshman",
+        "role": "author",
+        "title": "Accelerated convergence of the steepest descent method for magnetohydrodynamic equilibria",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=805876",
+        "collaborator": "Carlos R. Handy",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Carlos R. Handy",
+        "role": "author",
+        "title": "Generating quantum energy bounds by the moment method: a linear-programming approach",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=949164",
+        "collaborator": "Thomas D. Morley",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Thomas D. Morley",
+        "role": "author",
+        "title": "The contraharmonic mean of HSD matrices",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=918069",
+        "collaborator": "Michael E. Mays",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Michael E. Mays",
+        "role": "author",
+        "title": "On nilpotent but not abelian groups and abelian but not cyclic groups",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=932381",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Paul W. Chrisman",
+        "role": "Opry band singer",
+        "title": "Sweet Dreams",
+        "source": "http://www.imdb.com/title/tt0090110/",
+        "collaborator": "Ed Harris",
+        "collaborator_role": "Charlie Dick"
+      },
+      {
+        "name": "Ed Harris",
+        "role": "Gene Kranz",
+        "title": "Apollo 13",
+        "source": "http://www.imdb.com/title/tt0112384/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Jack Swigert"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Woody Paul",
+        "role": "fiddler",
+        "title": "Riders in the Sky",
+        "source": "http://en.wikipedia.org/wiki/Riders_in_the_Sky_(band)",
+        "collaborator": "Joey Miskulin",
+        "collaborator_role": "accordionist"
+      },
+      {
+        "name": "Joey Miskulin",
+        "role": "organ",
+        "title": "Angel of Harlem",
+        "source": "http://en.wikipedia.org/wiki/Rattle_and_Hum",
+        "collaborator": "Bono",
+        "collaborator_role": "lead vocals"
+      },
+      {
+        "name": "Bono",
+        "role": "vocals",
+        "title": "\"Across the Universe\" at the Grammy Awards",
+        "source": "http://en.wikipedia.org/wiki/47th_Grammy_Awards",
+        "collaborator": "Slash",
+        "collaborator_role": "guitar"
+      },
+      {
+        "name": "Slash",
+        "role": "guitar",
+        "title": "Crucify the Dead",
+        "source": "http://en.wikipedia.org/wiki/Crucify_the_Dead",
+        "collaborator": "Ozzy Osbourne",
+        "collaborator_role": "vocals"
+      }
+    ]
+  ]
+}
