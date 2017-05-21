@@ -1,0 +1,124 @@
+{
+  "name": "Mayim Bialik",
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Mayim_Bialik"
+    },
+    {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm0080524/"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/25"
+    }
+  ],
+  "fields": [
+    {
+      "field": "TV",
+      "role": "<i>The Big Bang Theory</i>"
+    },
+    {
+      "field": "science",
+      "role": "neuroscientist"
+    },
+    {
+      "field": "nonfiction",
+      "role": "author, lifestyle books"
+    }
+  ],
+  "bio": "Mayim Bialik is an actress and neuroscientist. As a child, she played the title character in the TV series <i>Blossom</i> and appeared in the music video for Michael Jackson's \"Liberian Girl\". She earned her PhD in neuroscience in 2007, after which she returned to acting, joining the cast of <i>The Big Bang Theory</i> as Dr Amy Farrah Fowler.",
+  "erdos": [
+    [
+      {
+        "name": "Mayim H. Bialik",
+        "role": "author",
+        "title": "Sensorimotor Integration in Agenesis of the Corpus Callosum",
+        "source": "http://books.google.ca/books?id=fROW4vqDGvEC&pg=PA370",
+        "collaborator": "Eran Zaidel",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Eran Zaidel",
+        "role": "author",
+        "title": "Gender effects on callosal thickness in scaled and unscaled space",
+        "source": "http://www.ncbi.nlm.nih.gov/pubmed/16837835",
+        "collaborator": "Paul M. Thompson",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Paul M. Thompson",
+        "role": "author",
+        "title": "Brain surface parameterization using Riemann surface structure",
+        "source": "http://www.ncbi.nlm.nih.gov/pubmed/16686016",
+        "collaborator": "Shing Tung Yau",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Shing Tung Yau",
+        "role": "author",
+        "title": "On sampling with Markov chains",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=1611732",
+        "collaborator": "Ronald L. Graham",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Ronald L. Graham",
+        "role": "author",
+        "title": "On sums of Fibonnaci numbers",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=306101",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Mayim Bialik",
+        "role": "CC (age 11)",
+        "title": "Beaches",
+        "source": "http://www.imdb.com/title/tt0094715/",
+        "collaborator": "Phil Leeds",
+        "collaborator_role": "Sammy Pinkers"
+      },
+      {
+        "name": "Phil Leeds",
+        "role": "Mr. Spepk",
+        "title": "He Said, She Said",
+        "source": "http://www.imdb.com/title/tt0102011/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Dan Hanson"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Mayim Bialik",
+        "role": "vocals",
+        "title": "Holy Sh*t (You’ve Got to Vote)",
+        "source": "http://www.usmagazine.com/celebrity-news/news/rachel-bloom-amber-rose-tell-america-youve-got-to-vote-in-funny-or-die-song-w448697",
+        "collaborator": "Moby",
+        "collaborator_role": "vocals, drums"
+      },
+      {
+        "name": "Moby",
+        "role": "piano, vocals",
+        "title": "Why Does My Heart Feel So Bad?",
+        "source": "https://vimeo.com/151139332",
+        "collaborator": "Elton John",
+        "collaborator_role": "vocals"
+      },
+      {
+        "name": "Elton John",
+        "role": "vocals",
+        "title": "Tears in Heaven, for tsunami victims in Southeast Asia",
+        "source": "http://en.wikipedia.org/wiki/Tears_in_Heaven",
+        "collaborator": "Ozzy Osbourne",
+        "collaborator_role": "vocals"
+      }
+    ]
+  ]
+}
