@@ -1,0 +1,164 @@
+{
+  "name": "Imogen Heap",
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Imogen_Heap"
+    },
+    {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm2133880/"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/23"
+    }
+  ],
+  "fields": [
+    {
+      "field": "music",
+      "role": "singer-songwriter"
+    },
+    {
+      "field": "film",
+      "role": "self-documentarian"
+    },
+    {
+      "field": "industry",
+      "role": "inventor, musical gloves"
+    }
+  ],
+  "bio": "Imogen Heap is a singer-songwriter and composer known for her solo work and as one half of Frou Frou. She has won awards for her musical production and engineering talents, and is involved in the development of a glove-based interface for amplifying, recording, looping, and otherwise manipulating live music.",
+  "erdos": [
+    [
+      {
+        "name": "Imogen Heap,",
+        "role": "author",
+        "title": "Musical interaction with hand posture and orientation: A toolbox of gestural control mechanisms",
+        "source": "http://www.eecs.umich.edu/nime2012/Program.htm",
+        "collaborator": "Sebastian Madgwick",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Sebastian Madgwick",
+        "role": "author",
+        "title": "Adaptation of an commercially available stabilised R/C helicopter to a fully autonomous surveillance UAV",
+        "source": "http://centaur.reading.ac.uk/14779/",
+        "collaborator": "W. S. Harwin",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "W. S. Harwin",
+        "role": "author",
+        "title": "Finding the point on Bezier Curves with the normal vector passing an external point",
+        "source": "http://www.eecs.umich.edu/nime2012/Program.htm",
+        "collaborator": "Xia Hong",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Xia Hong",
+        "role": "author",
+        "title": "Hammerstein model identification algorithm using Bezier-Bernstein approximation",
+        "source": "http://dx.doi.org/10.1049/iet-cta:20060018",
+        "collaborator": "R. J. Mitchell",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "R. J. Mitchell",
+        "role": "author",
+        "title": "Model selection approaches for non-linear system identification",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=2441557",
+        "collaborator": "Christopher J. Harris",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Christopher J. Harris",
+        "role": "author",
+        "title": "Kernel ellipsoidal trimming",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=2409984",
+        "collaborator": "John Shawe-Taylor",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "John Shawe-Taylor",
+        "role": "author",
+        "title": "Distance-regularised graphs are distance-regular or distance-biregular",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=897237",
+        "collaborator": "Christopher D. Godsil",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Christopher D. Godsil",
+        "role": "author",
+        "title": "Intersection graphs for families of balls in <i><b>R</b><sup>n</sup></i>",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=957190",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Imogen Heap",
+        "role": "self",
+        "title": "The Dewarists",
+        "source": "http://www.imdb.com/title/tt2318582/",
+        "collaborator": "Monica Dogra",
+        "collaborator_role": "self"
+      },
+      {
+        "name": "Monica Dogra",
+        "role": "Michelle",
+        "title": "Fireflies",
+        "source": "http://www.imdb.com/title/tt2375666/",
+        "collaborator": "Shivani Ghai",
+        "collaborator_role": "Sharmila"
+      },
+      {
+        "name": "Shivani Ghai",
+        "role": "ground attendant",
+        "title": "Goal!",
+        "source": "http://www.imdb.com/title/tt0380389/",
+        "collaborator": "Lasco Atkins",
+        "collaborator_role": "football supporter"
+      },
+      {
+        "name": "Lasco Atkins",
+        "role": "Hellfire Club patron",
+        "title": "X-Men: First Class",
+        "source": "http://www.imdb.com/title/tt1270798/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Sebastian Shaw"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Imogen Heap",
+        "role": "keyboards",
+        "title": "Queen Of New Orleans",
+        "source": "imogen heap queen of new orleans",
+        "collaborator": "Jon Bon Jovi",
+        "collaborator_role": "vocals, guitar"
+      },
+      {
+        "name": "Jon Bon Jovi",
+        "role": "vocals",
+        "title": "Hell Is Living Without You",
+        "source": "http://en.wikipedia.org/wiki/Trash_%28Alice_Cooper_album%29",
+        "collaborator": "Alice Cooper",
+        "collaborator_role": "vocals"
+      },
+      {
+        "name": "Alice Cooper",
+        "role": "vocals",
+        "title": "Brutal Planet",
+        "source": "http://en.wikipedia.org/wiki/Brutal_Planet",
+        "collaborator": "Eric Singer",
+        "collaborator_role": "drums"
+      }
+    ]
+  ]
+}
