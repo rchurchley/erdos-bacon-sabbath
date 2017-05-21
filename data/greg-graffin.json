@@ -1,0 +1,128 @@
+{
+  "name": "Greg Graffin",
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Greg_Graffin"
+    },
+    {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm1069226/"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/13"
+    }
+  ],
+  "fields": [
+    {
+      "field": "music",
+      "role": "lead singer, Bad Religion"
+    },
+    {
+      "field": "science",
+      "role": "life sciences professor"
+    }
+  ],
+  "bio": "Greg Graffin is an American punk rock musician, college professor, and author. He is most recognized as the lead vocalist of the band Bad Religion.",
+  "erdos": [
+    [
+      {
+        "name": "Greg Graffin",
+        "role": "author",
+        "title": "Anarchy Evolution",
+        "source": "http://books.google.ca/books/about/Anarchy_Evolution.html?id=ALOagfpXwsYC",
+        "collaborator": "Steve Olsen",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Steve Olsen",
+        "role": "author",
+        "title": "Modelling the recent common ancestry of all living humans",
+        "source": "http://www.ncbi.nlm.nih.gov/pubmed/15457259",
+        "collaborator": "Joseph T. Chang",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Joseph T. Chang",
+        "role": "author",
+        "title": "Ladder heights, Gaussian random walks and the Riemann zeta function",
+        "source": "http://dx.doi.org/10.1214/aop/1024404419",
+        "collaborator": "Yuvel Peres",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Yuvel Peres",
+        "role": "author",
+        "title": "A birthday paradox for Markov chains, with an optimal bound for collision in the Pollard rho algorithm for discrete logarithm",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=2467861",
+        "collaborator": "Prasad Tetali",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Prasad Tetali",
+        "role": "author",
+        "title": "Representations of integers as the sum of <i>k</i> terms",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=1099791",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Greg Graffin",
+        "role": "self",
+        "title": "Punk’s Not Dead",
+        "source": "http://www.imdb.com/title/tt0350002/",
+        "collaborator": "Rodney Bingenheimer",
+        "collaborator_role": "self"
+      },
+      {
+        "name": "Rodney Bingenheimer",
+        "role": "self",
+        "title": "Back to the Beach",
+        "source": "http://www.imdb.com/title/tt0092608/",
+        "collaborator": "David Bowe",
+        "collaborator_role": "mountain"
+      },
+      {
+        "name": "David Bowe",
+        "role": "Cdr. Gibbs",
+        "title": "A Few Good Men",
+        "source": "http://www.imdb.com/title/tt0104257/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Capt. Jack Ross"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Greg Graffin,",
+        "role": "lead vocals",
+        "title": "Bad Religion (2001-2015)",
+        "source": "http://en.wikipedia.org/wiki/Bad_Religion",
+        "collaborator": "Brooks Wackerman",
+        "collaborator_role": "drums"
+      },
+      {
+        "name": "Brooks Wackerman",
+        "role": "drums",
+        "title": "Groove Family Cyco — Infectious Grooves",
+        "source": "http://en.wikipedia.org/wiki/Groove_Family_Cyco",
+        "collaborator": "Robert Trujillo",
+        "collaborator_role": "bass"
+      },
+      {
+        "name": "Robert Trujillo",
+        "role": "bass",
+        "title": "Down to Earth",
+        "source": "http://en.wikipedia.org/wiki/Down_to_Earth_(Ozzy_Osbourne_album)",
+        "collaborator": "Ozzy Osbourne",
+        "collaborator_role": "vocals"
+      }
+    ]
+  ]
+}
