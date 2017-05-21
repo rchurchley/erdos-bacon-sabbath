@@ -1,0 +1,108 @@
+{
+  "name": "Ray Kurzweil",
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Ray_Kurzweil"
+    },
+    {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm0961244/"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/28"
+    }
+  ],
+  "fields": [
+    {
+      "field": "industry",
+      "role": "inventor"
+    },
+    {
+      "field": "science",
+      "role": "futurist"
+    },
+    {
+      "field": "music",
+      "role": "inventor, Kurzweil Music Systems"
+    }
+  ],
+  "bio": "Ray Kurzweil is an author, inventor, and futurist. He was responsible for many significant inventions in optical character recognition in the 1970s; collaborated with Stevie Wonder to create a electronic synthesizer; and has written several bestselling books including <i>The Age of Spiritual Machines</i>.",
+  "erdos": [
+    [
+      {
+        "name": "Ray Kurzweil",
+        "role": "author",
+        "title": "Fetal–juvenile origins of point mutations in the adult human tracheal–bronchial epithelium: Absence of detectable effects of age, gender or smoking status",
+        "source": "http://dx.doi.org/10.1016/j.mrfmmm.2008.08.016",
+        "collaborator": "Stephan Morgenthaler",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Stephan Morgenthaler",
+        "role": "author",
+        "title": "Inference for the direction of the larger of two eigenvectors: the case of circular elongation",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=1491413",
+        "collaborator": "John Wilder Tukey",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "John Wilder Tukey",
+        "role": "author",
+        "title": "Generalized sandwich theorems",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=7036",
+        "collaborator": "Arthur Harold Stone",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Arthur Harold Stone",
+        "role": "author",
+        "title": "Some remarks on almost periodic transformations",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=11437",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Ray Kurzweil",
+        "role": "self",
+        "title": "Great Books: Nineteen Eighty-Four",
+        "source": "http://www.imdb.com/title/tt1439315/",
+        "collaborator": "Donald Sutherland",
+        "collaborator_role": "narrator"
+      },
+      {
+        "name": "Donald Sutherland",
+        "role": "X",
+        "title": "JFK",
+        "source": "http://www.imdb.com/title/tt0102138/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Willie O'Keefe"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Ray Kurzweil",
+        "role": "narration",
+        "title": "Spiritual Machines — Our Lady Peace",
+        "source": "http://en.wikipedia.org/wiki/Spiritual_Machines",
+        "collaborator": "Matt Cameron",
+        "collaborator_role": "drums"
+      },
+      {
+        "name": "Matt Cameron",
+        "role": "drums",
+        "title": "Time is Mine",
+        "source": "http://en.wikipedia.org/wiki/Iommi_(album)",
+        "collaborator": "Tony Iommi",
+        "collaborator_role": "guitar"
+      }
+    ]
+  ]
+}
