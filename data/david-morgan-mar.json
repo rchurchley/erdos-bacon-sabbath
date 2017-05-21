@@ -1,0 +1,168 @@
+{
+  "name": "David Morgan-Mar",
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/David_Morgan-Mar"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/24"
+    }
+  ],
+  "fields": [
+    {
+      "field": "art",
+      "role": "webcomic author, photographer"
+    },
+    {
+      "field": "science & industry",
+      "role": "physicist, optical engineer"
+    },
+    {
+      "field": "game design",
+      "role": "GURPS supplement author"
+    }
+  ],
+  "bio": "David Morgan-Mar is an Australian physicist known online for his webcomics, esoteric programming languages, and other projects. Morgan-Mar’s Bacon number may be reduced if you allow archival footage in The People vs George Lucas: Ahmed Best, the voice of Jar-Jar Binks, has a Bacon number of 2. Morgan-Mar may also have a direct (uncredited) appearance in The People vs George Lucas. Morgan-Mar wrote the lyrics to this song for his Irregular Podcast.",
+  "erdos": [
+    [
+      {
+        "name": "David P. Mar,",
+        "role": "author",
+        "title": "Xvoigt: An Interactive Absorption Line Fitting Program for the X Window System",
+        "source": "http://adsabs.harvard.edu/full/1995PASA...12..239M",
+        "collaborator": "Geoff Bailey",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Geoff Bailey",
+        "role": "author",
+        "title": "Recognition of path graphs in linear time",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=1445806",
+        "collaborator": "Elias Dahlhaus",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Elias Dahlhaus",
+        "role": "author",
+        "title": "MAD trees and distance-hereditary graphs",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=2016490",
+        "collaborator": "Wayne D. Goddard",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Wayne D. Goddard",
+        "role": "author",
+        "title": "Crossing families",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=1289067",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "David Morgan-Mar",
+        "role": "Han Solo",
+        "title": "Star Wars Uncut (1:17:42-1:17:55)",
+        "source": "http://www.starwarsuncut.com/newhope",
+        "collaborator": "Casey Pugh",
+        "collaborator_role": "director"
+      },
+      {
+        "name": "Casey Pugh",
+        "role": "self",
+        "title": "The People vs George Lucas",
+        "source": "http://www.imdb.com/title/tt1325014/fullcredits",
+        "collaborator": "MC Frontalot",
+        "collaborator_role": "self"
+      },
+      {
+        "name": "Damian Hess",
+        "role": "self",
+        "title": "Nerdcore Rising",
+        "source": "http://www.imdb.com/title/tt1159722/",
+        "collaborator": "Brian Posehn",
+        "collaborator_role": "self"
+      },
+      {
+        "name": "Brian Posehn",
+        "role": "Carney",
+        "title": "Sex Drive",
+        "source": "http://www.imdb.com/title/tt1135985/",
+        "collaborator": "David Koechner",
+        "collaborator_role": "hitchhiker"
+      },
+      {
+        "name": "David Koechner",
+        "role": "Bill Massey",
+        "title": "My One and Only",
+        "source": "http://www.imdb.com/title/tt1185431/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Dan Devereaux"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "David Morgan-Mar",
+        "role": "lyrics",
+        "title": "Buzz Buzz",
+        "source": "http://www.irregularwebcomic.net/podcasts/podcast022.html",
+        "collaborator": "Evan Dean",
+        "collaborator_role": "all instruments"
+      },
+      {
+        "name": "Evan Dean",
+        "role": "vocals",
+        "title": "The People People",
+        "source": "http://www.unsigned.com/thepeoplepoeple",
+        "collaborator": "Andrew Hillhouse",
+        "collaborator_role": "guitar"
+      },
+      {
+        "name": "Andrew Hillhouse",
+        "role": "guitar",
+        "title": "The Horse You Rode In On",
+        "source": "https://www.last.fm/music/The+Horse+You+Rode+In+On/+wiki",
+        "collaborator": "John Turnbull",
+        "collaborator_role": "drums"
+      },
+      {
+        "name": "John Turnbull",
+        "role": "bass",
+        "title": "The Ten Tenors US tour",
+        "source": "http://cjonline.com/stories/032103/wee_10tenors.shtml",
+        "collaborator": "The Ten Tenors",
+        "collaborator_role": "band"
+      },
+      {
+        "name": "The Ten Tenors",
+        "role": "band",
+        "title": "Here’s to the Heroes",
+        "source": "http://www.discogs.com/Ten-Tenors-Heres-To-The-Heroes/release/3382273",
+        "collaborator": "Richard Watkins",
+        "collaborator_role": "horns"
+      },
+      {
+        "name": "Richard Watkins",
+        "role": "horns",
+        "title": "Heaven on a Sunday — Paul McCartney",
+        "source": "http://www.discogs.com/Paul-McCartney-Flaming-Pie/release/1123212",
+        "collaborator": "Jeff Lynne",
+        "collaborator_role": "guitar"
+      },
+      {
+        "name": "Jeff Lynne",
+        "role": "vocals, guitar",
+        "title": "Electric Light Orchestra",
+        "source": "http://en.wikipedia.org/wiki/Electric_Light_Orchestra",
+        "collaborator": "Bev Bevan",
+        "collaborator_role": "drums"
+      }
+    ]
+  ]
+}
