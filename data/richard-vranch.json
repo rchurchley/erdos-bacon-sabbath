@@ -1,0 +1,116 @@
+{
+  "name": "Richard Vranch",
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Richard_Vranch"
+    },
+    {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm0903988/"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/12"
+    }
+  ],
+  "fields": [
+    {
+      "field": "stage",
+      "role": "comedian"
+    },
+    {
+      "field": "music",
+      "role": "pianist"
+    },
+    {
+      "field": "science",
+      "role": "physics PhD"
+    }
+  ],
+  "bio": "Richard Vranch is a comedian, writer, actor, and voiceoverer. He is part of the Comedy Store Players, a London improv comedy group, and has recently been doing stand-up comedy in French. Although he does not work as a musician, many people know him from his musical accompaniment on the original UK series <i>Whose Line is it Anyway?</i>. He has a Ph.D. in physics from the University of Cambridge.",
+  "erdos": [
+    [
+      {
+        "name": "Richard Vranch,",
+        "role": "author",
+        "title": "Spin‐dependent recombination in irradiated Si/SiO2 device structures",
+        "source": "http://link.aip.org/link/doi/10.1063/1.99192",
+        "collaborator": "M. Pepper",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "M. Pepper",
+        "role": "author",
+        "title": "Direct Observation of Nonequilibrium Spin Population in Quasi-One-Dimensional Nanostructures",
+        "source": "http://dx.doi.org/10.1021/nl903314j",
+        "collaborator": "D.A. Ritchie",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "D.A. Ritchie",
+        "role": "author",
+        "title": "Spectral engineering of terahertz quantum cascade lasers using focused ion beam etched photonic lattices",
+        "source": "http://dx.doi.org/10.1049/el:20064168",
+        "collaborator": "Sourav Chakraborty",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Sourav Chakraborty",
+        "role": "author",
+        "title": "Property testing of equivalence under a permutation group action",
+        "source": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.205.3833",
+        "collaborator": "László Babai",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "László Babai",
+        "role": "author",
+        "title": "Random Graph Isomorphism",
+        "source": "http://dx.doi.org/10.1137/0209047",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Richard Vranch",
+        "role": "self",
+        "title": "The Sweeney: The Life and Work of Jim Sweeney",
+        "source": "http://www.imdb.com/title/tt1956676/",
+        "collaborator": "Michael McShane",
+        "collaborator_role": "self"
+      },
+      {
+        "name": "Michael McShane",
+        "role": "extra voices",
+        "title": "Balto",
+        "source": "http://www.imdb.com/title/tt0112453/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Balto"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Richard Vranch",
+        "role": "keyboards and guitars",
+        "title": "Jammin’ (S3E2)",
+        "source": "http://en.wikipedia.org/wiki/Jammin'",
+        "collaborator": "Herbie Flowers",
+        "collaborator_role": "bass"
+      },
+      {
+        "name": "Herbie Flowers",
+        "role": "bass",
+        "title": "Funkist",
+        "source": "http://www.procolharum.com/99/bh_funkist-cd.htm",
+        "collaborator": "Tony Iommi",
+        "collaborator_role": "guitar"
+      }
+    ]
+  ]
+}
