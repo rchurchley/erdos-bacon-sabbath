@@ -1,0 +1,164 @@
+{
+  "name": "Douglas Adams",
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Douglas_Adams"
+    },
+    {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm0010930/"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/16"
+    }
+  ],
+  "fields": [
+    {
+      "field": "fiction",
+      "role": "author, <i>Hitchhiker's Guide to the Galaxy</i>"
+    },
+    {
+      "field": "science",
+      "role": "environmental activist"
+    },
+    {
+      "field": "music",
+      "role": "guitarist"
+    }
+  ],
+  "bio": "Douglas Adams was an English writer, humourist, and dramatist. He is best known as the author of the radio comedy and book series <i>The Hitchhiker's Guide to the Galaxy</i>. Adams was an enviromental activist who campaigned on behalf of endangered species; his <i>Last Chance to See</i> radio series and book with naturalist Mark Carwardine gives him an Erdős number of ten. His Sabbath number stems from his friendship with Pink Floyd guitarist David Gilmour: on Adams'42nd birthday, he was invited to play at one of Pink Floyd's concerts.",
+  "erdos": [
+    [
+      {
+        "name": "Douglas Adams",
+        "role": "author",
+        "title": "Last Chance to See",
+        "source": "http://en.wikipedia.org/wiki/Last_Chance_to_See",
+        "collaborator": "Mark Carwardine",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Mark Carwardine",
+        "role": "author",
+        "title": "North Pacific right whale (Eubalaena glacialis) sighting South of Baja California",
+        "source": "http://www.aquaticmammalsjournal.org/index.php?option=com_content&view=article&id=32&Itemid=56",
+        "collaborator": "Diane Gendron",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Diane Gendron",
+        "role": "author",
+        "title": "An integrated approch to the foraging ecology of marine birds and mammals",
+        "source": "http://dx.doi.org/10.1016/S0967-0645(98)00031-9",
+        "collaborator": "Jorge Urbán",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Jorge Urbán",
+        "role": "author",
+        "title": "Genetic identification of a small and highly isolated population of fin whales (Balaenoptera physalus) in the Sea of Cortez, México",
+        "source": "http://dx.doi.org/10.1023/A:1015224730394",
+        "collaborator": "Per J. Palsbøll",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Per J. Palsbøll",
+        "role": "author",
+        "title": "Discening between recurrent gene flow and recent divergence under a finite-site mutation model applied to North Atlantic and Mediterranean sea fin whale (Balaenoptera physalus) populations",
+        "source": "http://dx.doi.org/10.1023/A:1015224730394",
+        "collaborator": "Rasmus Nielsen",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Rasmus Nielsen",
+        "role": "author",
+        "title": "Distinguishing Migration From Isolation: A Markov Chain Monte Carlo Approach",
+        "source": "http://www.genetics.org/content/158/2/885.short",
+        "collaborator": "John Wakeley",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "John Wakeley",
+        "role": "author",
+        "title": "The two-locus ancestral graph in a subdivided population: convergence as the number of demes grows in the island model",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=2056675",
+        "collaborator": "Sabin Lessard",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Sabin Lessard",
+        "role": "author",
+        "title": "A criterion for stability-instability at fixation states involving an eigenvalue one with applications in population genetics",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=676958",
+        "collaborator": "Samuel Karlin",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Samuel Karlin",
+        "role": "author",
+        "title": "On certain differential-integral equations",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=112013",
+        "collaborator": "G. Szegö",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "G. Szegö",
+        "role": "author",
+        "title": "On a problem of I. Schur",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=6783",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Douglas Adams",
+        "role": "Ulverston Road Pepperpot",
+        "title": "Monty Python’s Flying Circus S4E5",
+        "source": "http://www.imdb.com/title/tt0650984/",
+        "collaborator": "Graham Chapman",
+        "collaborator_role": "Mr Neutron"
+      },
+      {
+        "name": "Graham Chapman",
+        "role": "King Arthur",
+        "title": "Monty Python and the Holy Grail",
+        "source": "http://www.imdb.com/title/tt0071853/",
+        "collaborator": "John Cleese",
+        "collaborator_role": "Sir Lancelot the Brave"
+      },
+      {
+        "name": "John Cleese",
+        "role": "Bartender",
+        "title": "The Big Picture",
+        "source": "http://www.imdb.com/title/tt0096926/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Nick Chapman"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Douglas Adams",
+        "role": "rhythm guitar",
+        "title": "Brain Damage live at Earls Court  — Pink Floyd",
+        "source": "https://en.wikipedia.org/wiki/Douglas_Adams#Pink_Floyd",
+        "collaborator": "David Gilmour",
+        "collaborator_role": "guitar"
+      },
+      {
+        "name": "David Gilmour",
+        "role": "guitar",
+        "title": "Smoke on the Water — Rock Aid Armenia",
+        "source": "http://en.wikipedia.org/wiki/Rock_Aid_Armenia",
+        "collaborator": "Tony Iommi",
+        "collaborator_role": "guitar"
+      }
+    ]
+  ]
+}
