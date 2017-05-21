@@ -1,0 +1,140 @@
+{
+  "name": "Patrick Moore",
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Patrick_Moore"
+    },
+    {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm0601716/"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/22"
+    }
+  ],
+  "fields": [
+    {
+      "field": "science",
+      "role": "astronomer"
+    },
+    {
+      "field": "TV",
+      "role": "presenter, <i>The Sky at Night</i>"
+    },
+    {
+      "field": "music",
+      "role": "xylophonist"
+    }
+  ],
+  "bio": "Patrick Moore was a prominent amateur astronomer famous for hosting the BBC's The Sky at Night. He was also a self-taught xylophonist, glockenspiel player, and pianist.",
+  "erdos": [
+    [
+      {
+        "name": "Brian May",
+        "role": "author",
+        "title": "Bang! The Complete History of the Universe",
+        "source": "http://www.banguniverse.com/",
+        "collaborator": "Chris Lintott",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Chris Lintott",
+        "role": "author",
+        "title": "Galaxy Zoo1: data release of morphological classifications for nearly900000 galaxies",
+        "source": "http://dx.doi.org/10.1111/j.1365-2966.2010.17432.x",
+        "collaborator": "Robert C. Nichol",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Robert C. Nichol",
+        "role": "author",
+        "title": "The Galaxy Luminosity Function and Luminosity Density at Redshift <i>z=0.1</i>",
+        "source": "http://dx.doi.org/10.1086/375776",
+        "collaborator": "Max Tegmark",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Max Tegmark",
+        "role": "author",
+        "title": "An elementary proof that the biharmonic Green function of an eccentric ellipse changes sign",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=1267051",
+        "collaborator": "Harold S. Shapiro",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Harold S. Shapiro",
+        "role": "author",
+        "title": "Large and small subspaces of Hilbert space",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=178349",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Patrick Moore",
+        "role": "self",
+        "title": "The Sky at Night",
+        "source": "http://www.bbc.co.uk/archive/moonlandings/7609.shtml",
+        "collaborator": "Buzz Aldrin",
+        "collaborator_role": "self"
+      },
+      {
+        "name": "Buzz Aldrin",
+        "role": "Buzz Aldrin",
+        "title": "Transformers: Dark of the Moon",
+        "source": "http://www.imdb.com/title/tt1399103/",
+        "collaborator": "Glenn Morshower",
+        "collaborator_role": "General Morshower"
+      },
+      {
+        "name": "Glenn Morshower",
+        "role": "Colonel Hendry",
+        "title": "X-Men: First Class",
+        "source": "http://www.imdb.com/title/tt1270798/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Sebastian Shaw"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Patrick Moore,",
+        "role": "xylophone",
+        "title": "xylophone duet",
+        "source": "http://en.wikipedia.org/wiki/Patrick_Moore",
+        "collaborator": "Evelyn Glennie",
+        "collaborator_role": "xylophone"
+      },
+      {
+        "name": "Evelyn Glennie",
+        "role": "tuned car exhaust pipes",
+        "title": "My Spine",
+        "source": "http://www.discogs.com/Evelyn-Glennie-Her-Greatest-Hits/release/1227408",
+        "collaborator": "Björk",
+        "collaborator_role": "vocals"
+      },
+      {
+        "name": "Björk",
+        "role": "vocals, keyboards",
+        "title": "Army of Me",
+        "source": "https://en.wikipedia.org/wiki/Army_of_Me_(Björk_song)",
+        "collaborator": "Skin",
+        "collaborator_role": "additional vocals"
+      },
+      {
+        "name": "Skin",
+        "role": "vocals",
+        "title": "Meat",
+        "source": "http://en.wikipedia.org/wiki/Iommi_(album)",
+        "collaborator": "Tony Iommi",
+        "collaborator_role": "guitar"
+      }
+    ]
+  ]
+}
