@@ -1,0 +1,120 @@
+{
+  "name": "Colin Firth",
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Colin_Firth"
+    }
+  ],
+  "fields": [
+    {
+      "field": "film",
+      "role": "<i>Bridget Jones's Diary</i>, <i>The King's Speech</i>"
+    },
+    {
+      "field": "music",
+      "role": "<i>Mamma Mia!</i> soundtrack"
+    }
+  ],
+  "bio": "Colin Firth is an English film, television, and theatre actor. While guest editing a BBC radio program, Firth commissioned a study on the neuroscience of political leanings. His contributions led to a coauthorship on the resulting paper.",
+  "erdos": [
+    [
+      {
+        "name": "Colin Firth",
+        "role": "author",
+        "title": "Political Orientations Are Correlated with Brain Structure in Young Adults",
+        "source": "http://www.cell.com/current-biology/retrieve/pii/S0960982211002892",
+        "collaborator": "Geraint Rees",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Geraint Rees",
+        "role": "author",
+        "title": "Knowing with Which Eye We See: Utrocular Discrimination and Eye-Specific Signals in Human Visual Cortex",
+        "source": "http://dx.crossref.org/10.1371%2Fjournal.pone.0013775",
+        "collaborator": "Andreas Schindler",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Andreas Schindler",
+        "role": "author",
+        "title": "Rivalry between afterimages and real images: The influence of the percept and the eye",
+        "source": "http://dx.doi.org/10.1167/11.9.7",
+        "collaborator": "Nikos Logothetis",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Nikos Logothetis",
+        "role": "author",
+        "title": "Long-Term Stability of Visual Pattern Selective Responses of Monkey Temporal Lobe Neurons",
+        "source": "http://dx.crossref.org/10.1371%2Fjournal.pone.0008222",
+        "collaborator": "Jonathan D. Victor",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Jonathan D. Victor",
+        "role": "author",
+        "title": "Combinatorial Applications of Hermite Polynomials",
+        "source": "http://dx.doi.org/10.1137/0513062",
+        "collaborator": "Joseph Gillis",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Joseph Gillis",
+        "role": "author",
+        "title": "Note on the Transfinite Diameter",
+        "source": "http://dx.doi.org/10.1112/jlms/s1-12.2.185",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Colin Firth",
+        "role": "Vince",
+        "title": "Where the Truth Lies",
+        "source": "http://www.imdb.com/title/tt0373450/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Lanny"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Colin Firth",
+        "role": "vocals",
+        "title": "Our Last Summer",
+        "source": "https://en.wikipedia.org/wiki/Mamma_Mia!_The_Movie_Soundtrack",
+        "collaborator": "Benny Andersson",
+        "collaborator_role": "piano, keyboards"
+      },
+      {
+        "name": "Benny Andersson",
+        "role": "piano, keyboards",
+        "title": "ABBA (1972–82)",
+        "source": "http://en.wikipedia.org/wiki/ABBA",
+        "collaborator": "Frida Lyngstad",
+        "collaborator_role": "vocals"
+      },
+      {
+        "name": "Frida Lyngstad",
+        "role": "vocals",
+        "title": "Something's Going On",
+        "source": "https://en.wikipedia.org/wiki/Something%27s_Going_On",
+        "collaborator": "Phil Collins",
+        "collaborator_role": "drums"
+      },
+      {
+        "name": "Phil Collins",
+        "role": "drums",
+        "title": "\"Paranoid\" at the Queen's Golden Jubilee",
+        "source": "https://en.wikipedia.org/wiki/Party_at_the_Palace",
+        "collaborator": "Ozzy Osbourne, Tony Iommi",
+        "collaborator_role": "vocals, guitar"
+      }
+    ]
+  ]
+}
