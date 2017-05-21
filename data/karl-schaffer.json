@@ -1,0 +1,124 @@
+{
+  "name": "Karl Schaffer",
+  "references": [
+    {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm0787234/"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/20"
+    }
+  ],
+  "fields": [
+    {
+      "field": "math",
+      "role": "graph theorist"
+    },
+    {
+      "field": "stage",
+      "role": "dancer & choreographer"
+    }
+  ],
+  "bio": "Karl Schaffer is a mathematician and dancer. He directs several Santa Cruz based touring shows about dance and mathematics, and has co-directed the Dr. Schaffer and Mr. Stern Dance Ensemble for the past 20 years.",
+  "erdos": [
+    [
+      {
+        "name": "Karl Schaffer,",
+        "role": "author",
+        "title": "Some <i>k</i>-fold edge-graceful labelings of <i>(p, p−1)</i>-graphs",
+        "source": "http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.111.1226",
+        "collaborator": "Sin-Min Lee",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Sin-Min Lee",
+        "role": "author",
+        "title": "Uniformly cordial graphs",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=2234980",
+        "collaborator": "Gary Chartrand",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Gary Chartrand",
+        "role": "author",
+        "title": "Highly irregular graphs",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=889356",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Karl Shaeffer (sic)",
+        "role": "Klown performer",
+        "title": "Killer Klowns from Outer Space",
+        "source": "http://www.imdb.com/title/tt0095444/",
+        "collaborator": "Danny Kovacs",
+        "collaborator_role": "Punk #2"
+      },
+      {
+        "name": "Danny Kovacs",
+        "role": "man on the street",
+        "title": "Murder in the First",
+        "source": "http://www.imdb.com/title/tt0113870/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Henri Young"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Karl Schaffer,",
+        "role": "choreography",
+        "title": "Imaginary Numbers dance",
+        "source": "http://www.schafferstern.org/html/2009imagnumbers.html",
+        "collaborator": "Janet Herman",
+        "collaborator_role": "vocals"
+      },
+      {
+        "name": "Janet Herman",
+        "role": "vocals",
+        "title": "Return to Me in the Morning",
+        "source": "http://bananaslugs.bandcamp.com/album/wings-of-slumber",
+        "collaborator": "Banana Slug String Band",
+        "collaborator_role": "band"
+      },
+      {
+        "name": "Banana Slug String Band",
+        "role": "band",
+        "title": "Only One Ocean",
+        "source": "https://bananaslugs.bandcamp.com/album/only-one-ocean",
+        "collaborator": "Victor Wooten",
+        "collaborator_role": "bass"
+      },
+      {
+        "name": "Victor Wooten",
+        "role": "bass",
+        "title": "The Maker",
+        "source": "http://www.discogs.com/Dave-Matthews-Band-Live-in-Chicago-At-The-United-Center-121998/release/534816",
+        "collaborator": "Dave Matthews",
+        "collaborator_role": "vocals, guitar"
+      },
+      {
+        "name": "Dave Matthews",
+        "role": "vocals",
+        "title": "\"Wild Horses\" on the Bridges to Babylon tour — The Rolling Stones",
+        "source": "http://www.discogs.com/Rolling-Stones-Bridges-To-Babylon-Tour-97-98/release/3986913",
+        "collaborator": "Mick Jagger",
+        "collaborator_role": "guitar"
+      },
+      {
+        "name": "Mick Jagger",
+        "role": "vocals",
+        "title": "It’s Only Rock ‘n Roll (But I Like It) — Artists for Children’s Promise",
+        "source": "http://en.wikipedia.org/wiki/It%27s_Only_Rock_%27n_Roll_(But_I_Like_It)",
+        "collaborator": "Ozzy Osbourne",
+        "collaborator_role": "vocals"
+      }
+    ]
+  ]
+}
