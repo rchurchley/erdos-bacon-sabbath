@@ -4,6 +4,14 @@
     {
       "source": "Wikipedia",
       "url": "https://en.wikipedia.org/wiki/Colin_Firth"
+    },
+    {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm0000147/"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/11"
     }
   ],
   "fields": [

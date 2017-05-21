@@ -6,6 +6,10 @@
       "url": "http://en.wikipedia.org/wiki/James_Randi"
     },
     {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm0709791/"
+    },
+    {
       "source": "Discussion",
       "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/9"
     }

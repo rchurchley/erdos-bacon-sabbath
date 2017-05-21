@@ -6,6 +6,10 @@
       "url": "http://en.wikipedia.org/wiki/Brian_May"
     },
     {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm0006190/"
+    },
+    {
       "source": "Discussion",
       "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/1"
     }

@@ -6,6 +6,10 @@
       "url": "http://en.wikipedia.org/wiki/Thomas_Edison"
     },
     {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm0249379/"
+    },
+    {
       "source": "Discussion",
       "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/10"
     }
