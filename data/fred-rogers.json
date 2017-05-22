@@ -1,0 +1,168 @@
+{
+  "name": "Fred Rogers",
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Fred_Rogers"
+    },
+    {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm0736872/"
+    },
+    {
+      "source": "Discogs",
+      "url": "https://www.discogs.com/artist/702016-Fred-Rogers"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/33"
+    }
+  ],
+  "fields": [
+    {
+      "field": "TV",
+      "role": "<i>Mister Rogers' Neighborhood</i>"
+    }
+  ],
+  "bio": "Fred Rogers was an American educator, author, and television host. Rogers was most famous for creating and hosting Mister Rogers' Neighborhood, which featured his gentle, soft-spoken personality and directness to his audiences.",
+  "erdos": [
+    [
+      {
+        "name": "Fred Rogers",
+        "role": "author",
+        "title": "Mister Rogers Talks with Parents",
+        "source": "http://www.neighborhoodarchive.com/publications/parents/talkwparents/index.html",
+        "collaborator": "Barry Head",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Barry Head",
+        "role": "author",
+        "title": "Mister Rogers’ Plan & Play Book",
+        "source": "http://www.neighborhoodarchive.com/publications/parents/planplay6/index.html",
+        "collaborator": "Roberta Schomburg",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Roberta Schomburg",
+        "role": "author",
+        "title": "Language activities",
+        "source": "http://dx.doi.org/10.1300/J274v21n01_08",
+        "collaborator": "Ethel Tittnich",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Ethel Tittnich",
+        "role": "author",
+        "title": "Supply and demand in early childhood services",
+        "source": "http://dx.doi.org/10.1016/0193-3973(94)90026-4",
+        "collaborator": "Robert B. McCall",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Robert B. McCall",
+        "role": "author",
+        "title": "Bias in the analysis of repeated-measures designs: some alternative approaches",
+        "source": "http://www.jstor.org/stable/1127993",
+        "collaborator": "Mark I. Appelbaum",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Mark I. Appelbaum",
+        "role": "author",
+        "title": "Variance stabilizing transformations and the power of the F test",
+        "source": "http://dx.doi.org/10.3102/10769986006001055",
+        "collaborator": "David B. Vudescu",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "David B. Vudescu",
+        "role": "author",
+        "title": "Does probability weighting matter in probability elicitation?",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=2818219",
+        "collaborator": "Ali Abbas",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Ali Abbas",
+        "role": "author",
+        "title": "Invariance of multiattribute utility functions under shift transformations",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=2529623",
+        "collaborator": "János D. Aczél",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "János D. Aczél",
+        "role": "author",
+        "title": "The non-existence of a Hamel-basis and the general solution of Cauchy’s functional equation for non-negative numbers",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=186563",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Fred Rogers",
+        "role": "self",
+        "title": "Mister Rogers' Neighborhood 1725",
+        "source": "http://www.imdb.com/title/tt0649695/",
+        "collaborator": "LeVar Burton",
+        "collaborator_role": "self"
+      },
+      {
+        "name": "LeVar Burton",
+        "role": "Geordi La Forge",
+        "title": "Star Trek: Generations",
+        "source": "http://www.imdb.com/title/tt0111280/",
+        "collaborator": "Glenn Morshower",
+        "collaborator_role": "navigator"
+      },
+      {
+        "name": "Glenn Morshower",
+        "role": "Colonel Hendry",
+        "title": "X: First Class",
+        "source": "http://www.imdb.com/title/tt1270798/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Sebastian Shaw"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Fred Rogers",
+        "role": "vocals",
+        "title": "Tree Tree Tree",
+        "source": "https://www.youtube.com/watch?v=MO5kC96z6VA",
+        "collaborator": "Yo-Yo Ma",
+        "collaborator_role": "cello"
+      },
+      {
+        "name": "Yo-Yo Ma",
+        "role": "cello",
+        "title": "\"Fragile\" at the 2002 Winter Olympics",
+        "source": "http://en.wikipedia.org/wiki/Yo-Yo_Ma#Notable_live_performances",
+        "collaborator": "Sting",
+        "collaborator_role": "vocals"
+      },
+      {
+        "name": "Sting",
+        "role": "vocals",
+        "title": "Long Long Way To Go",
+        "source": "http://www.discogs.com/Phil-Collins-No-Jacket-Required/release/3727910",
+        "collaborator": "Phil Collins",
+        "collaborator_role": "vocals, keyboards"
+      },
+      {
+        "name": "Phil Collins",
+        "role": "drums",
+        "title": "\"Paranoid\" at the Queen's Golden Jubilee",
+        "source": "https://en.wikipedia.org/wiki/Party_at_the_Palace",
+        "collaborator": "Ozzy Osbourne, Tony Iommi",
+        "collaborator_role": "vocals, guitar"
+      }
+    ]
+  ]
+}
