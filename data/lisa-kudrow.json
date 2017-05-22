@@ -1,0 +1,168 @@
+{
+  "name": "Lisa Kudrow",
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Lisa_Kudrow"
+    },
+    {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm0001435/"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/43"
+    }
+  ],
+  "fields": [
+    {
+      "field": "film & TV",
+      "role": "<i>Friends</i>"
+    },
+    {
+      "field": "science",
+      "role": "medical researcher"
+    }
+  ],
+  "bio": "Lisa Kudrow is an actress and comedian. She is best known for her ten-season run as Phoebe Buffay on the television sitcom <i>Friends</i>. Before breaking into acting, she spent eight years pursuing a career in medical research.",
+  "erdos": [
+    [
+      {
+        "name": "Lisa Kudrow",
+        "role": "author",
+        "title": "Handedness and Headache",
+        "source": "https://dx.doi.org/10.1046%2Fj.1468-2982.1994.1401064.x",
+        "collaborator": "Lee Kudrow",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Lee Kudrow",
+        "role": "author",
+        "title": "Sleep apnea in cluster headache",
+        "source": "http://dx.doi.org/10.1046/j.1468-2982.1984.0401033.x",
+        "collaborator": "Dennis J McGinty",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Dennis J McGinty",
+        "role": "author",
+        "title": "Dorsal raphe neurons: depression of firing during sleep in cats",
+        "source": "http://www.sciencedirect.com/science/article/pii/0006899376904807",
+        "collaborator": "Ronald M Harper",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Ronald M Harper",
+        "role": "author",
+        "title": "Patterns of beat-to-beat heart rate variability in advanced heart failure",
+        "source": "http://dx.doi.org/10.1016/0002-8703(92)90510-3",
+        "collaborator": "Robert B. Trelease",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Robert B. Trelease",
+        "role": "author",
+        "title": "Transforming clinical imaging data for virtual reality learning objects",
+        "source": "http://dx.doi.org/10.1002/ase.13",
+        "collaborator": "Antoine Rosset",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Antoine Rosset",
+        "role": "author",
+        "title": "A reference data set for the evaluation of medical image retrieval systems",
+        "source": "http://dx.doi.org/10.1016/j.compmedimag.2004.04.005",
+        "collaborator": "Henning Müller",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Henning Müller",
+        "role": "author",
+        "title": "Rotation-covariant texture learning using steerable Riesz wavelets",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=3159548",
+        "collaborator": "Dimitri Van De Ville",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Dimitri Van De Ville",
+        "role": "author",
+        "title": "Hex-splines: a novel spline family for hexagonal lattices",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=2068962",
+        "collaborator": "Michael A. Unser",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Michael A. Unser",
+        "role": "author",
+        "title": "Left-inverses of fractional Laplacian and sparse stochastic processes",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=2893473",
+        "collaborator": "Qiyu Sun",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Qiyu Sun",
+        "role": "author",
+        "title": "Tight frame oversampling and its equivalence to shift-invariance of affine frame operators",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=1949883",
+        "collaborator": "Charles Kam-tai Chui",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Charles Kam-tai Chui",
+        "role": "author",
+        "title": "On changes of signs in infinite series",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=481706",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Lisa Kudrow",
+        "role": "Leslie",
+        "title": "Kabluey",
+        "source": "http://www.imdb.com/title/tt0816545/",
+        "collaborator": "Googy Gress",
+        "collaborator_role": "annoyed customer"
+      },
+      {
+        "name": "Googy Gress",
+        "role": "RETRO White",
+        "title": "Apollo 13",
+        "source": "http://www.imdb.com/title/tt0112384/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Jack Swigert"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Lisa Kudrow",
+        "role": "guitar, vocals",
+        "title": "Smelly Cat live in Los Angeles",
+        "source": "http://www.rollingstone.com/music/news/watch-taylor-swift-sing-smelly-cat-with-lisa-kudrow-at-l-a-show-20150827",
+        "collaborator": "Taylor Swift",
+        "collaborator_role": "guitar, vocals"
+      },
+      {
+        "name": "Taylor Swift",
+        "role": "guitar",
+        "title": "Ghosttown at the iHeartRadio Music Awards",
+        "source": "http://www.hitfix.com/news/watch-taylor-swift-backed-up-madonna-at-the-iheartradio-music-awards",
+        "collaborator": "Madonna",
+        "collaborator_role": "vocals"
+      },
+      {
+        "name": "Madonna",
+        "role": "vocals",
+        "title": "Shake Your Head",
+        "source": "https://en.wikipedia.org/wiki/Shake_Your_Head",
+        "collaborator": "Ozzy Osbourne",
+        "collaborator_role": "vocals"
+      }
+    ]
+  ]
+}
