@@ -1,0 +1,144 @@
+{
+  "name": "Warwick Holt",
+  "references": [
+    {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm1893344/"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/38"
+    }
+  ],
+  "fields": [
+    {
+      "field": "film & TV",
+      "role": "comedy screenwriter"
+    },
+    {
+      "field": "math",
+      "role": "applied mathematician"
+    },
+    {
+      "field": "music",
+      "role": "garage band pianist"
+    }
+  ],
+  "bio": "Warwick Holt is an Australian comedy screenwriter, former mathematician, and garage musician.",
+  "erdos": [
+    [
+      {
+        "name": "Warwick Holt",
+        "role": "author",
+        "title": "Pair Interactions between Heterogeneous Spheres",
+        "source": "http://dx.doi.org/10.1021/la960389x",
+        "collaborator": "Derek Y.C. Chan",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Derek Y.C. Chan",
+        "role": "author",
+        "title": "New integer linear programming approaches for course timetabling",
+        "source": "http://dx.doi.org/10.1016/j.cor.2006.10.016",
+        "collaborator": "Natashia Boland",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Natashia Boland",
+        "role": "author",
+        "title": "Convergent network approximation for the continuous Euclidean length constrained minimum cost path problem",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=2496893",
+        "collaborator": "Song Wang",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Song Wang",
+        "role": "author",
+        "title": "Solving 0-1 programming problems by a penalty approach",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=1474689",
+        "collaborator": "Louis Caccetta",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Louis Caccetta",
+        "role": "author",
+        "title": "The difference between the clique numbers of a graph",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=790923",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Warwick Holt",
+        "role": "director, producer",
+        "title": "The PhanDom Menace",
+        "source": "http://www.imdb.com/title/tt0462010/",
+        "collaborator": "Leigh Whannell",
+        "collaborator_role": "self"
+      },
+      {
+        "name": "Leigh Whannell",
+        "role": "Spink",
+        "title": "Death Sentence",
+        "source": "http://www.imdb.com/title/tt0804461/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Nick Hume"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Warwick Holt",
+        "role": "piano",
+        "title": "Plastic Spacemen",
+        "source": "http://plasticspacemen.net/history.html",
+        "collaborator": "Martin Evans",
+        "collaborator_role": "drums"
+      },
+      {
+        "name": "Martin Evans",
+        "role": "drums",
+        "title": "The Day Everything Became Nothing",
+        "source": "http://www.metal-archives.com/bands/The_Day_Everything_Became_Nothing/14074",
+        "collaborator": "Tony Forde",
+        "collaborator_role": "vocals"
+      },
+      {
+        "name": "Tony Forde",
+        "role": "vocals",
+        "title": "Blood Duster",
+        "source": "http://en.wikipedia.org/wiki/Blood_Duster_(album)",
+        "collaborator": "Dave Evans",
+        "collaborator_role": "vocals"
+      },
+      {
+        "name": "Dave Evans",
+        "role": "vocals",
+        "title": "Can I Sit Next to You, Girl — AC/DC",
+        "source": "https://en.wikipedia.org/wiki/Can_I_Sit_Next_to_You,_Girl",
+        "collaborator": "Malcolm & Angus Young",
+        "collaborator_role": "guitar"
+      },
+      {
+        "name": "Malcolm & Angus Young",
+        "role": "guitar",
+        "title": "AC/DC  (1983-89)",
+        "source": "http://en.wikipedia.org/wiki/AC/DC",
+        "collaborator": "Simon Wright",
+        "collaborator_role": "drums"
+      },
+      {
+        "name": "Simon Wright",
+        "role": "drums",
+        "title": "Lock Up the Wolves",
+        "source": "http://en.wikipedia.org/wiki/Lock_Up_the_Wolves",
+        "collaborator": "Ronnie James Dio",
+        "collaborator_role": "vocals"
+      }
+    ]
+  ]
+}
