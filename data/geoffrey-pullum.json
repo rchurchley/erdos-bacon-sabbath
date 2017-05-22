@@ -1,0 +1,120 @@
+{
+  "name": "Geoffrey Pullum",
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Geoffrey_K._Pullum"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/34"
+    }
+  ],
+  "fields": [
+    {
+      "field": "science",
+      "role": "linguist"
+    },
+    {
+      "field": "music",
+      "role": "organist, the Ram Jam Band"
+    },
+    {
+      "field": "film",
+      "role": "small dramatic role, <i>His Eye</i>"
+    }
+  ],
+  "bio": "Geoffrey Pullum is a British-American linguist specialising in the study of English. He is Professor of General Linguistics at the University of Edinburgh, a regular contributor to <a href='http://languagelog.ldc.upenn.edu/nll/'>Language Log</a>, and a former rock-and-roll pianist.",
+  "erdos": [
+    [
+      {
+        "name": "Geoffrey Pullum",
+        "role": "author",
+        "title": "The X-Bar Theory of Phrase Structure",
+        "source": "http://www.jstor.org/stable/415278",
+        "collaborator": "András Kornai",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "András Kornai",
+        "role": "author",
+        "title": "Narrowness, pathwidth, and their application in natural language processing",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=1158774",
+        "collaborator": "Zsolt Tuza",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Zsolt Tuza",
+        "role": "author",
+        "title": "Radius, diameter, and minimum degree",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=1007715",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Geoff Pullum",
+        "role": "The Professor",
+        "title": "His Eye",
+        "source": "http://vimeo.com/78989220",
+        "collaborator": "Bernadette Wilson",
+        "collaborator_role": "director"
+      },
+      {
+        "name": "Bernadette Wilson",
+        "role": "teacher",
+        "title": "Wild Tigers I Have Known",
+        "source": "http://www.imdb.com/title/tt0430768/",
+        "collaborator": "Kim Dickens",
+        "collaborator_role": "The Counselor"
+      },
+      {
+        "name": "Kim Dickens",
+        "role": "Sarah Kennedy",
+        "title": "Hollow Man",
+        "source": "http://www.imdb.com/title/tt0164052/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Sebastian Caine"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Jeff Wright",
+        "role": "organist",
+        "title": "Geno Washington & the Ram Jam Band",
+        "source": "http://en.wikipedia.org/wiki/Geno_Washington_%26_the_Ram_Jam_Band",
+        "collaborator": "Pete Gage",
+        "collaborator_role": "guitar"
+      },
+      {
+        "name": "Pete Gage",
+        "role": "guitar",
+        "title": "Vinegar Joe",
+        "source": "https://www.discogs.com/Vinegar-Joe-Vinegar-Joe/release/1099122",
+        "collaborator": "Keef Hartley",
+        "collaborator_role": "drums"
+      },
+      {
+        "name": "Keef Hartley",
+        "role": "drums",
+        "title": "The Artwoods",
+        "source": "http://www.discogs.com/Artwoods-Singles-As-Bs/release/2807617",
+        "collaborator": "Jon Lord",
+        "collaborator_role": "keyboards"
+      },
+      {
+        "name": "Jon Lord",
+        "role": "keyboards",
+        "title": "Slide it In — Whitesnake",
+        "source": "http://en.wikipedia.org/wiki/Slide_It_In",
+        "collaborator": "Cozy Powell",
+        "collaborator_role": "drums"
+      }
+    ]
+  ]
+}
