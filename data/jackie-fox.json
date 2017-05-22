@@ -1,0 +1,128 @@
+{
+  "name": "Jackie Fox",
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Jackie_Fox"
+    },
+    {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm1219008/"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/41"
+    }
+  ],
+  "fields": [
+    {
+      "field": "law",
+      "role": "attorney"
+    },
+    {
+      "field": "music",
+      "role": "bassist, The Runaways"
+    }
+  ],
+  "bio": "Jackie Fox is an American musician and attorney, best known for playing bass guitar for the all-female rock band The Runaways. Her Erdős number is derived from her UCLA honours thesis in Linguistics.",
+  "erdos": [
+    [
+      {
+        "name": "Jacqueline Fuchs",
+        "role": "author",
+        "title": "A Restructuring Analysis of English 'To'-Contraction and Romance Clitic Placement. (UCLA Honours thesis, 1988)",
+        "source": "",
+        "collaborator": "Timothy Stowell",
+        "collaborator_role": "supervisor"
+      },
+      {
+        "name": "Timothy Stowell",
+        "role": "author",
+        "title": "Origins of phrase structure (PhD Thesis)",
+        "source": "http://dspace.mit.edu/handle/1721.1/15626",
+        "collaborator": "Noam Chomsky",
+        "collaborator_role": "supervisor"
+      },
+      {
+        "name": "Noam Chomsky",
+        "role": "author",
+        "title": "The algebraic theory of context-free languages",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=152391",
+        "collaborator": "Marcel Paul Schützenberger",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Marcel Paul Schützenberger",
+        "role": "author",
+        "title": "Jeux de Nim et solutions",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=89116",
+        "collaborator": "Claude Berge",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Claude Berge",
+        "role": "author",
+        "title": "The coloring numbers of the direct product of two hypergraphs",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=366742",
+        "collaborator": "Miklós Simonovits",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Miklós Simonovits",
+        "role": "author",
+        "title": "A limit theorem in graph theory",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=205876",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Jackie Fox",
+        "role": "self",
+        "title": "Edgeplay: A Film about The Runaways",
+        "source": "http://www.imdb.com/title/tt0216731/",
+        "collaborator": "Victory Tischler-Blue",
+        "collaborator_role": "self"
+      },
+      {
+        "name": "Victory Tischler-Blue",
+        "role": "Cindy",
+        "title": "This Is Spinal Tap",
+        "source": "http://www.imdb.com/title/tt0088258/",
+        "collaborator": "Michael McKean",
+        "collaborator_role": "David St. Hubbins"
+      },
+      {
+        "name": "Michael McKean",
+        "role": "Emmet Sumner",
+        "title": "The Big Picture",
+        "source": "http://www.imdb.com/title/tt0096926/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Nick Chapman"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Jackie Fox",
+        "role": "bass",
+        "title": "The Runaways",
+        "source": "https://en.wikipedia.org/wiki/The_Runaways",
+        "collaborator": "Lita Ford",
+        "collaborator_role": "guitar"
+      },
+      {
+        "name": "Lita Ford",
+        "role": "guitar",
+        "title": "Close My Eyes Forever",
+        "source": "https://en.wikipedia.org/wiki/Lita_(album)",
+        "collaborator": "Ozzy Osbourne",
+        "collaborator_role": "duet vocals"
+      }
+    ]
+  ]
+}
