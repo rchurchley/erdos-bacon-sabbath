@@ -1,0 +1,108 @@
+{
+  "name": "Daniel Levitin",
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Daniel_Levitin"
+    },
+    {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm3553207/"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/40"
+    }
+  ],
+  "fields": [
+    {
+      "field": "science",
+      "role": "cognitive psychologist"
+    },
+    {
+      "field": "music",
+      "role": "producer, sound designer"
+    },
+    {
+      "field": "film & TV",
+      "role": "documentary host"
+    }
+  ],
+  "bio": "Daniel Levitin is a professor of psychology and behavioral neuroscience at McGill University. He has published articles on absolute pitch and is known for his best-selling books including <i>This Is Your Brain On Music</i>. Prior to his academic career, Levitin worked as a producer, sound designer, and recording engineer.",
+  "erdos": [
+    [
+      {
+        "name": "Daniel Levitin",
+        "role": "author",
+        "title": "Introduction to functional data analysis",
+        "source": "http://dx.doi.org/10.1037/cp2007014",
+        "collaborator": "James O Ramsay",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "James O Ramsay",
+        "role": "author",
+        "title": "Matrix correlation",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=760205",
+        "collaborator": "George P H Styan",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "George P H Styan",
+        "role": "author",
+        "title": "The convergence of Markov chains with nonstationary transition probabilities and constant causative matrix",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=410924",
+        "collaborator": "Norman J Pullman",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Norman J Pullman",
+        "role": "author",
+        "title": "The difference between the clique numbers of a graph",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=790923",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Daniel Levitin",
+        "role": "self",
+        "title": "Artifact",
+        "source": "http://www.imdb.com/title/tt2370718/fullcredits",
+        "collaborator": "Annabelle Wallis",
+        "collaborator_role": "self"
+      },
+      {
+        "name": "Annabelle Wallis",
+        "role": "co-ed",
+        "title": "X-Men: First Class",
+        "source": "http://www.imdb.com/title/tt1270798/fullcredits",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Sebastian Shaw"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Daniel Levitin",
+        "role": "guitar sounds",
+        "title": "Imaginos — Blue Öyster Cult",
+        "source": "http://en.wikipedia.org/wiki/Imaginos",
+        "collaborator": "Allen Lanier",
+        "collaborator_role": "keyboards"
+      },
+      {
+        "name": "Allen Lanier",
+        "role": "keyboards, guitars",
+        "title": "A Long Day's Night — Blue Öyster Cult",
+        "source": "http://en.wikipedia.org/wiki/A_Long_Day%27s_Night",
+        "collaborator": "Bobby Rondinelli",
+        "collaborator_role": "drums"
+      }
+    ]
+  ]
+}
