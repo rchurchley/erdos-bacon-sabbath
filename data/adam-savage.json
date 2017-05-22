@@ -1,0 +1,174 @@
+{
+  "name": "Adam Savage",
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Adam_Savage"
+    },
+    {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm0767234/"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/37"
+    }
+  ],
+  "fields": [
+    {
+      "field": "science & TV",
+      "role": "<i>Mythbusters</i>"
+    },
+    {
+      "field": "industry",
+      "role": "special effects designer"
+    },
+    {
+      "field": "cosplay",
+      "role": "#AdamIncognito"
+    }
+  ],
+  "bio": "Adam Savage is a special effects artist, maker, and co-host of <i>Mythbusters</i>. In 2007, archaeologists at the University of Wyoming asked the Mythbusters for help testing the effectiveness of stone arrowheads. The experiment resulted in a segment on <i>Mythbusters</i> and an article in the archaeological journal <i>Antiquity</i>. Savage’s Bacon number comes from his cameo in <i>The Darwin Awards</i>, and his Sabbath number from performances with Paul and Storm at w00tstock.",
+  "erdos": [
+    [
+      {
+        "name": "Adam Savage",
+        "role": "author",
+        "title": "Making a point: wood- versus stone-tipped projectiles",
+        "source": "http://antiquity.ac.uk/ant/083/ant0830786.htm",
+        "collaborator": "Nicole M. Waguespack",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Nicole M. Waguespack",
+        "role": "author",
+        "title": "Global archaeological evidence for proboscidean overkill",
+        "source": "http://dx.doi.org/10.1073/pnas.0501947102",
+        "collaborator": "Paul Jeffrey Brantingham",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Paul Jeffrey Brantingham",
+        "role": "author",
+        "title": "Crime attractors, generators and detractors: land use and urban crime opportunities",
+        "source": "http://dx.doi.org/10.2148/benv.34.1.62",
+        "collaborator": "Patricia L. Brantingham",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Patricia L. Brantingham",
+        "role": "author",
+        "title": "The social impact in a high-risk community: a cellular automata model",
+        "source": "http://dx.doi.org/10.1016/j.jocs.2011.05.008",
+        "collaborator": "Peter B. Borwein",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Peter B. Borwein",
+        "role": "author",
+        "title": "Generalizations of Gonçalves’ inequality",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=2280202",
+        "collaborator": "Jeffrey D. Vaaler",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Jeffrey D. Vaaler",
+        "role": "author",
+        "title": "Multiplicative functions and small divisors",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=1018367",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Adam Savage",
+        "role": "Adam",
+        "title": "The Darwin Awards",
+        "source": "http://www.imdb.com/title/tt0428446/",
+        "collaborator": "Chris Penn",
+        "collaborator_role": "Tom"
+      },
+      {
+        "name": "Christopher Penn",
+        "role": "Willard",
+        "title": "Footloose",
+        "source": "http://www.imdb.com/title/tt0087277/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Ren"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Adam Savage",
+        "role": "vocals, piano",
+        "title": "\"The Commander Thinks Aloud\" at w00tstock 5.0",
+        "source": "https://www.youtube.com/watch?v=ecoeU00aYd0",
+        "collaborator": "Paul and Storm",
+        "collaborator_role": "vocals"
+      },
+      {
+        "name": "Paul and Storm",
+        "role": "vocals, guitar",
+        "title": "various songs in live shows",
+        "source": "https://en.wikipedia.org/wiki/Paul_and_Storm",
+        "collaborator": "Jonathan Coulton",
+        "collaborator_role": "vocals, guitar"
+      },
+      {
+        "name": "Jonathan Coulton",
+        "role": "vocals, guitar",
+        "title": "Sticking it to Myself",
+        "source": "http://en.wikipedia.org/wiki/Artificial_Heart_(album)",
+        "collaborator": "Stan Harrison",
+        "collaborator_role": "saxaphone"
+      },
+      {
+        "name": "Stan Harrison",
+        "role": "saxophone",
+        "title": "Dancing in the Street — David Bowie and Mick Jagger",
+        "source": "http://www.discogs.com/David-Bowie-Mick-Jagger-Dancing-In-The-Street/release/4797122",
+        "collaborator": "Mick Jagger",
+        "collaborator_role": "vocals"
+      },
+      {
+        "name": "Mick Jagger",
+        "role": "vocals",
+        "title": "It’s Only Rock ‘n Roll (But I Like It) — Artists for Children’s Promise",
+        "source": "http://en.wikipedia.org/wiki/It%27s_Only_Rock_%27n_Roll_(But_I_Like_It)",
+        "collaborator": "Ozzy Osbourne",
+        "collaborator_role": "vocals"
+      }
+    ],
+    [
+      {
+        "name": "Adam Savage",
+        "role": "vocals",
+        "title": "I Love The World — Discovery channel advert",
+        "source": "http://en.wikipedia.org/wiki/I_Love_the_World",
+        "collaborator": "Stephen Hawking",
+        "collaborator_role": "vocals"
+      },
+      {
+        "name": "Stephen Hawking",
+        "role": "vocal sample",
+        "title": "Keep Talking — Pink Floyd",
+        "source": "http://en.wikipedia.org/wiki/Keep_Talking",
+        "collaborator": "David Gilmour",
+        "collaborator_role": "vocals, guitar, talk box"
+      },
+      {
+        "name": "David Gilmour",
+        "role": "guitar",
+        "title": "Smoke on the Water — Rock Aid Armenia",
+        "source": "http://en.wikipedia.org/wiki/Rock_Aid_Armenia",
+        "collaborator": "Tony Iommi",
+        "collaborator_role": "guitar"
+      }
+    ]
+  ]
+}
