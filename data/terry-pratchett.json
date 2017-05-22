@@ -1,0 +1,108 @@
+{
+  "name": "Terry Pratchett",
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Terry_Pratchett"
+    },
+    {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm0695332/"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/36"
+    }
+  ],
+  "fields": [
+    {
+      "field": "fiction",
+      "role": "author, <i>Discworld</i> series"
+    }
+  ],
+  "bio": "Terry Pratchett was an English author best known for his comical fantasy series set on the <i>Discworld</i>. He was the UK's best-selling author of the 1990s and was been knighted for services to literature. As an amateur astronomer and natural history enthusiast, Pratchett often includes science jokes in his books and has written four popular science books with mathematician Ian Stewart and biologist Jack Cohen.",
+  "erdos": [
+    [
+      {
+        "name": "Terry Pratchett",
+        "role": "author",
+        "title": "The Science of Discworld",
+        "source": "http://en.wikipedia.org/wiki/The_Science_of_Discworld",
+        "collaborator": "Ian Stewart",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Ian Stewart",
+        "role": "author",
+        "title": "Hopf bifurcation in the presence of symmetry",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=752793",
+        "collaborator": "Martin A. Golubitsky",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Martin A. Golubitsky",
+        "role": "author",
+        "title": "Primitive subalgebras of exceptional Lie algebras",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=289589",
+        "collaborator": "Bruce L. Rothschild",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Bruce L. Rothschild",
+        "role": "author",
+        "title": "Euclidean Ramsey theorems",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=316277",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Terry Pratchett",
+        "role": "Astrozoologist 2",
+        "title": "The Colour of Magic",
+        "source": "http://www.imdb.com/title/tt1079959/",
+        "collaborator": "Sean Astin",
+        "collaborator_role": "Twoflower"
+      },
+      {
+        "name": "Sean Astin",
+        "role": "Alan",
+        "title": "White Water Summer",
+        "source": "http://www.imdb.com/title/tt0094318/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Vic"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Terry Pratchett",
+        "role": "narration",
+        "title": "Wintersmith — Steeleye Span",
+        "source": "http://en.wikipedia.org/wiki/Wintersmith_(Steeleye_Span_album)",
+        "collaborator": "Maddy Prior",
+        "collaborator_role": "vocals"
+      },
+      {
+        "name": "Maddy Prior",
+        "role": "backing vocals",
+        "title": "Too Old to Rock 'n' Roll: Too Young to Die — Jethro Tull",
+        "source": "http://en.wikipedia.org/wiki/Too_Old_to_Rock_%27n%27_Roll:_Too_Young_to_Die!)",
+        "collaborator": "Ian Anderson",
+        "collaborator_role": "vocals, several instruments"
+      },
+      {
+        "name": "Ian Anderson",
+        "role": "vocals, several instruments",
+        "title": "Jethro Tull (1968)",
+        "source": "http://en.wikipedia.org/wiki/Jethro_Tull_(band)",
+        "collaborator": "Tony Iommi",
+        "collaborator_role": "guitar"
+      }
+    ]
+  ]
+}
