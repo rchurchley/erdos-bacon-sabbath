@@ -1,0 +1,144 @@
+{
+  "name": "David Grinspoon",
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/David_Grinspoon"
+    },
+    {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm5111886/"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/39"
+    }
+  ],
+  "fields": [
+    {
+      "field": "science",
+      "role": "astrobiologist"
+    },
+    {
+      "field": "music",
+      "role": "guitarist, The House Band of the Universe"
+    }
+  ],
+  "bio": "David Grinspoon is an astrobiologist and principal scientist at the Planetary Science Institute. He also plays guitar and heads The House Band of the Universe.",
+  "erdos": [
+    [
+      {
+        "name": "David Grinspoon",
+        "role": "author",
+        "title": "Near-infrared light from Venus' nightside: A spectroscopic analysis",
+        "source": "http://dx.doi.org/10.1006/icar.1993.1055",
+        "collaborator": "James Pollack",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "James Pollack",
+        "role": "author",
+        "title": "Windblown dust on mars",
+        "source": "http://dx.doi.org/10.1038/223791a0",
+        "collaborator": "Carl Sagan",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Carl Sagan",
+        "role": "author",
+        "title": "Scintillation-induced intermittency in SETI",
+        "source": "http://dx.doi.org/10.1086%2f304620",
+        "collaborator": "James M. Cordes",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "James M. Cordes",
+        "role": "author",
+        "title": "A vision for petabyte data management and analysis services for the Arecibo telescope",
+        "source": "http://www.informatik.uni-trier.de/~ley/db/journals/debu/debu27.html",
+        "collaborator": "Alan J. Demers",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Alan J. Demers",
+        "role": "author",
+        "title": "Worst-case performance bounds for simple one-dimensional packing algorithms",
+        "source": "http://dx.doi.org/10.1137%2f0203025",
+        "collaborator": "Ronald Graham",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Ronald Graham",
+        "role": "author",
+        "title": "On sums of Fibonnaci numbers",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=306101",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "David Grinspoon",
+        "role": "self",
+        "title": "Weird or What S02E01",
+        "source": "http://www.imdb.com/title/tt2035435/",
+        "collaborator": "William Shatner",
+        "collaborator_role": "self"
+      },
+      {
+        "name": "William Shatner",
+        "role": "Mayor Phlegmming",
+        "title": "Osmosis Jones",
+        "source": "http://www.imdb.com/title/tt0181739/",
+        "collaborator": "Ben Stein",
+        "collaborator_role": "Doc"
+      },
+      {
+        "name": "Ben Stein",
+        "role": "Wichita Airport representative",
+        "title": "Planes, Trains, and Automobiles",
+        "source": "http://www.imdb.com/title/tt0093748/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "taxi racer"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "David Grinspoon",
+        "role": "vocals, guitar",
+        "title": "Life Out There — The House Band of the Universe",
+        "source": "http://www.westword.com/2009-10-29/calendar/spaced-out/",
+        "collaborator": "Dave Watts",
+        "collaborator_role": "drums"
+      },
+      {
+        "name": "Dave Watts",
+        "role": "drums",
+        "title": "Never Odd or Even — Kyle Hollinsworth",
+        "source": "http://en.wikipedia.org/wiki/Never_Odd_or_Even",
+        "collaborator": "Robert Randolph",
+        "collaborator_role": "pedal steel guitar"
+      },
+      {
+        "name": "Robert Randolph",
+        "role": "pedal steel guitar",
+        "title": "The Union — Elton John & Leon Russell",
+        "source": "http://en.wikipedia.org/wiki/The_Union_(Elton_John_and_Leon_Russell_album)",
+        "collaborator": "Elton John",
+        "collaborator_role": "vocals, piano"
+      },
+      {
+        "name": "Elton John",
+        "role": "vocals",
+        "title": "\"Tears in Heaven\", for tsunami victims in Southeast Asia",
+        "source": "http://en.wikipedia.org/wiki/Tears_in_Heaven",
+        "collaborator": "Ozzy Osbourne",
+        "collaborator_role": "vocals"
+      }
+    ]
+  ]
+}
