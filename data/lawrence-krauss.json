@@ -1,0 +1,158 @@
+{
+  "name": "Lawrence Krauss",
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Lawrence_M._Krauss"
+    },
+    {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm2765568/"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/35"
+    }
+  ],
+  "fields": [
+    {
+      "field": "science",
+      "role": "physicist"
+    },
+    {
+      "field": "film",
+      "role": "<i>Salt and Fire</i>"
+    },
+    {
+      "field": "outreach",
+      "role": "Origins Project interviewer"
+    }
+  ],
+  "bio": "Lawrence Krauss is a theoretical physicist and cosmologist at Arizona State University. He is an advocate of the public understanding of science and of public policy based on sound emperical data. He is the author of several bestselling books, including <i>The Physics of Star Trek</i>.",
+  "erdos": [
+    [
+      {
+        "name": "Lawrence Krauss",
+        "role": "author",
+        "title": "\"Just So\" neutrino oscillations",
+        "source": "http://dx.doi.org/10.1016/0370-2693(87)90867-7",
+        "collaborator": "Sheldon Lee Glashow",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Sheldon Lee Glashow",
+        "role": "author",
+        "title": "Mass formulas and mass inequalities for reducible unitary multiplets",
+        "source": "http://dx.doi.org/10.1103/PhysRev.135.B779",
+        "collaborator": "Daniel J. Kleitman",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Daniel J. Kleitman",
+        "role": "author",
+        "title": "On coloring graphs to maximize the proportion of multicolored k-edges",
+        "source": "http://dx.doi.org/10.1016/S0021-9800(68)80051-1",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Lawrence Krauss",
+        "role": "Krauss / Aristidis",
+        "title": "Salt and Fire",
+        "source": "http://www.imdb.com/title/tt4441150/",
+        "collaborator": "Michael Shannon",
+        "collaborator_role": "Matt Riley"
+      },
+      {
+        "name": "Michael Shannon",
+        "role": "Rosen",
+        "title": "The Woodsman",
+        "source": "http://www.imdb.com/title/tt0361127/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Walter"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Lawrence Krauss",
+        "role": "appearance",
+        "title": "Origins Project Dialogues",
+        "source": "https://asunow.asu.edu/20160313-creativity-madness-and-creativity",
+        "collaborator": "Johnny Depp",
+        "collaborator_role": "appearance"
+      },
+      {
+        "name": "Johnny Depp",
+        "role": "guitar",
+        "title": "Hollywood Vampires",
+        "source": "https://en.wikipedia.org/wiki/Hollywood_Vampires_(band)",
+        "collaborator": "Alice Cooper",
+        "collaborator_role": "vocals"
+      },
+      {
+        "name": "Alice Cooper",
+        "role": "vocals",
+        "title": "Brutal Planet",
+        "source": "https://en.wikipedia.org/wiki/Brutal_Planet",
+        "collaborator": "Eric Singer",
+        "collaborator_role": "drums"
+      }
+    ],
+    [
+      {
+        "name": "Lawrence Krauss",
+        "role": "narration",
+        "title": "The Planets",
+        "source": "http://web.archive.org/web/20100819104105/http://www.wclv.com/page.php?pageID=515",
+        "collaborator": "Cleveland Orchestra",
+        "collaborator_role": "orchestra"
+      },
+      {
+        "name": "Cleveland Orchestra",
+        "role": "orchestra",
+        "title": "Gamelan D’Drum",
+        "source": "http://www.clevelandorchestra.com/news-and-media/news-releases/2012/Sep-24-copeland-ddrum.aspx",
+        "collaborator": "D’Drum",
+        "collaborator_role": "drums"
+      },
+      {
+        "name": "D’Drum",
+        "role": "drums",
+        "title": "Gamelan D’Drum",
+        "source": "http://www.pureddrum.com/gamelan_ddrum.php",
+        "collaborator": "Stewart Copeland",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Stewart Copeland",
+        "role": "author",
+        "title": "The Police",
+        "source": "http://en.wikipedia.org/wiki/The_Police",
+        "collaborator": "Sting",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Sting",
+        "role": "author",
+        "title": "Take Me Home",
+        "source": "http://www.discogs.com/Phil-Collins-No-Jacket-Required/release/3727910",
+        "collaborator": "Phil Collins",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Phil Collins",
+        "role": "drums",
+        "title": "\"Paranoid\" at the Queen's Golden Jubilee",
+        "source": "https://en.wikipedia.org/wiki/Party_at_the_Palace",
+        "collaborator": "Ozzy Osbourne, Tony Iommi",
+        "collaborator_role": "vocals, guitar"
+      }
+    ]
+  ]
+}
