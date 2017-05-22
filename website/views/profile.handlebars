@@ -11,22 +11,22 @@
     </footer>
   </section>
   <ul class="accomplishments">
-    {{#each person.fields}}{{> field}}{{/each}}
+    {{#each person.fields}}{{> profile/field}}{{/each}}
   </ul>
   {{#if person.erdos}}
   <section class="erdos">
     <h2>Paths from {{person.name}} to Paul Erdős</h2>
-    {{#each person.erdos}} {{> collaboration_path}} {{/each}}
+    {{#each person.erdos}} {{> profile/collaboration_path}} {{/each}}
   </section>
   {{/if}} {{#if person.bacon}}
   <section class="bacon">
     <h2>Paths from {{person.name}} to Kevin Bacon</h2>
-    {{#each person.bacon}} {{> collaboration_path}} {{/each}}
+    {{#each person.bacon}} {{> profile/collaboration_path}} {{/each}}
   </section>
   {{/if}} {{#if person.sabbath}}
   <section class="sabbath">
     <h2>Paths from {{person.name}} to Black Sabbath</h2>
-    {{#each person.sabbath}} {{> collaboration_path}} {{/each}}
+    {{#each person.sabbath}} {{> profile/collaboration_path}} {{/each}}
   </section>
   {{/if}}
 </main>

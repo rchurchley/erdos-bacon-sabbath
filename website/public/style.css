@@ -27,7 +27,6 @@ main {
 
 section,
 .introduction,
-.the-list li,
 .accomplishments li {
   background-color: white;
   padding: 1rem;
@@ -37,7 +36,8 @@ section,
 section,
 .site-header,
 .introduction,
-.the-list li,
+#list_filter_input,
+#the_list li,
 .portrait,
 .profile,
 .accomplishments li {
@@ -47,7 +47,6 @@ section,
 img {
   max-width: 100%;
   height: auto;
-  border: 1px solid #d3d3e0;
 }
 
 h1,
@@ -159,7 +158,18 @@ a:visited:hover {
 /* THE LIST *
  * ======== */
 
-.the-list {
+#list_filter_input {
+  width: 100%;
+  font-size: 1.25em;
+  font-family: "Roboto Slab", sans-serif;
+  font-weight: normal;
+  background-color: rgba(16, 16, 20, 0.5);
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+}
+
+#the_list {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -168,24 +178,38 @@ a:visited:hover {
   margin-bottom: 0;
 }
 
-.the-list li {
-  background-color: #002b36;
+#the_list li {
   padding: 0;
   width: 150px;
+  line-height: 0;
 }
 
-.the-list li a,
-.the-list li a:visited,
-.the-list li a:hover,
-.the-list li a:visited:hover {
+#the_list li a,
+#the_list li a:visited,
+#the_list li a:hover,
+#the_list li a:visited:hover {
+  display:block;
   font-style: normal;
   color: white;
 }
 
-.the-list li h2 {
+#the_list li a,
+#the_list li a:hover {
+  background-color: #5e9900;
+}
+
+
+#the_list li a:visited,
+#the_list li a:visited:hover {
+  background-color: #101014;
+}
+
+
+#the_list li h2 {
   padding: 0.5rem;
   margin: 0;
   font-size: 1rem;
+  line-height: 1.4;
 }
 
 

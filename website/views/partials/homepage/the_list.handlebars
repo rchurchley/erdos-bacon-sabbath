@@ -1,0 +1,22 @@
+<input type="text" id="list_filter_input" onkeyup="filterList()" placeholder="Search...">
+<ul id="the_list">
+  {{#each people}}
+    {{> homepage/name_card}}
+  {{/each}}
+</ul>
+<script>
+  function filterList() {
+    let filter = document.getElementById('list_filter_input').value;
+    let list = document.getElementById("the_list").getElementsByTagName('li');
+    for (let i = 0; i < list.length; i++) {
+      if (matchesFilter(list[i].getElementsByTagName("h2")[0].innerHTML, filter)) {
+        list[i].style.display = "";
+      } else {
+        list[i].style.display = "none";
+      }
+    };
+  }
+  function matchesFilter(string, filter) {
+    return string.toUpperCase().indexOf(filter.toUpperCase()) > -1;
+  };
+</script>
