@@ -1,0 +1,152 @@
+{
+  "name": "Sergey Nikitin",
+  "references": [
+    {
+      "source": "Wikipedia",
+      "url": "http://en.wikipedia.org/wiki/Sergey_Nikitin_(musician)"
+    },
+    {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm0631715/"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/42"
+    }
+  ],
+  "fields": [
+    {
+      "field": "music",
+      "role": "bard"
+    },
+    {
+      "field": "science",
+      "role": "biophysicst"
+    }
+  ],
+  "bio": "Sergey Nikitin is a Soviet/Russian bard and scientist. He has worked as a biophysicist with his wife Tatyana Nikitina — both have Ph.D.s in Physics — as well as a renowned singer, creating many popular songs.",
+  "erdos": [
+    [
+      {
+        "name": "Sergey Nikitin",
+        "role": "author",
+        "title": "Ultrasound velocimetry of lysozyme solutions",
+        "source": "http://www.ncbi.nlm.nih.gov/pubmed/6472277",
+        "collaborator": "Armen P. Sarvazyan",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Armen P. Sarvazyan",
+        "role": "author",
+        "title": "Hydrational and intrinsic compressibilities of globular proteins",
+        "source": "http://www.ncbi.nlm.nih.gov/pubmed/8427927",
+        "collaborator": "Dmitry P. Kharakoz",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Dmitry P. Kharakoz",
+        "role": "author",
+        "title": "Structure and fluctuations of phosphatidylcholines in the vicinity of the main phase transition",
+        "source": "http://www.ncbi.nlm.nih.gov/pubmed/15447516",
+        "collaborator": "Georg Pabst",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Georg Pabst",
+        "role": "author",
+        "title": "Temperature driven annealing of perforations in bicellar model membranes",
+        "source": "http://www.ncbi.nlm.nih.gov/pubmed/21438512",
+        "collaborator": "Kunio Nagashima",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Kunio Nagashima",
+        "role": "author",
+        "title": "The TY3 Gag3 Spacer Controls Intracellular Condensation and Uncoating",
+        "source": "http://www.ncbi.nlm.nih.gov/pubmed/21270167",
+        "collaborator": "Pierre Baldi",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Pierre Baldi",
+        "role": "author",
+        "title": "Embeddings of Ultrametric Spaces in Finite Dimensional Structures",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=918059",
+        "collaborator": "Richard M. Wilson",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Richard M. Wilson",
+        "role": "author",
+        "title": "On 2-Designs",
+        "source": "http://www.ams.org/mathscinet-getitem?mr=784710",
+        "collaborator": "Paul Erdős",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Sergey Nikitin",
+        "role": "singer",
+        "title": "Москва слезам не верит",
+        "source": "https://en.wikipedia.org/wiki/Moscow_Does_Not_Believe_in_Tears",
+        "collaborator": "Raisa Ryazanova",
+        "collaborator_role": "Antonina"
+      },
+      {
+        "name": "Raisa Ryazanova",
+        "role": "Russian guest",
+        "title": "The Russia House",
+        "source": "http://www.imdb.com/title/tt0100530/",
+        "collaborator": "J.T. Walsh",
+        "collaborator_role": "Quinn"
+      },
+      {
+        "name": "J.T. Walsh",
+        "role": "Lt. Col. Matthew Andrew Markinson",
+        "title": "A Few Good Men",
+        "source": "http://www.imdb.com/title/tt0104257/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Capt. Jack Ross"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Sergey Nikitin",
+        "role": "composer",
+        "title": "Sur un air de Vivaldi",
+        "source": "http://rbth.com/arts/2014/02/10/russias_bards_the_singer-songwriters_of_the_peoples_feelings_34011.html",
+        "collaborator": "Paul Mauriat",
+        "collaborator_role": "arranger"
+      },
+      {
+        "name": "Paul Mauriat",
+        "role": "conductor",
+        "title": "Charles Aznavour Accompagné Par Paul Mauriat Et Son Orchestre",
+        "source": "http://www.discogs.com/Charles-Aznavour-Charles-Aznavour-Accompagné-Par-Paul-Mauriat-Et-Son-Orchestre/master/576275",
+        "collaborator": "Charles Aznavour",
+        "collaborator_role": "vocals"
+      },
+      {
+        "name": "Charles Aznavour",
+        "role": "vocals",
+        "title": "Hier encore",
+        "source": "https://fr.wikipedia.org/wiki/Duos_(album_de_Charles_Aznavour)",
+        "collaborator": "Elton John",
+        "collaborator_role": "vocals"
+      },
+      {
+        "name": "Elton John",
+        "role": "vocals",
+        "title": "\"Tears in Heaven\", for tsunami victims in Southeast Asia",
+        "source": "http://en.wikipedia.org/wiki/Tears_in_Heaven",
+        "collaborator": "Ozzy Osbourne",
+        "collaborator_role": "vocals"
+      }
+    ]
+  ]
+}
