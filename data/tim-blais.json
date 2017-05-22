@@ -1,0 +1,128 @@
+{
+  "name": "Tim Blais",
+  "references": [
+    {
+      "source": "IMDB",
+      "url": "http://www.imdb.com/name/nm7634152/"
+    },
+    {
+      "source": "Discussion",
+      "url": "https://github.com/rchurchley/erdos-bacon-sabbath/issues/44"
+    }
+  ],
+  "fields": [
+    {
+      "field": "music",
+      "role": "singer"
+    },
+    {
+      "field": "science",
+      "role": "physicist"
+    },
+    {
+      "field": "TV",
+      "role": "<i>Canada's Smartest Person</i> contestant"
+    }
+  ],
+  "bio": "Tim Blais is the founder, creator, and sole vocalist of A Capella Science, an online video project bringing together his love of science and music.",
+  "erdos": [
+    [
+      {
+        "name": "Tim Blais",
+        "role": "author",
+        "title": "A new quantization condition for parity-violating three-dimensional gravity",
+        "source": "http://www.collectionscanada.gc.ca/obj/thesescanada/vol2/QMM/TC-QMM-119487.pdf",
+        "collaborator": "Alexander Maloney",
+        "collaborator_role": "supervisor"
+      },
+      {
+        "name": "Alexander Maloney",
+        "role": "author",
+        "title": "Inflation in AdS/CFT",
+        "source": "http://iopscience.iop.org/article/10.1088/1126-6708/2006/03/007/pdf",
+        "collaborator": "Robert Charles Myers",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Robert Charles Myers",
+        "role": "author",
+        "title": "Black hole entropy and higher-curvature interactions",
+        "source": "http://journals.aps.org/prl/abstract/10.1103/PhysRevLett.70.3684",
+        "collaborator": "Theodore Jacobson",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Theodore Jacobson",
+        "role": "author",
+        "title": "Relativistic extension of the analogy between quantum mechanics and Brownian motion",
+        "source": "http://dx.doi.org/10.1103/PhysRevLett.53.419",
+        "collaborator": "Mark Kac",
+        "collaborator_role": "author"
+      },
+      {
+        "name": "Mark Kac",
+        "role": "author",
+        "title": "The Gaussian law of errors in the theory of additive number theoretic functions",
+        "source": "http://www.jstor.org/stable/2371483",
+        "collaborator": "Paul Erdos",
+        "collaborator_role": "author"
+      }
+    ]
+  ],
+  "bacon": [
+    [
+      {
+        "name": "Tim Blais",
+        "role": "self",
+        "title": "Canada's Smartest Person",
+        "source": "http://www.imdb.com/title/tt5085770/fullcredits?ref_=tt_ov_st_sm",
+        "collaborator": "Mary Walsh",
+        "collaborator_role": "self"
+      },
+      {
+        "name": "Mary Walsh",
+        "role": "Anna",
+        "title": "Behind the Red Door",
+        "source": "http://www.imdb.com/title/tt0282891/",
+        "collaborator": "Kyra Sedgwick",
+        "collaborator_role": "Natalie"
+      },
+      {
+        "name": "Kyra Sedgwick",
+        "role": "Dispatch (voice)",
+        "title": "Cop Car",
+        "source": "http://www.imdb.com/title/tt3813310/",
+        "collaborator": "Kevin Bacon",
+        "collaborator_role": "Sheriff Kretzer"
+      }
+    ]
+  ],
+  "sabbath": [
+    [
+      {
+        "name": "Tim Blais",
+        "role": "vocals",
+        "title": "She Blinded Me With A Capella Science",
+        "source": "https://www.youtube.com/watch?v=A5NIQrmvPIM",
+        "collaborator": "Thomas Dolby",
+        "collaborator_role": "vocals"
+      },
+      {
+        "name": "Thomas Dolby",
+        "role": "keyboards, vocals",
+        "title": "Astronauts & Heretics",
+        "source": "https://en.wikipedia.org/wiki/Astronauts_%26_Heretics",
+        "collaborator": "Eddie Van Halen",
+        "collaborator_role": "guitar"
+      },
+      {
+        "name": "Eddie Van Halen",
+        "role": "guitar riff",
+        "title": "Evil Eye",
+        "source": "https://en.wikipedia.org/wiki/Cross_Purposes",
+        "collaborator": "Black Sabbath",
+        "collaborator_role": "band"
+      }
+    ]
+  ]
+}
